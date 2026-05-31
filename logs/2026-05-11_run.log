@@ -1,0 +1,13 @@
+[2026-05-11 15:02:41] PARSE RAW: start parse_document_content
+[2026-05-11 15:07:29] PARSE RAW DONE: docs_with_html=308, docs_parsed=308, rows=1232
+[2026-05-11 15:07:29] PARSE RAW STATUS: parsed_ok_rows=0, parsed_partial_rows=1232
+[2026-05-11 15:07:29] PARSE RAW OUTPUT: D:\Do an DS108\data\interim\parsed_event_prices_raw.csv
+[2026-05-11 15:19:22] PARSE RAW BLOCK: start parse_document_content
+[2026-05-11 15:27:32] PARSE RAW BLOCK: start parse_document_content
+[2026-05-11 15:28:11] PARSE RAW BLOCK DONE: docs_with_html=308, docs_parsed=308, rows=1232
+[2026-05-11 15:28:11] PARSE RAW BLOCK STATUS: parsed_ok_rows=0, parsed_partial_rows=1232
+[2026-05-11 15:28:11] PARSE RAW BLOCK OUTPUT: D:\Do an DS108\data\interim\parsed_event_prices_raw.csv
+[2026-05-11 16:25:36] PARSE RAW HYBRID: start parse_document_content
+[2026-05-11 16:26:24] PARSE RAW HYBRID DONE: docs_with_html=308, docs_parsed=308, rows=1232
+[2026-05-11 16:26:24] PARSE RAW HYBRID STATUS: parsed_ok_rows=490, parsed_partial_rows=742
+[2026-05-11 16:26:24] PARSE RAW HYBRID OUTPUT: D:\Do an DS108\data\interim\parsed_event_prices_raw.csv

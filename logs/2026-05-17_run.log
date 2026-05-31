@@ -1,0 +1,4 @@
+[2026-05-17 00:12:01] STRUCTURAL RECOVERY: start
+[2026-05-17 16:28:37] PARSE RAW v4: start
+[2026-05-17 16:33:48] PARSE RAW v4 DONE: docs_with_html=308, docs_parsed=303, rows=1213, ok=691, partial=522
+[2026-05-17 16:33:48] PARSE RAW v4 OUTPUT: D:\Do an DS108\data\interim\parsed_event_prices_raw.csv

@@ -1,0 +1,21 @@
+# Debug / audit scripts
+src/audit_parse_missing.py
+src/coverage_repair_discovery.py
+src/inspect_parse_blocks.py
+src/test_parse_registry.py
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Raw HTML
+data/raw/documents/
+
+# Environment
+.env
+venv/
+.venv/
+
+# OS
+.DS_Store
+Thumbs.db

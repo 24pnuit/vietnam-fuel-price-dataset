@@ -1,0 +1,25 @@
+[2026-05-26 09:17:09] PARSE v18 (EtLT+SemanticTable+BulletRegex+HTMLBlockSlicing+FuzzyMatch): start
+[2026-05-26 09:17:55] PARSE v18 DONE: docs_with_html=308, docs_parsed=307, rows=1223, ok=1119, partial=104
+[2026-05-26 09:17:55] PARSE v18 METHOD: table_rows=1222, text_only=1
+[2026-05-26 09:17:55] PARSE v18 BOG: policy_contrib=244, policy_spend=154
+[2026-05-26 09:17:55] PARSE v18 OUTPUT: D:\Do an DS108\data\interim\parsed_event_prices_raw.csv
+[2026-05-26 09:57:27] PARSE v18 (EtLT+SemanticTable+BulletRegex+HTMLBlockSlicing+FuzzyMatch): start
+[2026-05-26 09:58:11] PARSE v18 DONE: docs_with_html=308, docs_parsed=307, rows=1223, ok=1122, partial=101
+[2026-05-26 09:58:11] PARSE v18 METHOD: table_rows=1222, text_only=1
+[2026-05-26 09:58:11] PARSE v18 BOG: policy_contrib=243, policy_spend=153
+[2026-05-26 09:58:11] PARSE v18 OUTPUT: D:\Do an DS108\data\interim\parsed_event_prices_raw.csv
+[2026-05-26 10:53:16] PARSE v19 (EtLT+SemanticTable+HTMLBlockSlicing+FuzzyMatch+CharFragFix): start
+[2026-05-26 10:54:02] PARSE v19 DONE: docs_with_html=308, docs_parsed=307, rows=1222, ok=0, partial=1222
+[2026-05-26 10:54:02] PARSE v19 METHOD: table_rows=1222, text_only=0
+[2026-05-26 10:54:02] PARSE v19 BOG: policy_contrib=0, policy_spend=0
+[2026-05-26 10:54:02] PARSE v19 OUTPUT: D:\Do an DS108\data\interim\parsed_event_prices_raw.csv
+[2026-05-26 10:55:46] PARSE v18 (EtLT+SemanticTable+BulletRegex+HTMLBlockSlicing+FuzzyMatch): start
+[2026-05-26 10:56:45] PARSE v18 DONE: docs_with_html=308, docs_parsed=307, rows=1223, ok=1122, partial=101
+[2026-05-26 10:56:45] PARSE v18 METHOD: table_rows=1222, text_only=1
+[2026-05-26 10:56:45] PARSE v18 BOG: policy_contrib=243, policy_spend=153
+[2026-05-26 10:56:45] PARSE v18 OUTPUT: D:\Do an DS108\data\interim\parsed_event_prices_raw.csv
+[2026-05-26 11:00:34] PARSE v20 (EtLT+SemanticTable+HTMLBlockSlicing+FuzzyMatch+CharFragFix+RemapGuard): start
+[2026-05-26 11:01:37] PARSE v20 DONE: docs_with_html=308, docs_parsed=307, rows=1222, ok=1178, partial=44
+[2026-05-26 11:01:37] PARSE v20 METHOD: table_rows=1222, text_only=0
+[2026-05-26 11:01:37] PARSE v20 BOG: policy_contrib=263, policy_spend=171
+[2026-05-26 11:01:37] PARSE v20 OUTPUT: D:\Do an DS108\data\interim\parsed_event_prices_raw.csv
