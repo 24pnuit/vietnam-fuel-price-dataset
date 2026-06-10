@@ -1,9 +1,0 @@
-[2026-05-22 09:24:28] PARSE RAW v6 (EtLT+SemanticTable+BulletRegex): start
-[2026-05-22 09:28:19] PARSE RAW v6 DONE: docs_with_html=308, docs_parsed=307, rows=1226, ok=734, partial=492, table_rows=1221
-[2026-05-22 09:28:19] PARSE RAW v6 OUTPUT: D:\Do an DS108\data\interim\parsed_event_prices_raw.csv
-[2026-05-22 23:51:51] PARSE v7 (EtLT+SemanticTable+BulletRegex+BrokenLineNorm): start
-[2026-05-22 23:53:34] PARSE v7 (EtLT+SemanticTable+BulletRegex+BrokenLineNorm): start
-[2026-05-22 23:57:59] PARSE v7 DONE: docs_with_html=308, docs_parsed=307, rows=1229, ok=873, partial=356
-[2026-05-22 23:57:59] PARSE v7 METHOD: table_rows=1221, text_only=8
-[2026-05-22 23:57:59] PARSE v7 BOG: policy_contrib=228, policy_spend=140
-[2026-05-22 23:57:59] PARSE v7 OUTPUT: D:\Do an DS108\data\interim\parsed_event_prices_raw.csv
