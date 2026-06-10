@@ -1,0 +1,6 @@
+(
+echo logs/
+echo __pycache__/
+echo *.pyc
+echo *.log
+) > .gitignore
