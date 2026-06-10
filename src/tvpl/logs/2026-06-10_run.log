@@ -1,0 +1,1646 @@
+[2026-06-10 11:52:21] DISCOVERY: start
+[2026-06-10 11:52:21] DISCOVERY: lần đầu - crawl toàn bộ
+[2026-06-10 11:52:21] DISCOVERY: existing URLs = 0
+[2026-06-10 11:52:25] DISCOVERY: page=1 | https://thuvienphapluat.vn/page/tim-van-ban.aspx?keyword=%C4%91i%E1%BB%81u+h%C3%A0nh&area=0&type=3&status=0&lan=1&org=0&signer=0&match=True&sort=1&bdate=20%2F04%2F1946&edate=21%2F04%2F2026&page=1
+[2026-06-10 11:52:34] PAGE_TITLE=Chờ một chút...
+[2026-06-10 11:52:34] BODY_PREVIEW=thuvienphapluat.vn | Thực hiện xác minh bảo mật | Trang web này sử dụng dịch vụ bảo mật để chống bot độc hại. Trang này hiển thị trong khi trang web xác minh bạn không phải là bot. | Ray ID: a095c43d1825585b | Hiệu suất và Tính bảo mật của Cloudflare | Quyền riêng tư
+[2026-06-10 11:52:34] SAVED_SEARCH_HTML=C:\Users\Admin\vietnam-fuel-price-dataset\data\raw\search_pages\update_page_001.html
+[2026-06-10 11:52:34] PAGE_STATUS=blocked
+[2026-06-10 11:52:34] DISCOVERY: gặp captcha — đang chờ bạn giải trong Chrome...
+[2026-06-10 11:52:45] CAPTCHA WAIT 5s — status=ok
+[2026-06-10 11:52:45] DISCOVERY: captcha đã giải, tiếp tục...
+[2026-06-10 11:52:45] DISCOVERY: page 1 → 19 found, 0 đã có, 19 mới
+[2026-06-10 11:52:45] DISCOVERY: page=2 | https://thuvienphapluat.vn/page/tim-van-ban.aspx?keyword=%C4%91i%E1%BB%81u+h%C3%A0nh&area=0&type=3&status=0&lan=1&org=0&signer=0&match=True&sort=1&bdate=20%2F04%2F1946&edate=21%2F04%2F2026&page=2
+[2026-06-10 11:52:54] PAGE_TITLE=Tra cứu Công Văn điều hành
+[2026-06-10 11:52:54] BODY_PREVIEW=THƯ VIỆN PHÁP LUẬT | Trang Thông tin điện tử tổng hợp | ...loại rủi ro pháp lý, nắm cơ hội làm giàu... | Các gói dịch vụ | Chính sách Pháp luật mới | Pháp Luật | Liên hệ |  Danh mục    | Sơ đồ WebSite   Giới thiệu  Hướng dẫn sử dụng   Rss   Homepage    Widget | Tra cứu Công Văn điều hành | Từ khoá: Số Hiệu, Tiêu đề hoặ
+[2026-06-10 11:52:54] SAVED_SEARCH_HTML=C:\Users\Admin\vietnam-fuel-price-dataset\data\raw\search_pages\update_page_002.html
+[2026-06-10 11:52:54] PAGE_STATUS=ok
+[2026-06-10 11:52:54] DISCOVERY: page 2 → 20 found, 0 đã có, 20 mới
+[2026-06-10 11:52:54] DISCOVERY: page=3 | https://thuvienphapluat.vn/page/tim-van-ban.aspx?keyword=%C4%91i%E1%BB%81u+h%C3%A0nh&area=0&type=3&status=0&lan=1&org=0&signer=0&match=True&sort=1&bdate=20%2F04%2F1946&edate=21%2F04%2F2026&page=3
+[2026-06-10 11:53:00] PAGE_TITLE=Tra cứu Công Văn điều hành
+[2026-06-10 11:53:00] BODY_PREVIEW=THƯ VIỆN PHÁP LUẬT | Trang Thông tin điện tử tổng hợp | ...loại rủi ro pháp lý, nắm cơ hội làm giàu... | Các gói dịch vụ | Chính sách Pháp luật mới | Pháp Luật | Liên hệ |  Danh mục    | Sơ đồ WebSite   Giới thiệu  Hướng dẫn sử dụng   Rss   Homepage    Widget | Tra cứu Công Văn điều hành | Từ khoá: Số Hiệu, Tiêu đề hoặ
+[2026-06-10 11:53:00] SAVED_SEARCH_HTML=C:\Users\Admin\vietnam-fuel-price-dataset\data\raw\search_pages\update_page_003.html
+[2026-06-10 11:53:00] PAGE_STATUS=ok
+[2026-06-10 11:53:00] DISCOVERY: page 3 → 20 found, 0 đã có, 20 mới
+[2026-06-10 11:53:00] DISCOVERY: page=4 | https://thuvienphapluat.vn/page/tim-van-ban.aspx?keyword=%C4%91i%E1%BB%81u+h%C3%A0nh&area=0&type=3&status=0&lan=1&org=0&signer=0&match=True&sort=1&bdate=20%2F04%2F1946&edate=21%2F04%2F2026&page=4
+[2026-06-10 11:53:10] PAGE_TITLE=Tra cứu Công Văn điều hành
+[2026-06-10 11:53:10] BODY_PREVIEW=THƯ VIỆN PHÁP LUẬT | Trang Thông tin điện tử tổng hợp | ...loại rủi ro pháp lý, nắm cơ hội làm giàu... | Các gói dịch vụ | Chính sách Pháp luật mới | Pháp Luật | Liên hệ |  Danh mục    | Sơ đồ WebSite   Giới thiệu  Hướng dẫn sử dụng   Rss   Homepage    Widget | Tra cứu Công Văn điều hành | Từ khoá: Số Hiệu, Tiêu đề hoặ
+[2026-06-10 11:53:10] SAVED_SEARCH_HTML=C:\Users\Admin\vietnam-fuel-price-dataset\data\raw\search_pages\update_page_004.html
+[2026-06-10 11:53:10] PAGE_STATUS=ok
+[2026-06-10 11:53:10] DISCOVERY: page 4 → 19 found, 0 đã có, 19 mới
+[2026-06-10 11:53:10] DISCOVERY: page=5 | https://thuvienphapluat.vn/page/tim-van-ban.aspx?keyword=%C4%91i%E1%BB%81u+h%C3%A0nh&area=0&type=3&status=0&lan=1&org=0&signer=0&match=True&sort=1&bdate=20%2F04%2F1946&edate=21%2F04%2F2026&page=5
+[2026-06-10 11:53:17] PAGE_TITLE=Tra cứu Công Văn điều hành
+[2026-06-10 11:53:17] BODY_PREVIEW=THƯ VIỆN PHÁP LUẬT | Trang Thông tin điện tử tổng hợp | ...loại rủi ro pháp lý, nắm cơ hội làm giàu... | Các gói dịch vụ | Chính sách Pháp luật mới | Pháp Luật | Liên hệ |  Danh mục    | Sơ đồ WebSite   Giới thiệu  Hướng dẫn sử dụng   Rss   Homepage    Widget | Tra cứu Công Văn điều hành | Từ khoá: Số Hiệu, Tiêu đề hoặ
+[2026-06-10 11:53:17] SAVED_SEARCH_HTML=C:\Users\Admin\vietnam-fuel-price-dataset\data\raw\search_pages\update_page_005.html
+[2026-06-10 11:53:17] PAGE_STATUS=ok
+[2026-06-10 11:53:17] DISCOVERY: page 5 → 20 found, 0 đã có, 20 mới
+[2026-06-10 11:53:17] DISCOVERY: page=6 | https://thuvienphapluat.vn/page/tim-van-ban.aspx?keyword=%C4%91i%E1%BB%81u+h%C3%A0nh&area=0&type=3&status=0&lan=1&org=0&signer=0&match=True&sort=1&bdate=20%2F04%2F1946&edate=21%2F04%2F2026&page=6
+[2026-06-10 11:53:26] PAGE_TITLE=Tra cứu Công Văn điều hành
+[2026-06-10 11:53:26] BODY_PREVIEW=THƯ VIỆN PHÁP LUẬT | Trang Thông tin điện tử tổng hợp | ...loại rủi ro pháp lý, nắm cơ hội làm giàu... | Các gói dịch vụ | Chính sách Pháp luật mới | Pháp Luật | Liên hệ |  Danh mục    | Sơ đồ WebSite   Giới thiệu  Hướng dẫn sử dụng   Rss   Homepage    Widget | Tra cứu Công Văn điều hành | Từ khoá: Số Hiệu, Tiêu đề hoặ
+[2026-06-10 11:53:26] SAVED_SEARCH_HTML=C:\Users\Admin\vietnam-fuel-price-dataset\data\raw\search_pages\update_page_006.html
+[2026-06-10 11:53:26] PAGE_STATUS=ok
+[2026-06-10 11:53:26] DISCOVERY: page 6 → 19 found, 0 đã có, 19 mới
+[2026-06-10 11:53:26] DISCOVERY: page=7 | https://thuvienphapluat.vn/page/tim-van-ban.aspx?keyword=%C4%91i%E1%BB%81u+h%C3%A0nh&area=0&type=3&status=0&lan=1&org=0&signer=0&match=True&sort=1&bdate=20%2F04%2F1946&edate=21%2F04%2F2026&page=7
+[2026-06-10 11:53:36] PAGE_TITLE=Tra cứu Công Văn điều hành
+[2026-06-10 11:53:36] BODY_PREVIEW=THƯ VIỆN PHÁP LUẬT | Trang Thông tin điện tử tổng hợp | ...loại rủi ro pháp lý, nắm cơ hội làm giàu... | Các gói dịch vụ | Chính sách Pháp luật mới | Pháp Luật | Liên hệ |  Danh mục    | Sơ đồ WebSite   Giới thiệu  Hướng dẫn sử dụng   Rss   Homepage    Widget | Tra cứu Công Văn điều hành | Từ khoá: Số Hiệu, Tiêu đề hoặ
+[2026-06-10 11:53:36] SAVED_SEARCH_HTML=C:\Users\Admin\vietnam-fuel-price-dataset\data\raw\search_pages\update_page_007.html
+[2026-06-10 11:53:36] PAGE_STATUS=ok
+[2026-06-10 11:53:36] DISCOVERY: page 7 → 17 found, 0 đã có, 17 mới
+[2026-06-10 11:53:36] DISCOVERY: page=8 | https://thuvienphapluat.vn/page/tim-van-ban.aspx?keyword=%C4%91i%E1%BB%81u+h%C3%A0nh&area=0&type=3&status=0&lan=1&org=0&signer=0&match=True&sort=1&bdate=20%2F04%2F1946&edate=21%2F04%2F2026&page=8
+[2026-06-10 11:53:43] PAGE_TITLE=Tra cứu Công Văn điều hành
+[2026-06-10 11:53:43] BODY_PREVIEW=THƯ VIỆN PHÁP LUẬT | Trang Thông tin điện tử tổng hợp | ...loại rủi ro pháp lý, nắm cơ hội làm giàu... | Các gói dịch vụ | Chính sách Pháp luật mới | Pháp Luật | Liên hệ |  Danh mục    | Sơ đồ WebSite   Giới thiệu  Hướng dẫn sử dụng   Rss   Homepage    Widget | Tra cứu Công Văn điều hành | Từ khoá: Số Hiệu, Tiêu đề hoặ
+[2026-06-10 11:53:43] SAVED_SEARCH_HTML=C:\Users\Admin\vietnam-fuel-price-dataset\data\raw\search_pages\update_page_008.html
+[2026-06-10 11:53:43] PAGE_STATUS=ok
+[2026-06-10 11:53:44] DISCOVERY: page 8 → 16 found, 0 đã có, 16 mới
+[2026-06-10 11:53:44] DISCOVERY: page=9 | https://thuvienphapluat.vn/page/tim-van-ban.aspx?keyword=%C4%91i%E1%BB%81u+h%C3%A0nh&area=0&type=3&status=0&lan=1&org=0&signer=0&match=True&sort=1&bdate=20%2F04%2F1946&edate=21%2F04%2F2026&page=9
+[2026-06-10 11:53:52] PAGE_TITLE=Tra cứu Công Văn điều hành
+[2026-06-10 11:53:52] BODY_PREVIEW=THƯ VIỆN PHÁP LUẬT | Trang Thông tin điện tử tổng hợp | ...loại rủi ro pháp lý, nắm cơ hội làm giàu... | Các gói dịch vụ | Chính sách Pháp luật mới | Pháp Luật | Liên hệ |  Danh mục    | Sơ đồ WebSite   Giới thiệu  Hướng dẫn sử dụng   Rss   Homepage    Widget | Tra cứu Công Văn điều hành | Từ khoá: Số Hiệu, Tiêu đề hoặ
+[2026-06-10 11:53:52] SAVED_SEARCH_HTML=C:\Users\Admin\vietnam-fuel-price-dataset\data\raw\search_pages\update_page_009.html
+[2026-06-10 11:53:52] PAGE_STATUS=ok
+[2026-06-10 11:53:52] DISCOVERY: page 9 → 10 found, 0 đã có, 10 mới
+[2026-06-10 11:53:52] DISCOVERY: page=10 | https://thuvienphapluat.vn/page/tim-van-ban.aspx?keyword=%C4%91i%E1%BB%81u+h%C3%A0nh&area=0&type=3&status=0&lan=1&org=0&signer=0&match=True&sort=1&bdate=20%2F04%2F1946&edate=21%2F04%2F2026&page=10
+[2026-06-10 11:54:02] PAGE_TITLE=Tra cứu Công Văn điều hành
+[2026-06-10 11:54:02] BODY_PREVIEW=THƯ VIỆN PHÁP LUẬT | Trang Thông tin điện tử tổng hợp | ...loại rủi ro pháp lý, nắm cơ hội làm giàu... | Các gói dịch vụ | Chính sách Pháp luật mới | Pháp Luật | Liên hệ |  Danh mục    | Sơ đồ WebSite   Giới thiệu  Hướng dẫn sử dụng   Rss   Homepage    Widget | Tra cứu Công Văn điều hành | Từ khoá: Số Hiệu, Tiêu đề hoặ
+[2026-06-10 11:54:02] SAVED_SEARCH_HTML=C:\Users\Admin\vietnam-fuel-price-dataset\data\raw\search_pages\update_page_010.html
+[2026-06-10 11:54:02] PAGE_STATUS=ok
+[2026-06-10 11:54:02] DISCOVERY: page 10 → 15 found, 0 đã có, 15 mới
+[2026-06-10 11:54:02] DISCOVERY: page=11 | https://thuvienphapluat.vn/page/tim-van-ban.aspx?keyword=%C4%91i%E1%BB%81u+h%C3%A0nh&area=0&type=3&status=0&lan=1&org=0&signer=0&match=True&sort=1&bdate=20%2F04%2F1946&edate=21%2F04%2F2026&page=11
+[2026-06-10 11:54:12] PAGE_TITLE=Tra cứu Công Văn điều hành
+[2026-06-10 11:54:12] BODY_PREVIEW=THƯ VIỆN PHÁP LUẬT | Trang Thông tin điện tử tổng hợp | ...loại rủi ro pháp lý, nắm cơ hội làm giàu... | Các gói dịch vụ | Chính sách Pháp luật mới | Pháp Luật | Liên hệ |  Danh mục    | Sơ đồ WebSite   Giới thiệu  Hướng dẫn sử dụng   Rss   Homepage    Widget | Tra cứu Công Văn điều hành | Từ khoá: Số Hiệu, Tiêu đề hoặ
+[2026-06-10 11:54:12] SAVED_SEARCH_HTML=C:\Users\Admin\vietnam-fuel-price-dataset\data\raw\search_pages\update_page_011.html
+[2026-06-10 11:54:12] PAGE_STATUS=ok
+[2026-06-10 11:54:12] DISCOVERY: page 11 → 17 found, 0 đã có, 17 mới
+[2026-06-10 11:54:12] DISCOVERY: page=12 | https://thuvienphapluat.vn/page/tim-van-ban.aspx?keyword=%C4%91i%E1%BB%81u+h%C3%A0nh&area=0&type=3&status=0&lan=1&org=0&signer=0&match=True&sort=1&bdate=20%2F04%2F1946&edate=21%2F04%2F2026&page=12
+[2026-06-10 11:54:17] PAGE_TITLE=Tra cứu Công Văn điều hành
+[2026-06-10 11:54:17] BODY_PREVIEW=THƯ VIỆN PHÁP LUẬT | Trang Thông tin điện tử tổng hợp | ...loại rủi ro pháp lý, nắm cơ hội làm giàu... | Các gói dịch vụ | Chính sách Pháp luật mới | Pháp Luật | Liên hệ |  Danh mục    | Sơ đồ WebSite   Giới thiệu  Hướng dẫn sử dụng   Rss   Homepage    Widget | Tra cứu Công Văn điều hành | Từ khoá: Số Hiệu, Tiêu đề hoặ
+[2026-06-10 11:54:17] SAVED_SEARCH_HTML=C:\Users\Admin\vietnam-fuel-price-dataset\data\raw\search_pages\update_page_012.html
+[2026-06-10 11:54:17] PAGE_STATUS=ok
+[2026-06-10 11:54:18] DISCOVERY: page 12 → 13 found, 0 đã có, 13 mới
+[2026-06-10 11:54:18] DISCOVERY: page=13 | https://thuvienphapluat.vn/page/tim-van-ban.aspx?keyword=%C4%91i%E1%BB%81u+h%C3%A0nh&area=0&type=3&status=0&lan=1&org=0&signer=0&match=True&sort=1&bdate=20%2F04%2F1946&edate=21%2F04%2F2026&page=13
+[2026-06-10 11:54:24] PAGE_TITLE=Tra cứu Công Văn điều hành
+[2026-06-10 11:54:24] BODY_PREVIEW=THƯ VIỆN PHÁP LUẬT | Trang Thông tin điện tử tổng hợp | ...loại rủi ro pháp lý, nắm cơ hội làm giàu... | Các gói dịch vụ | Chính sách Pháp luật mới | Pháp Luật | Liên hệ |  Danh mục    | Sơ đồ WebSite   Giới thiệu  Hướng dẫn sử dụng   Rss   Homepage    Widget | Tra cứu Công Văn điều hành | Từ khoá: Số Hiệu, Tiêu đề hoặ
+[2026-06-10 11:54:24] SAVED_SEARCH_HTML=C:\Users\Admin\vietnam-fuel-price-dataset\data\raw\search_pages\update_page_013.html
+[2026-06-10 11:54:24] PAGE_STATUS=ok
+[2026-06-10 11:54:24] DISCOVERY: page 13 → 16 found, 0 đã có, 16 mới
+[2026-06-10 11:54:24] DISCOVERY: page=14 | https://thuvienphapluat.vn/page/tim-van-ban.aspx?keyword=%C4%91i%E1%BB%81u+h%C3%A0nh&area=0&type=3&status=0&lan=1&org=0&signer=0&match=True&sort=1&bdate=20%2F04%2F1946&edate=21%2F04%2F2026&page=14
+[2026-06-10 11:54:30] PAGE_TITLE=Tra cứu Công Văn điều hành
+[2026-06-10 11:54:30] BODY_PREVIEW=THƯ VIỆN PHÁP LUẬT | Trang Thông tin điện tử tổng hợp | ...loại rủi ro pháp lý, nắm cơ hội làm giàu... | Các gói dịch vụ | Chính sách Pháp luật mới | Pháp Luật | Liên hệ |  Danh mục    | Sơ đồ WebSite   Giới thiệu  Hướng dẫn sử dụng   Rss   Homepage    Widget | Tra cứu Công Văn điều hành | Từ khoá: Số Hiệu, Tiêu đề hoặ
+[2026-06-10 11:54:30] SAVED_SEARCH_HTML=C:\Users\Admin\vietnam-fuel-price-dataset\data\raw\search_pages\update_page_014.html
+[2026-06-10 11:54:30] PAGE_STATUS=ok
+[2026-06-10 11:54:30] DISCOVERY: page 14 → 10 found, 0 đã có, 10 mới
+[2026-06-10 11:54:30] DISCOVERY: page=15 | https://thuvienphapluat.vn/page/tim-van-ban.aspx?keyword=%C4%91i%E1%BB%81u+h%C3%A0nh&area=0&type=3&status=0&lan=1&org=0&signer=0&match=True&sort=1&bdate=20%2F04%2F1946&edate=21%2F04%2F2026&page=15
+[2026-06-10 11:54:37] PAGE_TITLE=Tra cứu Công Văn điều hành
+[2026-06-10 11:54:37] BODY_PREVIEW=THƯ VIỆN PHÁP LUẬT | Trang Thông tin điện tử tổng hợp | ...loại rủi ro pháp lý, nắm cơ hội làm giàu... | Các gói dịch vụ | Chính sách Pháp luật mới | Pháp Luật | Liên hệ |  Danh mục    | Sơ đồ WebSite   Giới thiệu  Hướng dẫn sử dụng   Rss   Homepage    Widget | Tra cứu Công Văn điều hành | Từ khoá: Số Hiệu, Tiêu đề hoặ
+[2026-06-10 11:54:37] SAVED_SEARCH_HTML=C:\Users\Admin\vietnam-fuel-price-dataset\data\raw\search_pages\update_page_015.html
+[2026-06-10 11:54:37] PAGE_STATUS=ok
+[2026-06-10 11:54:37] DISCOVERY: page 15 → 13 found, 0 đã có, 13 mới
+[2026-06-10 11:54:37] DISCOVERY: page=16 | https://thuvienphapluat.vn/page/tim-van-ban.aspx?keyword=%C4%91i%E1%BB%81u+h%C3%A0nh&area=0&type=3&status=0&lan=1&org=0&signer=0&match=True&sort=1&bdate=20%2F04%2F1946&edate=21%2F04%2F2026&page=16
+[2026-06-10 11:54:44] PAGE_TITLE=Tra cứu Công Văn điều hành
+[2026-06-10 11:54:44] BODY_PREVIEW=THƯ VIỆN PHÁP LUẬT | Trang Thông tin điện tử tổng hợp | ...loại rủi ro pháp lý, nắm cơ hội làm giàu... | Các gói dịch vụ | Chính sách Pháp luật mới | Pháp Luật | Liên hệ |  Danh mục    | Sơ đồ WebSite   Giới thiệu  Hướng dẫn sử dụng   Rss   Homepage    Widget | Tra cứu Công Văn điều hành | Từ khoá: Số Hiệu, Tiêu đề hoặ
+[2026-06-10 11:54:44] SAVED_SEARCH_HTML=C:\Users\Admin\vietnam-fuel-price-dataset\data\raw\search_pages\update_page_016.html
+[2026-06-10 11:54:44] PAGE_STATUS=ok
+[2026-06-10 11:54:44] DISCOVERY: page 16 → 13 found, 0 đã có, 13 mới
+[2026-06-10 11:54:44] DISCOVERY: page=17 | https://thuvienphapluat.vn/page/tim-van-ban.aspx?keyword=%C4%91i%E1%BB%81u+h%C3%A0nh&area=0&type=3&status=0&lan=1&org=0&signer=0&match=True&sort=1&bdate=20%2F04%2F1946&edate=21%2F04%2F2026&page=17
+[2026-06-10 11:54:51] PAGE_TITLE=Tra cứu Công Văn điều hành
+[2026-06-10 11:54:51] BODY_PREVIEW=THƯ VIỆN PHÁP LUẬT | Trang Thông tin điện tử tổng hợp | ...loại rủi ro pháp lý, nắm cơ hội làm giàu... | Các gói dịch vụ | Chính sách Pháp luật mới | Pháp Luật | Liên hệ |  Danh mục    | Sơ đồ WebSite   Giới thiệu  Hướng dẫn sử dụng   Rss   Homepage    Widget | Tra cứu Công Văn điều hành | Từ khoá: Số Hiệu, Tiêu đề hoặ
+[2026-06-10 11:54:51] SAVED_SEARCH_HTML=C:\Users\Admin\vietnam-fuel-price-dataset\data\raw\search_pages\update_page_017.html
+[2026-06-10 11:54:51] PAGE_STATUS=ok
+[2026-06-10 11:54:51] DISCOVERY: page 17 → 12 found, 0 đã có, 12 mới
+[2026-06-10 11:54:51] DISCOVERY: page=18 | https://thuvienphapluat.vn/page/tim-van-ban.aspx?keyword=%C4%91i%E1%BB%81u+h%C3%A0nh&area=0&type=3&status=0&lan=1&org=0&signer=0&match=True&sort=1&bdate=20%2F04%2F1946&edate=21%2F04%2F2026&page=18
+[2026-06-10 11:54:58] PAGE_TITLE=Tra cứu Công Văn điều hành
+[2026-06-10 11:54:58] BODY_PREVIEW=THƯ VIỆN PHÁP LUẬT | Trang Thông tin điện tử tổng hợp | ...loại rủi ro pháp lý, nắm cơ hội làm giàu... | Các gói dịch vụ | Chính sách Pháp luật mới | Pháp Luật | Liên hệ |  Danh mục    | Sơ đồ WebSite   Giới thiệu  Hướng dẫn sử dụng   Rss   Homepage    Widget | Tra cứu Công Văn điều hành | Từ khoá: Số Hiệu, Tiêu đề hoặ
+[2026-06-10 11:54:58] SAVED_SEARCH_HTML=C:\Users\Admin\vietnam-fuel-price-dataset\data\raw\search_pages\update_page_018.html
+[2026-06-10 11:54:58] PAGE_STATUS=ok
+[2026-06-10 11:54:58] DISCOVERY: page 18 → 13 found, 0 đã có, 13 mới
+[2026-06-10 11:54:58] DISCOVERY: page=19 | https://thuvienphapluat.vn/page/tim-van-ban.aspx?keyword=%C4%91i%E1%BB%81u+h%C3%A0nh&area=0&type=3&status=0&lan=1&org=0&signer=0&match=True&sort=1&bdate=20%2F04%2F1946&edate=21%2F04%2F2026&page=19
+[2026-06-10 11:55:03] PAGE_TITLE=Tra cứu Công Văn điều hành
+[2026-06-10 11:55:03] BODY_PREVIEW=THƯ VIỆN PHÁP LUẬT | Trang Thông tin điện tử tổng hợp | ...loại rủi ro pháp lý, nắm cơ hội làm giàu... | Các gói dịch vụ | Chính sách Pháp luật mới | Pháp Luật | Liên hệ |  Danh mục    | Sơ đồ WebSite   Giới thiệu  Hướng dẫn sử dụng   Rss   Homepage    Widget | Tra cứu Công Văn điều hành | Từ khoá: Số Hiệu, Tiêu đề hoặ
+[2026-06-10 11:55:03] SAVED_SEARCH_HTML=C:\Users\Admin\vietnam-fuel-price-dataset\data\raw\search_pages\update_page_019.html
+[2026-06-10 11:55:03] PAGE_STATUS=ok
+[2026-06-10 11:55:03] DISCOVERY: page 19 → 12 found, 0 đã có, 12 mới
+[2026-06-10 11:55:03] DISCOVERY: page=20 | https://thuvienphapluat.vn/page/tim-van-ban.aspx?keyword=%C4%91i%E1%BB%81u+h%C3%A0nh&area=0&type=3&status=0&lan=1&org=0&signer=0&match=True&sort=1&bdate=20%2F04%2F1946&edate=21%2F04%2F2026&page=20
+[2026-06-10 11:55:10] PAGE_TITLE=THƯ VIỆN PHÁP LUẬT _ Tra cứu, Nắm bắt Pháp Luật Việt Nam
+[2026-06-10 11:55:10] BODY_PREVIEW=THƯ VIỆN PHÁP LUẬT | Trang Thông tin điện tử tổng hợp | ...loại rủi ro pháp lý, nắm cơ hội làm giàu... | Các gói dịch vụ | Chính sách Pháp luật mới | Pháp Luật | Liên hệ |  Danh mục    | Sơ đồ WebSite   Giới thiệu  Hướng dẫn sử dụng   Rss   Homepage    Widget | TRA CỨU NHANH | Thời điểm Áp dụng | Tình trạng Hiệu lực | Lĩnh
+[2026-06-10 11:55:10] SAVED_SEARCH_HTML=C:\Users\Admin\vietnam-fuel-price-dataset\data\raw\search_pages\update_page_020.html
+[2026-06-10 11:55:10] PAGE_STATUS=blocked
+[2026-06-10 11:55:10] DISCOVERY: gặp captcha — đang chờ bạn giải trong Chrome...
+[2026-06-10 11:55:16] CAPTCHA WAIT 5s — status=blocked
+[2026-06-10 11:55:21] CAPTCHA WAIT 10s — status=ok
+[2026-06-10 11:55:21] DISCOVERY: captcha đã giải, tiếp tục...
+[2026-06-10 11:55:21] DISCOVERY: page 20 → 12 found, 0 đã có, 12 mới
+[2026-06-10 11:55:21] DISCOVERY: page=21 | https://thuvienphapluat.vn/page/tim-van-ban.aspx?keyword=%C4%91i%E1%BB%81u+h%C3%A0nh&area=0&type=3&status=0&lan=1&org=0&signer=0&match=True&sort=1&bdate=20%2F04%2F1946&edate=21%2F04%2F2026&page=21
+[2026-06-10 11:55:30] PAGE_TITLE=Tra cứu Công Văn điều hành
+[2026-06-10 11:55:30] BODY_PREVIEW=THƯ VIỆN PHÁP LUẬT | Trang Thông tin điện tử tổng hợp | ...loại rủi ro pháp lý, nắm cơ hội làm giàu... | Các gói dịch vụ | Chính sách Pháp luật mới | Pháp Luật | Liên hệ |  Danh mục    | Sơ đồ WebSite   Giới thiệu  Hướng dẫn sử dụng   Rss   Homepage    Widget | Tra cứu Công Văn điều hành | Từ khoá: Số Hiệu, Tiêu đề hoặ
+[2026-06-10 11:55:30] SAVED_SEARCH_HTML=C:\Users\Admin\vietnam-fuel-price-dataset\data\raw\search_pages\update_page_021.html
+[2026-06-10 11:55:30] PAGE_STATUS=ok
+[2026-06-10 11:55:30] DISCOVERY: page 21 → 15 found, 0 đã có, 15 mới
+[2026-06-10 11:55:30] DISCOVERY: page=22 | https://thuvienphapluat.vn/page/tim-van-ban.aspx?keyword=%C4%91i%E1%BB%81u+h%C3%A0nh&area=0&type=3&status=0&lan=1&org=0&signer=0&match=True&sort=1&bdate=20%2F04%2F1946&edate=21%2F04%2F2026&page=22
+[2026-06-10 11:55:39] PAGE_TITLE=THƯ VIỆN PHÁP LUẬT _ Tra cứu, Nắm bắt Pháp Luật Việt Nam
+[2026-06-10 11:55:39] BODY_PREVIEW=THƯ VIỆN PHÁP LUẬT | Trang Thông tin điện tử tổng hợp | ...loại rủi ro pháp lý, nắm cơ hội làm giàu... | Các gói dịch vụ | Chính sách Pháp luật mới | Pháp Luật | Liên hệ |  Danh mục    | Sơ đồ WebSite   Giới thiệu  Hướng dẫn sử dụng   Rss   Homepage    Widget | TRA CỨU NHANH | Thời điểm Áp dụng | Tình trạng Hiệu lực | Lĩnh
+[2026-06-10 11:55:39] SAVED_SEARCH_HTML=C:\Users\Admin\vietnam-fuel-price-dataset\data\raw\search_pages\update_page_022.html
+[2026-06-10 11:55:39] PAGE_STATUS=blocked
+[2026-06-10 11:55:39] DISCOVERY: gặp captcha — đang chờ bạn giải trong Chrome...
+[2026-06-10 11:55:45] CAPTCHA WAIT 5s — status=ok
+[2026-06-10 11:55:45] DISCOVERY: captcha đã giải, tiếp tục...
+[2026-06-10 11:55:45] DISCOVERY: page 22 → 0 found, 0 đã có, 0 mới
+[2026-06-10 11:55:45] DISCOVERY: page=23 | https://thuvienphapluat.vn/page/tim-van-ban.aspx?keyword=%C4%91i%E1%BB%81u+h%C3%A0nh&area=0&type=3&status=0&lan=1&org=0&signer=0&match=True&sort=1&bdate=20%2F04%2F1946&edate=21%2F04%2F2026&page=23
+[2026-06-10 11:55:55] PAGE_TITLE=THƯ VIỆN PHÁP LUẬT _ Tra cứu, Nắm bắt Pháp Luật Việt Nam
+[2026-06-10 11:55:55] BODY_PREVIEW=THƯ VIỆN PHÁP LUẬT | Trang Thông tin điện tử tổng hợp | ...loại rủi ro pháp lý, nắm cơ hội làm giàu... | Các gói dịch vụ | Chính sách Pháp luật mới | Pháp Luật | Liên hệ |  Danh mục    | Sơ đồ WebSite   Giới thiệu  Hướng dẫn sử dụng   Rss   Homepage    Widget | TRA CỨU NHANH | Thời điểm Áp dụng | Tình trạng Hiệu lực | Lĩnh
+[2026-06-10 11:55:55] SAVED_SEARCH_HTML=C:\Users\Admin\vietnam-fuel-price-dataset\data\raw\search_pages\update_page_023.html
+[2026-06-10 11:55:55] PAGE_STATUS=blocked
+[2026-06-10 11:55:55] DISCOVERY: gặp captcha — đang chờ bạn giải trong Chrome...
+[2026-06-10 11:56:00] CAPTCHA WAIT 5s — status=blocked
+[2026-06-10 11:56:05] CAPTCHA WAIT 10s — status=blocked
+[2026-06-10 11:56:10] CAPTCHA WAIT 15s — status=blocked
+[2026-06-10 11:56:15] CAPTCHA WAIT 20s — status=blocked
+[2026-06-10 11:56:21] CAPTCHA WAIT 25s — status=blocked
+[2026-06-10 11:56:26] CAPTCHA WAIT 30s — status=blocked
+[2026-06-10 11:56:31] CAPTCHA WAIT 35s — status=blocked
+[2026-06-10 11:56:36] CAPTCHA WAIT 40s — status=blocked
+[2026-06-10 11:56:41] CAPTCHA WAIT 45s — status=blocked
+[2026-06-10 11:56:47] CAPTCHA WAIT 50s — status=blocked
+[2026-06-10 11:56:52] CAPTCHA WAIT 55s — status=blocked
+[2026-06-10 11:56:57] CAPTCHA WAIT 60s — status=blocked
+[2026-06-10 11:57:02] CAPTCHA WAIT 65s — status=blocked
+[2026-06-10 11:57:08] CAPTCHA WAIT 70s — status=blocked
+[2026-06-10 11:57:13] CAPTCHA WAIT 75s — status=blocked
+[2026-06-10 11:57:18] CAPTCHA WAIT 80s — status=blocked
+[2026-06-10 11:57:23] CAPTCHA WAIT 85s — status=blocked
+[2026-06-10 11:57:28] CAPTCHA WAIT 90s — status=blocked
+[2026-06-10 11:57:34] CAPTCHA WAIT 95s — status=blocked
+[2026-06-10 11:57:39] CAPTCHA WAIT 100s — status=blocked
+[2026-06-10 11:57:44] CAPTCHA WAIT 105s — status=blocked
+[2026-06-10 11:57:49] CAPTCHA WAIT 110s — status=blocked
+[2026-06-10 11:57:55] CAPTCHA WAIT 115s — status=blocked
+[2026-06-10 11:58:00] CAPTCHA WAIT 120s — status=blocked
+[2026-06-10 11:58:00] DISCOVERY: chờ 2 phút vẫn còn blocked → dừng hẳn.
+[2026-06-10 11:58:02] DISCOVERY DONE: old=0, added=321, merged=321
+[2026-06-10 11:58:04] FETCH 200: https://thuvienphapluat.vn/cong-van/Thuong-mai/Cong-van-2781-BCT-TTTN-2026-thong-bao-dieu-hanh-gia-ban-xang-dau-702897.aspx
+[2026-06-10 11:58:04] FETCH OK: https://thuvienphapluat.vn/cong-van/Thuong-mai/Cong-van-2781-BCT-TTTN-2026-thong-bao-dieu-hanh-gia-ban-xang-dau-702897.aspx
+[2026-06-10 11:58:05] FETCH 200: https://thuvienphapluat.vn/cong-van/Thuong-mai/Cong-van-2642-BCT-TTTN-2026-thong-bao-dieu-hanh-gia-ban-xang-dau-701937.aspx
+[2026-06-10 11:58:05] FETCH OK: https://thuvienphapluat.vn/cong-van/Thuong-mai/Cong-van-2642-BCT-TTTN-2026-thong-bao-dieu-hanh-gia-ban-xang-dau-701937.aspx
+[2026-06-10 11:58:07] FETCH 200: https://thuvienphapluat.vn/cong-van/Thuong-mai/Cong-van-2455-BCT-TTTN-2026-thong-bao-dieu-hanh-gia-ban-xang-dau-700786.aspx
+[2026-06-10 11:58:07] FETCH OK: https://thuvienphapluat.vn/cong-van/Thuong-mai/Cong-van-2455-BCT-TTTN-2026-thong-bao-dieu-hanh-gia-ban-xang-dau-700786.aspx
+[2026-06-10 11:58:09] FETCH 200: https://thuvienphapluat.vn/cong-van/Thuong-mai/Cong-van-2428-BCT-TTTN-2026-thong-bao-dieu-hanh-gia-ban-xang-dau-700615.aspx
+[2026-06-10 11:58:09] FETCH OK: https://thuvienphapluat.vn/cong-van/Thuong-mai/Cong-van-2428-BCT-TTTN-2026-thong-bao-dieu-hanh-gia-ban-xang-dau-700615.aspx
+[2026-06-10 11:58:11] FETCH 200: https://thuvienphapluat.vn/cong-van/Thuong-mai/Cong-van-1440-BCT-TTTN-2026-dieu-hanh-kinh-doanh-xang-dau-696732.aspx
+[2026-06-10 11:58:11] FETCH OK: https://thuvienphapluat.vn/cong-van/Thuong-mai/Cong-van-1440-BCT-TTTN-2026-dieu-hanh-kinh-doanh-xang-dau-696732.aspx
+[2026-06-10 11:58:12] FETCH 200: https://thuvienphapluat.vn/cong-van/Thuong-mai/Cong-van-1358-BCT-TTTN-2026-dieu-hanh-kinh-doanh-xang-dau-696497.aspx
+[2026-06-10 11:58:12] FETCH OK: https://thuvienphapluat.vn/cong-van/Thuong-mai/Cong-van-1358-BCT-TTTN-2026-dieu-hanh-kinh-doanh-xang-dau-696497.aspx
+[2026-06-10 11:58:14] FETCH 200: https://thuvienphapluat.vn/cong-van/Thuong-mai/Cong-van-1162-BCT-TTTN-2026-dieu-hanh-kinh-doanh-xang-dau-695697.aspx
+[2026-06-10 11:58:14] FETCH OK: https://thuvienphapluat.vn/cong-van/Thuong-mai/Cong-van-1162-BCT-TTTN-2026-dieu-hanh-kinh-doanh-xang-dau-695697.aspx
+[2026-06-10 11:58:15] FETCH 200: https://thuvienphapluat.vn/cong-van/Thuong-mai/Cong-van-1091-BCT-TTTN-2026-dieu-hanh-kinh-doanh-xang-dau-695095.aspx
+[2026-06-10 11:58:15] FETCH OK: https://thuvienphapluat.vn/cong-van/Thuong-mai/Cong-van-1091-BCT-TTTN-2026-dieu-hanh-kinh-doanh-xang-dau-695095.aspx
+[2026-06-10 11:58:17] FETCH 200: https://thuvienphapluat.vn/cong-van/Thuong-mai/Cong-van-971-BCT-TTTN-2026-dieu-hanh-kinh-doanh-xang-dau-694811.aspx
+[2026-06-10 11:58:17] FETCH OK: https://thuvienphapluat.vn/cong-van/Thuong-mai/Cong-van-971-BCT-TTTN-2026-dieu-hanh-kinh-doanh-xang-dau-694811.aspx
+[2026-06-10 11:58:19] FETCH 200: https://thuvienphapluat.vn/cong-van/Thuong-mai/Cong-van-797-BCT-TTTN-2026-dieu-hanh-kinh-doanh-xang-dau-693927.aspx
+[2026-06-10 11:58:19] FETCH OK: https://thuvienphapluat.vn/cong-van/Thuong-mai/Cong-van-797-BCT-TTTN-2026-dieu-hanh-kinh-doanh-xang-dau-693927.aspx
+[2026-06-10 11:58:20] FETCH 200: https://thuvienphapluat.vn/cong-van/Thuong-mai/Cong-van-619-BCT-TTTN-2026-dieu-hanh-kinh-doanh-xang-dau-692813.aspx
+[2026-06-10 11:58:20] FETCH OK: https://thuvienphapluat.vn/cong-van/Thuong-mai/Cong-van-619-BCT-TTTN-2026-dieu-hanh-kinh-doanh-xang-dau-692813.aspx
+[2026-06-10 11:58:22] FETCH 200: https://thuvienphapluat.vn/cong-van/Thuong-mai/Cong-van-464-BCT-TTTN-2026-kinh-doanh-xang-dau-690741.aspx
+[2026-06-10 11:58:22] FETCH OK: https://thuvienphapluat.vn/cong-van/Thuong-mai/Cong-van-464-BCT-TTTN-2026-kinh-doanh-xang-dau-690741.aspx
+[2026-06-10 11:58:24] FETCH 200: https://thuvienphapluat.vn/cong-van/Thuong-mai/Cong-van-83-BCT-TTTN-2026-kinh-doanh-xang-dau-688549.aspx
+[2026-06-10 11:58:24] FETCH OK: https://thuvienphapluat.vn/cong-van/Thuong-mai/Cong-van-83-BCT-TTTN-2026-kinh-doanh-xang-dau-688549.aspx
+[2026-06-10 11:58:25] FETCH 200: https://thuvienphapluat.vn/cong-van/Thuong-mai/Cong-van-10376-BCT-TTTN-2025-dieu-hanh-kinh-doanh-xang-dau-687404.aspx
+[2026-06-10 11:58:25] FETCH OK: https://thuvienphapluat.vn/cong-van/Thuong-mai/Cong-van-10376-BCT-TTTN-2025-dieu-hanh-kinh-doanh-xang-dau-687404.aspx
+[2026-06-10 11:58:27] FETCH 200: https://thuvienphapluat.vn/cong-van/Thuong-mai/Cong-van-10210-BCT-TTTN-2025-dieu-hanh-kinh-doanh-xang-dau-686382.aspx
+[2026-06-10 11:58:27] FETCH OK: https://thuvienphapluat.vn/cong-van/Thuong-mai/Cong-van-10210-BCT-TTTN-2025-dieu-hanh-kinh-doanh-xang-dau-686382.aspx
+[2026-06-10 11:58:29] FETCH 200: https://thuvienphapluat.vn/cong-van/Thuong-mai/Cong-van-9988-BCT-TTTN-2025-dieu-hanh-kinh-doanh-xang-dau-685060.aspx
+[2026-06-10 11:58:29] FETCH OK: https://thuvienphapluat.vn/cong-van/Thuong-mai/Cong-van-9988-BCT-TTTN-2025-dieu-hanh-kinh-doanh-xang-dau-685060.aspx
+[2026-06-10 11:58:30] FETCH 200: https://thuvienphapluat.vn/cong-van/Thuong-mai/Cong-van-9817-BCT-TTTN-2025-dieu-hanh-kinh-doanh-xang-dau-684156.aspx
+[2026-06-10 11:58:30] FETCH OK: https://thuvienphapluat.vn/cong-van/Thuong-mai/Cong-van-9817-BCT-TTTN-2025-dieu-hanh-kinh-doanh-xang-dau-684156.aspx
+[2026-06-10 11:58:32] FETCH 200: https://thuvienphapluat.vn/cong-van/Thuong-mai/Cong-van-9634-BCT-TTTN-2025-dieu-hanh-kinh-doanh-xang-dau-682926.aspx
+[2026-06-10 11:58:32] FETCH OK: https://thuvienphapluat.vn/cong-van/Thuong-mai/Cong-van-9634-BCT-TTTN-2025-dieu-hanh-kinh-doanh-xang-dau-682926.aspx
+[2026-06-10 11:58:34] FETCH 200: https://thuvienphapluat.vn/cong-van/Thuong-mai/Cong-van-9398-BCT-TTTN-2025-dieu-hanh-kinh-doanh-xang-dau-682957.aspx
+[2026-06-10 11:58:34] FETCH OK: https://thuvienphapluat.vn/cong-van/Thuong-mai/Cong-van-9398-BCT-TTTN-2025-dieu-hanh-kinh-doanh-xang-dau-682957.aspx
+[2026-06-10 11:58:35] FETCH 200: https://thuvienphapluat.vn/cong-van/Thuong-mai/Cong-van-9162-BCT-TTTN-2025-dieu-hanh-kinh-doanh-xang-dau-681580.aspx
+[2026-06-10 11:58:35] FETCH OK: https://thuvienphapluat.vn/cong-van/Thuong-mai/Cong-van-9162-BCT-TTTN-2025-dieu-hanh-kinh-doanh-xang-dau-681580.aspx
+[2026-06-10 11:58:37] FETCH 200: https://thuvienphapluat.vn/cong-van/Thuong-mai/Cong-van-8955-BCT-TTTN-2025-kinh-doanh-xang-dau-680559.aspx
+[2026-06-10 11:58:37] FETCH OK: https://thuvienphapluat.vn/cong-van/Thuong-mai/Cong-van-8955-BCT-TTTN-2025-kinh-doanh-xang-dau-680559.aspx
+[2026-06-10 11:58:39] FETCH 200: https://thuvienphapluat.vn/cong-van/Tai-nguyen-Moi-truong/Cong-van-8728-BCT-TTTN-2025-dieu-hanh-kinh-doanh-xang-dau-679859.aspx
+[2026-06-10 11:58:39] FETCH OK: https://thuvienphapluat.vn/cong-van/Tai-nguyen-Moi-truong/Cong-van-8728-BCT-TTTN-2025-dieu-hanh-kinh-doanh-xang-dau-679859.aspx
+[2026-06-10 11:58:40] FETCH 200: https://thuvienphapluat.vn/cong-van/Tai-nguyen-Moi-truong/Cong-van-8493-BCT-TTTN-2025-dieu-hanh-kinh-doanh-xang-dau-679166.aspx
+[2026-06-10 11:58:40] FETCH OK: https://thuvienphapluat.vn/cong-van/Tai-nguyen-Moi-truong/Cong-van-8493-BCT-TTTN-2025-dieu-hanh-kinh-doanh-xang-dau-679166.aspx
+[2026-06-10 11:58:42] FETCH 200: https://thuvienphapluat.vn/cong-van/Tai-nguyen-Moi-truong/Cong-van-8033-BCT-TTTN-2025-dieu-hanh-kinh-doanh-xang-dau-677182.aspx
+[2026-06-10 11:58:42] FETCH OK: https://thuvienphapluat.vn/cong-van/Tai-nguyen-Moi-truong/Cong-van-8033-BCT-TTTN-2025-dieu-hanh-kinh-doanh-xang-dau-677182.aspx
+[2026-06-10 11:58:44] FETCH 200: https://thuvienphapluat.vn/cong-van/Thuong-mai/Cong-van-7823-BCT-TTTN-2025-kinh-doanh-xang-dau-676161.aspx
+[2026-06-10 11:58:44] FETCH OK: https://thuvienphapluat.vn/cong-van/Thuong-mai/Cong-van-7823-BCT-TTTN-2025-kinh-doanh-xang-dau-676161.aspx
+[2026-06-10 11:58:45] FETCH 200: https://thuvienphapluat.vn/cong-van/Thuong-mai/Cong-van-7538-BCT-TTTN-2025-kinh-doanh-xang-dau-675247.aspx
+[2026-06-10 11:58:45] FETCH OK: https://thuvienphapluat.vn/cong-van/Thuong-mai/Cong-van-7538-BCT-TTTN-2025-kinh-doanh-xang-dau-675247.aspx
+[2026-06-10 11:58:47] FETCH 200: https://thuvienphapluat.vn/cong-van/Thuong-mai/Cong-van-7336-BCT-TTTN-2025-dieu-hanh-kinh-doanh-xang-dau-674140.aspx
+[2026-06-10 11:58:47] FETCH OK: https://thuvienphapluat.vn/cong-van/Thuong-mai/Cong-van-7336-BCT-TTTN-2025-dieu-hanh-kinh-doanh-xang-dau-674140.aspx
+[2026-06-10 11:58:49] FETCH 200: https://thuvienphapluat.vn/cong-van/Thuong-mai/Cong-van-7068-BCT-TTTN-2025-dieu-hanh-kinh-doanh-xang-dau-673172.aspx
+[2026-06-10 11:58:49] FETCH OK: https://thuvienphapluat.vn/cong-van/Thuong-mai/Cong-van-7068-BCT-TTTN-2025-dieu-hanh-kinh-doanh-xang-dau-673172.aspx
+[2026-06-10 11:58:50] FETCH 200: https://thuvienphapluat.vn/cong-van/Thuong-mai/Cong-van-6869-BCT-TTTN-2025-dieu-hanh-kinh-doanh-xang-dau-672365.aspx
+[2026-06-10 11:58:50] FETCH OK: https://thuvienphapluat.vn/cong-van/Thuong-mai/Cong-van-6869-BCT-TTTN-2025-dieu-hanh-kinh-doanh-xang-dau-672365.aspx
+[2026-06-10 11:58:52] FETCH 200: https://thuvienphapluat.vn/cong-van/Tai-nguyen-Moi-truong/Cong-van-6652-BCT-TTTN-2025-dieu-hanh-kinh-doanh-xang-dau-671492.aspx
+[2026-06-10 11:58:52] FETCH OK: https://thuvienphapluat.vn/cong-van/Tai-nguyen-Moi-truong/Cong-van-6652-BCT-TTTN-2025-dieu-hanh-kinh-doanh-xang-dau-671492.aspx
+[2026-06-10 11:58:53] FETCH 429: https://thuvienphapluat.vn/cong-van/Thuong-mai/Cong-van-6495-BCT-TTTN-2025-dieu-hanh-kinh-doanh-xang-dau-670907.aspx
+[2026-06-10 11:58:53] FETCH ERROR: HTTP 429 | https://thuvienphapluat.vn/cong-van/Thuong-mai/Cong-van-6495-BCT-TTTN-2025-dieu-hanh-kinh-doanh-xang-dau-670907.aspx
+[2026-06-10 11:58:55] FETCH 429: https://thuvienphapluat.vn/cong-van/Tai-nguyen-Moi-truong/Cong-van-6269-BCT-TTTN-2025-dieu-hanh-kinh-doanh-xang-dau-670097.aspx
+[2026-06-10 11:58:55] FETCH ERROR: HTTP 429 | https://thuvienphapluat.vn/cong-van/Tai-nguyen-Moi-truong/Cong-van-6269-BCT-TTTN-2025-dieu-hanh-kinh-doanh-xang-dau-670097.aspx
+[2026-06-10 11:58:58] FETCH 429: https://thuvienphapluat.vn/cong-van/Thuong-mai/Cong-van-6042-BCT-TTTN-2025-dieu-hanh-kinh-doanh-xang-dau-669217.aspx
+[2026-06-10 11:58:58] FETCH ERROR: HTTP 429 | https://thuvienphapluat.vn/cong-van/Thuong-mai/Cong-van-6042-BCT-TTTN-2025-dieu-hanh-kinh-doanh-xang-dau-669217.aspx
+[2026-06-10 11:59:00] FETCH 429: https://thuvienphapluat.vn/cong-van/Thuong-mai/Cong-van-5891-BCT-TTTN-2025-dieu-hanh-kinh-doanh-xang-dau-668376.aspx
+[2026-06-10 11:59:00] FETCH ERROR: HTTP 429 | https://thuvienphapluat.vn/cong-van/Thuong-mai/Cong-van-5891-BCT-TTTN-2025-dieu-hanh-kinh-doanh-xang-dau-668376.aspx
+[2026-06-10 11:59:02] FETCH 200: https://thuvienphapluat.vn/cong-van/Thuong-mai/Cong-van-5664-BCT-TTTN-2025-dieu-hanh-kinh-doanh-xang-dau-667381.aspx
+[2026-06-10 11:59:02] FETCH OK: https://thuvienphapluat.vn/cong-van/Thuong-mai/Cong-van-5664-BCT-TTTN-2025-dieu-hanh-kinh-doanh-xang-dau-667381.aspx
+[2026-06-10 11:59:03] FETCH 200: https://thuvienphapluat.vn/cong-van/Thuong-mai/Cong-van-5515-BCT-TTTN-2025-dieu-hanh-kinh-doanh-xang-dau-666441.aspx
+[2026-06-10 11:59:03] FETCH OK: https://thuvienphapluat.vn/cong-van/Thuong-mai/Cong-van-5515-BCT-TTTN-2025-dieu-hanh-kinh-doanh-xang-dau-666441.aspx
+[2026-06-10 11:59:05] FETCH 200: https://thuvienphapluat.vn/cong-van/Thuong-mai/Cong-van-5285-BCT-TTTN-2025-dieu-hanh-kinh-doanh-xang-dau-665388.aspx
+[2026-06-10 11:59:05] FETCH OK: https://thuvienphapluat.vn/cong-van/Thuong-mai/Cong-van-5285-BCT-TTTN-2025-dieu-hanh-kinh-doanh-xang-dau-665388.aspx
+[2026-06-10 11:59:07] FETCH 200: https://thuvienphapluat.vn/cong-van/Thuong-mai/Cong-van-5121-BCT-TTTN-2025-dieu-hanh-kinh-doanh-xang-dau-664471.aspx
+[2026-06-10 11:59:07] FETCH OK: https://thuvienphapluat.vn/cong-van/Thuong-mai/Cong-van-5121-BCT-TTTN-2025-dieu-hanh-kinh-doanh-xang-dau-664471.aspx
+[2026-06-10 11:59:08] FETCH 429: https://thuvienphapluat.vn/cong-van/Thuong-mai/Cong-van-4904-BCT-TTTN-2025-dieu-hanh-kinh-doanh-xang-dau-663531.aspx
+[2026-06-10 11:59:08] FETCH ERROR: HTTP 429 | https://thuvienphapluat.vn/cong-van/Thuong-mai/Cong-van-4904-BCT-TTTN-2025-dieu-hanh-kinh-doanh-xang-dau-663531.aspx
+[2026-06-10 11:59:11] FETCH 200: https://thuvienphapluat.vn/cong-van/Thuong-mai/Cong-van-4684-BCT-TTTN-2025-dieu-hanh-kinh-doanh-xang-dau-662580.aspx
+[2026-06-10 11:59:11] FETCH OK: https://thuvienphapluat.vn/cong-van/Thuong-mai/Cong-van-4684-BCT-TTTN-2025-dieu-hanh-kinh-doanh-xang-dau-662580.aspx
+[2026-06-10 11:59:12] FETCH 200: https://thuvienphapluat.vn/cong-van/Thuong-mai/Cong-van-4443-BCT-TTTN-2025-dieu-hanh-kinh-doanh-xang-dau-661558.aspx
+[2026-06-10 11:59:12] FETCH OK: https://thuvienphapluat.vn/cong-van/Thuong-mai/Cong-van-4443-BCT-TTTN-2025-dieu-hanh-kinh-doanh-xang-dau-661558.aspx
+[2026-06-10 11:59:14] FETCH 200: https://thuvienphapluat.vn/cong-van/Thuong-mai/Cong-van-4217-BCT-TTTN-2025-dieu-hanh-kinh-doanh-xang-dau-660593.aspx
+[2026-06-10 11:59:14] FETCH OK: https://thuvienphapluat.vn/cong-van/Thuong-mai/Cong-van-4217-BCT-TTTN-2025-dieu-hanh-kinh-doanh-xang-dau-660593.aspx
+[2026-06-10 11:59:16] FETCH 200: https://thuvienphapluat.vn/cong-van/Tai-nguyen-Moi-truong/Cong-van-4069-BCT-TTTN-2025-dieu-hanh-kinh-doanh-xang-dau-659769.aspx
+[2026-06-10 11:59:16] FETCH OK: https://thuvienphapluat.vn/cong-van/Tai-nguyen-Moi-truong/Cong-van-4069-BCT-TTTN-2025-dieu-hanh-kinh-doanh-xang-dau-659769.aspx
+[2026-06-10 11:59:17] FETCH 200: https://thuvienphapluat.vn/cong-van/Thuong-mai/Cong-van-3838-BCT-TTTN-2025-dieu-hanh-kinh-doanh-xang-dau-658787.aspx
+[2026-06-10 11:59:17] FETCH OK: https://thuvienphapluat.vn/cong-van/Thuong-mai/Cong-van-3838-BCT-TTTN-2025-dieu-hanh-kinh-doanh-xang-dau-658787.aspx
+[2026-06-10 11:59:19] FETCH 200: https://thuvienphapluat.vn/cong-van/Thuong-mai/Cong-van-3669-BCT-TTTN-2025-dieu-hanh-kinh-doanh-xang-dau-657838.aspx
+[2026-06-10 11:59:19] FETCH OK: https://thuvienphapluat.vn/cong-van/Thuong-mai/Cong-van-3669-BCT-TTTN-2025-dieu-hanh-kinh-doanh-xang-dau-657838.aspx
+[2026-06-10 11:59:20] FETCH 429: https://thuvienphapluat.vn/cong-van/Thuong-mai/Cong-van-3462-BCT-TTTN-2025-dieu-hanh-kinh-doanh-xang-dau-656806.aspx
+[2026-06-10 11:59:20] FETCH ERROR: HTTP 429 | https://thuvienphapluat.vn/cong-van/Thuong-mai/Cong-van-3462-BCT-TTTN-2025-dieu-hanh-kinh-doanh-xang-dau-656806.aspx
+[2026-06-10 11:59:23] FETCH 200: https://thuvienphapluat.vn/cong-van/Thuong-mai/Cong-van-3266-BCT-TTTN-2025-dieu-hanh-kinh-doanh-xang-dau-655900.aspx
+[2026-06-10 11:59:23] FETCH OK: https://thuvienphapluat.vn/cong-van/Thuong-mai/Cong-van-3266-BCT-TTTN-2025-dieu-hanh-kinh-doanh-xang-dau-655900.aspx
+[2026-06-10 11:59:24] FETCH 200: https://thuvienphapluat.vn/cong-van/Thuong-mai/Cong-van-3159-BCT-TTTN-2025-dieu-hanh-kinh-doanh-xang-dau-655304.aspx
+[2026-06-10 11:59:24] FETCH OK: https://thuvienphapluat.vn/cong-van/Thuong-mai/Cong-van-3159-BCT-TTTN-2025-dieu-hanh-kinh-doanh-xang-dau-655304.aspx
+[2026-06-10 11:59:26] FETCH 200: https://thuvienphapluat.vn/cong-van/Thuong-mai/Cong-van-2954-BCT-TTTN-2025-dieu-hanh-kinh-doanh-xang-dau-654108.aspx
+[2026-06-10 11:59:26] FETCH OK: https://thuvienphapluat.vn/cong-van/Thuong-mai/Cong-van-2954-BCT-TTTN-2025-dieu-hanh-kinh-doanh-xang-dau-654108.aspx
+[2026-06-10 11:59:28] FETCH 200: https://thuvienphapluat.vn/cong-van/Thuong-mai/Cong-van-2707-BCT-TTTN-2025-dieu-hanh-kinh-doanh-xang-dau-652158.aspx
+[2026-06-10 11:59:28] FETCH OK: https://thuvienphapluat.vn/cong-van/Thuong-mai/Cong-van-2707-BCT-TTTN-2025-dieu-hanh-kinh-doanh-xang-dau-652158.aspx
+[2026-06-10 11:59:29] FETCH 200: https://thuvienphapluat.vn/cong-van/Tai-nguyen-Moi-truong/Cong-van-2507-BCT-TTTN-2025-dieu-hanh-kinh-doanh-xang-dau-651065.aspx
+[2026-06-10 11:59:29] FETCH OK: https://thuvienphapluat.vn/cong-van/Tai-nguyen-Moi-truong/Cong-van-2507-BCT-TTTN-2025-dieu-hanh-kinh-doanh-xang-dau-651065.aspx
+[2026-06-10 11:59:31] FETCH 200: https://thuvienphapluat.vn/cong-van/Tai-nguyen-Moi-truong/Cong-van-2144-BCT-TTTN-2025-dieu-hanh-kinh-doanh-xang-dau-649396.aspx
+[2026-06-10 11:59:31] FETCH OK: https://thuvienphapluat.vn/cong-van/Tai-nguyen-Moi-truong/Cong-van-2144-BCT-TTTN-2025-dieu-hanh-kinh-doanh-xang-dau-649396.aspx
+[2026-06-10 11:59:33] FETCH 200: https://thuvienphapluat.vn/cong-van/Thuong-mai/Cong-van-1905-BCT-TTTN-2025-dieu-hanh-kinh-doanh-xang-dau-648421.aspx
+[2026-06-10 11:59:33] FETCH OK: https://thuvienphapluat.vn/cong-van/Thuong-mai/Cong-van-1905-BCT-TTTN-2025-dieu-hanh-kinh-doanh-xang-dau-648421.aspx
+[2026-06-10 11:59:34] FETCH 429: https://thuvienphapluat.vn/cong-van/Thuong-mai/Cong-van-1791-BCT-TTTN-2025-dieu-hanh-kinh-doanh-xang-dau-647009.aspx
+[2026-06-10 11:59:34] FETCH ERROR: HTTP 429 | https://thuvienphapluat.vn/cong-van/Thuong-mai/Cong-van-1791-BCT-TTTN-2025-dieu-hanh-kinh-doanh-xang-dau-647009.aspx
+[2026-06-10 11:59:37] FETCH 200: https://thuvienphapluat.vn/cong-van/Tai-nguyen-Moi-truong/Cong-van-1671-BCT-TTTN-2025-dieu-hanh-kinh-doanh-xang-dau-646103.aspx
+[2026-06-10 11:59:37] FETCH OK: https://thuvienphapluat.vn/cong-van/Tai-nguyen-Moi-truong/Cong-van-1671-BCT-TTTN-2025-dieu-hanh-kinh-doanh-xang-dau-646103.aspx
+[2026-06-10 11:59:38] FETCH 200: https://thuvienphapluat.vn/cong-van/Tai-nguyen-Moi-truong/Cong-van-1423-BCT-TTTN-2025-dieu-hanh-kinh-doanh-xang-dau-645041.aspx
+[2026-06-10 11:59:38] FETCH OK: https://thuvienphapluat.vn/cong-van/Tai-nguyen-Moi-truong/Cong-van-1423-BCT-TTTN-2025-dieu-hanh-kinh-doanh-xang-dau-645041.aspx
+[2026-06-10 11:59:40] FETCH 200: https://thuvienphapluat.vn/cong-van/Thuong-mai/Cong-van-1243-BCT-TTTN-2025-dieu-hanh-kinh-doanh-xang-dau-643806.aspx
+[2026-06-10 11:59:40] FETCH OK: https://thuvienphapluat.vn/cong-van/Thuong-mai/Cong-van-1243-BCT-TTTN-2025-dieu-hanh-kinh-doanh-xang-dau-643806.aspx
+[2026-06-10 11:59:42] FETCH 200: https://thuvienphapluat.vn/cong-van/Thuong-mai/Cong-van-1020-BCT-TTTN-2025-dieu-hanh-kinh-doanh-xang-dau-643141.aspx
+[2026-06-10 11:59:42] FETCH OK: https://thuvienphapluat.vn/cong-van/Thuong-mai/Cong-van-1020-BCT-TTTN-2025-dieu-hanh-kinh-doanh-xang-dau-643141.aspx
+[2026-06-10 11:59:43] FETCH 200: https://thuvienphapluat.vn/cong-van/Thuong-mai/Cong-van-837-BCT-TTTN-2025-dieu-hanh-kinh-doanh-xang-dau-641987.aspx
+[2026-06-10 11:59:43] FETCH OK: https://thuvienphapluat.vn/cong-van/Thuong-mai/Cong-van-837-BCT-TTTN-2025-dieu-hanh-kinh-doanh-xang-dau-641987.aspx
+[2026-06-10 11:59:45] FETCH 200: https://thuvienphapluat.vn/cong-van/Thuong-mai/Cong-van-727-BCT-TTTN-2025-dieu-hanh-kinh-doanh-xang-dau-641787.aspx
+[2026-06-10 11:59:45] FETCH OK: https://thuvienphapluat.vn/cong-van/Thuong-mai/Cong-van-727-BCT-TTTN-2025-dieu-hanh-kinh-doanh-xang-dau-641787.aspx
+[2026-06-10 11:59:46] FETCH 429: https://thuvienphapluat.vn/cong-van/Thuong-mai/Cong-van-610-BCT-TTTN-2025-dieu-hanh-kinh-doanh-xang-dau-641484.aspx
+[2026-06-10 11:59:46] FETCH ERROR: HTTP 429 | https://thuvienphapluat.vn/cong-van/Thuong-mai/Cong-van-610-BCT-TTTN-2025-dieu-hanh-kinh-doanh-xang-dau-641484.aspx
+[2026-06-10 11:59:49] FETCH 200: https://thuvienphapluat.vn/cong-van/Thuong-mai/Cong-van-437-BCT-TTTN-2025-kinh-doanh-xang-dau-640105.aspx
+[2026-06-10 11:59:49] FETCH OK: https://thuvienphapluat.vn/cong-van/Thuong-mai/Cong-van-437-BCT-TTTN-2025-kinh-doanh-xang-dau-640105.aspx
+[2026-06-10 11:59:50] FETCH 200: https://thuvienphapluat.vn/cong-van/Thuong-mai/Cong-van-10607-BCT-TTTN-2024-dieu-hanh-kinh-doanh-xang-dau-637427.aspx
+[2026-06-10 11:59:50] FETCH OK: https://thuvienphapluat.vn/cong-van/Thuong-mai/Cong-van-10607-BCT-TTTN-2024-dieu-hanh-kinh-doanh-xang-dau-637427.aspx
+[2026-06-10 11:59:52] FETCH 200: https://thuvienphapluat.vn/cong-van/Tai-nguyen-Moi-truong/Cong-van-10388-BCT-TTTN-2024-dieu-hanh-kinh-doanh-xang-dau-636267.aspx
+[2026-06-10 11:59:52] FETCH OK: https://thuvienphapluat.vn/cong-van/Tai-nguyen-Moi-truong/Cong-van-10388-BCT-TTTN-2024-dieu-hanh-kinh-doanh-xang-dau-636267.aspx
+[2026-06-10 11:59:53] FETCH 200: https://thuvienphapluat.vn/cong-van/Thuong-mai/Cong-van-9885-BCT-TTTN-2024-dieu-hanh-kinh-doanh-xang-dau-634268.aspx
+[2026-06-10 11:59:54] FETCH OK: https://thuvienphapluat.vn/cong-van/Thuong-mai/Cong-van-9885-BCT-TTTN-2024-dieu-hanh-kinh-doanh-xang-dau-634268.aspx
+[2026-06-10 11:59:55] FETCH 200: https://thuvienphapluat.vn/cong-van/Thuong-mai/Cong-van-9690-BCT-TTTN-2024-dieu-hanh-kinh-doanh-xang-dau-633319.aspx
+[2026-06-10 11:59:55] FETCH OK: https://thuvienphapluat.vn/cong-van/Thuong-mai/Cong-van-9690-BCT-TTTN-2024-dieu-hanh-kinh-doanh-xang-dau-633319.aspx
+[2026-06-10 11:59:57] FETCH 200: https://thuvienphapluat.vn/cong-van/Thuong-mai/Cong-van-9460-BCT-TTTN-2024-dieu-hanh-kinh-doanh-xang-dau-632383.aspx
+[2026-06-10 11:59:57] FETCH OK: https://thuvienphapluat.vn/cong-van/Thuong-mai/Cong-van-9460-BCT-TTTN-2024-dieu-hanh-kinh-doanh-xang-dau-632383.aspx
+[2026-06-10 11:59:58] FETCH 429: https://thuvienphapluat.vn/cong-van/Thuong-mai/Cong-van-9214-BCT-TTTN-2024-dieu-hanh-kinh-doanh-xang-dau-631509.aspx
+[2026-06-10 11:59:58] FETCH ERROR: HTTP 429 | https://thuvienphapluat.vn/cong-van/Thuong-mai/Cong-van-9214-BCT-TTTN-2024-dieu-hanh-kinh-doanh-xang-dau-631509.aspx
+[2026-06-10 12:00:01] FETCH 200: https://thuvienphapluat.vn/cong-van/Thuong-mai/Cong-van-8984-BCT-TTTN-2024-dieu-hanh-kinh-doanh-xang-dau-630660.aspx
+[2026-06-10 12:00:01] FETCH OK: https://thuvienphapluat.vn/cong-van/Thuong-mai/Cong-van-8984-BCT-TTTN-2024-dieu-hanh-kinh-doanh-xang-dau-630660.aspx
+[2026-06-10 12:00:02] FETCH 200: https://thuvienphapluat.vn/cong-van/Thuong-mai/Cong-van-8729-BCT-TTTN-2024-dieu-hanh-kinh-doanh-xang-dau-629569.aspx
+[2026-06-10 12:00:02] FETCH OK: https://thuvienphapluat.vn/cong-van/Thuong-mai/Cong-van-8729-BCT-TTTN-2024-dieu-hanh-kinh-doanh-xang-dau-629569.aspx
+[2026-06-10 12:00:04] FETCH 200: https://thuvienphapluat.vn/cong-van/Thuong-mai/Cong-van-8505-BCT-TTTN-2024-dieu-hanh-kinh-doanh-xang-dau-628829.aspx
+[2026-06-10 12:00:04] FETCH OK: https://thuvienphapluat.vn/cong-van/Thuong-mai/Cong-van-8505-BCT-TTTN-2024-dieu-hanh-kinh-doanh-xang-dau-628829.aspx
+[2026-06-10 12:00:06] FETCH 200: https://thuvienphapluat.vn/cong-van/Thuong-mai/Cong-van-8296-BCT-TTTN-2024-dieu-hanh-kinh-doanh-xang-dau-627935.aspx
+[2026-06-10 12:00:06] FETCH OK: https://thuvienphapluat.vn/cong-van/Thuong-mai/Cong-van-8296-BCT-TTTN-2024-dieu-hanh-kinh-doanh-xang-dau-627935.aspx
+[2026-06-10 12:00:07] FETCH 200: https://thuvienphapluat.vn/cong-van/Thuong-mai/Cong-van-8066-BCT-TTTN-2024-dieu-hanh-kinh-doanh-xang-dau-627047.aspx
+[2026-06-10 12:00:07] FETCH OK: https://thuvienphapluat.vn/cong-van/Thuong-mai/Cong-van-8066-BCT-TTTN-2024-dieu-hanh-kinh-doanh-xang-dau-627047.aspx
+[2026-06-10 12:00:09] FETCH 200: https://thuvienphapluat.vn/cong-van/Thuong-mai/Cong-van-7771-BCT-TTTN-2024-dieu-hanh-kinh-doanh-xang-dau-626349.aspx
+[2026-06-10 12:00:09] FETCH OK: https://thuvienphapluat.vn/cong-van/Thuong-mai/Cong-van-7771-BCT-TTTN-2024-dieu-hanh-kinh-doanh-xang-dau-626349.aspx
+[2026-06-10 12:00:10] FETCH 429: https://thuvienphapluat.vn/cong-van/Thuong-mai/Cong-van-7558-BCT-TTTN-2024-dieu-hanh-kinh-doanh-xang-dau-625661.aspx
+[2026-06-10 12:00:10] FETCH ERROR: HTTP 429 | https://thuvienphapluat.vn/cong-van/Thuong-mai/Cong-van-7558-BCT-TTTN-2024-dieu-hanh-kinh-doanh-xang-dau-625661.aspx
+[2026-06-10 12:00:13] FETCH 200: https://thuvienphapluat.vn/cong-van/Thuong-mai/Cong-van-7281-BCT-TTTN-2024-dieu-hanh-kinh-doanh-xang-dau-624979.aspx
+[2026-06-10 12:00:13] FETCH OK: https://thuvienphapluat.vn/cong-van/Thuong-mai/Cong-van-7281-BCT-TTTN-2024-dieu-hanh-kinh-doanh-xang-dau-624979.aspx
+[2026-06-10 12:00:14] FETCH 200: https://thuvienphapluat.vn/cong-van/Thuong-mai/Cong-van-6996-BCT-TTTN-2024-dieu-hanh-kinh-doanh-xang-dau-624096.aspx
+[2026-06-10 12:00:14] FETCH OK: https://thuvienphapluat.vn/cong-van/Thuong-mai/Cong-van-6996-BCT-TTTN-2024-dieu-hanh-kinh-doanh-xang-dau-624096.aspx
+[2026-06-10 12:00:16] FETCH 200: https://thuvienphapluat.vn/cong-van/Thuong-mai/Cong-van-6323-BCT-TTTN-2024-dieu-hanh-kinh-doanh-xang-dau-622040.aspx
+[2026-06-10 12:00:16] FETCH OK: https://thuvienphapluat.vn/cong-van/Thuong-mai/Cong-van-6323-BCT-TTTN-2024-dieu-hanh-kinh-doanh-xang-dau-622040.aspx
+[2026-06-10 12:00:18] FETCH 200: https://thuvienphapluat.vn/cong-van/Thuong-mai/Cong-van-6040-BCT-TTTN-2024-dieu-hanh-kinh-doanh-xang-dau-621211.aspx
+[2026-06-10 12:00:18] FETCH OK: https://thuvienphapluat.vn/cong-van/Thuong-mai/Cong-van-6040-BCT-TTTN-2024-dieu-hanh-kinh-doanh-xang-dau-621211.aspx
+[2026-06-10 12:00:19] FETCH 200: https://thuvienphapluat.vn/cong-van/Thuong-mai/Cong-van-5843-BCT-TTTN-2024-dieu-hanh-kinh-doanh-xang-dau-620409.aspx
+[2026-06-10 12:00:19] FETCH OK: https://thuvienphapluat.vn/cong-van/Thuong-mai/Cong-van-5843-BCT-TTTN-2024-dieu-hanh-kinh-doanh-xang-dau-620409.aspx
+[2026-06-10 12:00:21] FETCH 200: https://thuvienphapluat.vn/cong-van/Thuong-mai/Cong-van-5599-BCT-TTTN-2024-dieu-hanh-kinh-doanh-xang-dau-620406.aspx
+[2026-06-10 12:00:21] FETCH OK: https://thuvienphapluat.vn/cong-van/Thuong-mai/Cong-van-5599-BCT-TTTN-2024-dieu-hanh-kinh-doanh-xang-dau-620406.aspx
+[2026-06-10 12:00:22] FETCH 429: https://thuvienphapluat.vn/cong-van/Thuong-mai/Cong-van-5345-BCT-TTTN-2024-dieu-hanh-kinh-doanh-xang-dau-618605.aspx
+[2026-06-10 12:00:22] FETCH ERROR: HTTP 429 | https://thuvienphapluat.vn/cong-van/Thuong-mai/Cong-van-5345-BCT-TTTN-2024-dieu-hanh-kinh-doanh-xang-dau-618605.aspx
+[2026-06-10 12:00:25] FETCH 200: https://thuvienphapluat.vn/cong-van/Thuong-mai/Cong-van-5129-BCT-TTTN-2024-quy-dinh-dieu-hanh-kinh-doanh-xang-dau-617656.aspx
+[2026-06-10 12:00:25] FETCH OK: https://thuvienphapluat.vn/cong-van/Thuong-mai/Cong-van-5129-BCT-TTTN-2024-quy-dinh-dieu-hanh-kinh-doanh-xang-dau-617656.aspx
+[2026-06-10 12:00:26] FETCH 200: https://thuvienphapluat.vn/cong-van/Thuong-mai/Cong-van-4896-BCT-TTTN-2024-dieu-hanh-kinh-doanh-xang-dau-616779.aspx
+[2026-06-10 12:00:26] FETCH OK: https://thuvienphapluat.vn/cong-van/Thuong-mai/Cong-van-4896-BCT-TTTN-2024-dieu-hanh-kinh-doanh-xang-dau-616779.aspx
+[2026-06-10 12:00:28] FETCH 200: https://thuvienphapluat.vn/cong-van/Thuong-mai/Cong-van-4662-BCT-TTTN-2024-quy-dinh-dieu-hanh-kinh-doanh-xang-dau-615930.aspx
+[2026-06-10 12:00:28] FETCH OK: https://thuvienphapluat.vn/cong-van/Thuong-mai/Cong-van-4662-BCT-TTTN-2024-quy-dinh-dieu-hanh-kinh-doanh-xang-dau-615930.aspx
+[2026-06-10 12:00:30] FETCH 200: https://thuvienphapluat.vn/cong-van/Thuong-mai/Cong-van-4477-BCT-TTTN-2024-dieu-hanh-kinh-doanh-xang-dau-615080.aspx
+[2026-06-10 12:00:30] FETCH OK: https://thuvienphapluat.vn/cong-van/Thuong-mai/Cong-van-4477-BCT-TTTN-2024-dieu-hanh-kinh-doanh-xang-dau-615080.aspx
+[2026-06-10 12:00:31] FETCH 429: https://thuvienphapluat.vn/cong-van/Thuong-mai/Cong-van-4280-BCT-TTTN-2024-quy-dinh-dieu-hanh-kinh-doanh-xang-dau-614903.aspx
+[2026-06-10 12:00:31] FETCH ERROR: HTTP 429 | https://thuvienphapluat.vn/cong-van/Thuong-mai/Cong-van-4280-BCT-TTTN-2024-quy-dinh-dieu-hanh-kinh-doanh-xang-dau-614903.aspx
+[2026-06-10 12:00:33] FETCH 200: https://thuvienphapluat.vn/cong-van/Thuong-mai/Cong-van-4065-BCT-TTTN-2024-dieu-hanh-kinh-doanh-xang-dau-613437.aspx
+[2026-06-10 12:00:34] FETCH OK: https://thuvienphapluat.vn/cong-van/Thuong-mai/Cong-van-4065-BCT-TTTN-2024-dieu-hanh-kinh-doanh-xang-dau-613437.aspx
+[2026-06-10 12:00:35] FETCH 200: https://thuvienphapluat.vn/cong-van/Thuong-mai/Cong-van-3845-BCT-TTTN-2024-quy-dinh-dieu-hanh-kinh-doanh-xang-dau-612766.aspx
+[2026-06-10 12:00:35] FETCH OK: https://thuvienphapluat.vn/cong-van/Thuong-mai/Cong-van-3845-BCT-TTTN-2024-quy-dinh-dieu-hanh-kinh-doanh-xang-dau-612766.aspx
+[2026-06-10 12:00:37] FETCH 200: https://thuvienphapluat.vn/cong-van/Thuong-mai/Cong-van-3640-BCT-TTTN-2024-quy-dinh-dieu-hanh-kinh-doanh-xang-dau-611610.aspx
+[2026-06-10 12:00:37] FETCH OK: https://thuvienphapluat.vn/cong-van/Thuong-mai/Cong-van-3640-BCT-TTTN-2024-quy-dinh-dieu-hanh-kinh-doanh-xang-dau-611610.aspx
+[2026-06-10 12:00:39] FETCH 200: https://thuvienphapluat.vn/cong-van/Thuong-mai/Cong-van-3469-BCT-TTTN-2024-dieu-hanh-kinh-doanh-xang-dau-610886.aspx
+[2026-06-10 12:00:39] FETCH OK: https://thuvienphapluat.vn/cong-van/Thuong-mai/Cong-van-3469-BCT-TTTN-2024-dieu-hanh-kinh-doanh-xang-dau-610886.aspx
+[2026-06-10 12:00:40] FETCH 200: https://thuvienphapluat.vn/cong-van/Thuong-mai/Cong-van-3250-BCT-TTTN-2024-dieu-hanh-kinh-doanh-xang-dau-610045.aspx
+[2026-06-10 12:00:40] FETCH OK: https://thuvienphapluat.vn/cong-van/Thuong-mai/Cong-van-3250-BCT-TTTN-2024-dieu-hanh-kinh-doanh-xang-dau-610045.aspx
+[2026-06-10 12:00:42] FETCH 200: https://thuvienphapluat.vn/cong-van/Thuong-mai/Cong-van-3084-BCT-TTTN-2024-dieu-hanh-kinh-doanh-xang-dau-609155.aspx
+[2026-06-10 12:00:42] FETCH OK: https://thuvienphapluat.vn/cong-van/Thuong-mai/Cong-van-3084-BCT-TTTN-2024-dieu-hanh-kinh-doanh-xang-dau-609155.aspx
+[2026-06-10 12:00:43] FETCH 429: https://thuvienphapluat.vn/cong-van/Thuong-mai/Cong-van-2846-BCT-TTTN-2024-dieu-hanh-kinh-doanh-xang-dau-608386.aspx
+[2026-06-10 12:00:43] FETCH ERROR: HTTP 429 | https://thuvienphapluat.vn/cong-van/Thuong-mai/Cong-van-2846-BCT-TTTN-2024-dieu-hanh-kinh-doanh-xang-dau-608386.aspx
+[2026-06-10 12:00:46] FETCH 200: https://thuvienphapluat.vn/cong-van/Thuong-mai/Cong-van-2749-BCT-TTTN-2024-dieu-hanh-kinh-doanh-xang-dau-607881.aspx
+[2026-06-10 12:00:46] FETCH OK: https://thuvienphapluat.vn/cong-van/Thuong-mai/Cong-van-2749-BCT-TTTN-2024-dieu-hanh-kinh-doanh-xang-dau-607881.aspx
+[2026-06-10 12:00:48] FETCH 200: https://thuvienphapluat.vn/cong-van/Thuong-mai/Cong-van-2557-BCT-TTTN-2024-dieu-hanh-kinh-doanh-xang-dau-607880.aspx
+[2026-06-10 12:00:48] FETCH OK: https://thuvienphapluat.vn/cong-van/Thuong-mai/Cong-van-2557-BCT-TTTN-2024-dieu-hanh-kinh-doanh-xang-dau-607880.aspx
+[2026-06-10 12:00:50] FETCH 200: https://thuvienphapluat.vn/cong-van/Thuong-mai/Cong-van-2384-BCT-TTTN-2024-dieu-hanh-kinh-doanh-xang-dau-607538.aspx
+[2026-06-10 12:00:50] FETCH OK: https://thuvienphapluat.vn/cong-van/Thuong-mai/Cong-van-2384-BCT-TTTN-2024-dieu-hanh-kinh-doanh-xang-dau-607538.aspx
+[2026-06-10 12:00:51] FETCH 200: https://thuvienphapluat.vn/cong-van/Thuong-mai/Cong-van-1987-BCT-TTTN-2024-dieu-hanh-kinh-doanh-xang-dau-604211.aspx
+[2026-06-10 12:00:52] FETCH OK: https://thuvienphapluat.vn/cong-van/Thuong-mai/Cong-van-1987-BCT-TTTN-2024-dieu-hanh-kinh-doanh-xang-dau-604211.aspx
+[2026-06-10 12:00:53] FETCH 200: https://thuvienphapluat.vn/cong-van/Thuong-mai/Cong-van-1785-BCT-TTTN-2024-dieu-hanh-kinh-doanh-xang-dau-603041.aspx
+[2026-06-10 12:00:53] FETCH OK: https://thuvienphapluat.vn/cong-van/Thuong-mai/Cong-van-1785-BCT-TTTN-2024-dieu-hanh-kinh-doanh-xang-dau-603041.aspx
+[2026-06-10 12:00:55] FETCH 200: https://thuvienphapluat.vn/cong-van/Thuong-mai/Cong-van-1613-BCT-TTTN-2024-dieu-hanh-kinh-doanh-xang-dau-603040.aspx
+[2026-06-10 12:00:55] FETCH OK: https://thuvienphapluat.vn/cong-van/Thuong-mai/Cong-van-1613-BCT-TTTN-2024-dieu-hanh-kinh-doanh-xang-dau-603040.aspx
+[2026-06-10 12:00:56] FETCH 200: https://thuvienphapluat.vn/cong-van/Thuong-mai/Cong-van-1460-BCT-TTTN-2024-dieu-hanh-kinh-doanh-xang-dau-601336.aspx
+[2026-06-10 12:00:56] FETCH OK: https://thuvienphapluat.vn/cong-van/Thuong-mai/Cong-van-1460-BCT-TTTN-2024-dieu-hanh-kinh-doanh-xang-dau-601336.aspx
+[2026-06-10 12:00:58] FETCH 200: https://thuvienphapluat.vn/cong-van/Thuong-mai/Cong-van-1258-BCT-TTTN-2024-dieu-hanh-kinh-doanh-xang-dau-600274.aspx
+[2026-06-10 12:00:58] FETCH OK: https://thuvienphapluat.vn/cong-van/Thuong-mai/Cong-van-1258-BCT-TTTN-2024-dieu-hanh-kinh-doanh-xang-dau-600274.aspx
+[2026-06-10 12:01:00] FETCH 429: https://thuvienphapluat.vn/cong-van/Thuong-mai/Cong-van-1081-BCT-TTTN-2024-dieu-hanh-kinh-doanh-xang-dau-599429.aspx
+[2026-06-10 12:01:00] FETCH ERROR: HTTP 429 | https://thuvienphapluat.vn/cong-van/Thuong-mai/Cong-van-1081-BCT-TTTN-2024-dieu-hanh-kinh-doanh-xang-dau-599429.aspx
+[2026-06-10 12:01:02] FETCH 200: https://thuvienphapluat.vn/cong-van/Thuong-mai/Cong-van-940-BCT-TTTN-2024-dieu-hanh-kinh-doanh-xang-dau-598991.aspx
+[2026-06-10 12:01:02] FETCH OK: https://thuvienphapluat.vn/cong-van/Thuong-mai/Cong-van-940-BCT-TTTN-2024-dieu-hanh-kinh-doanh-xang-dau-598991.aspx
+[2026-06-10 12:01:04] FETCH 200: https://thuvienphapluat.vn/cong-van/Thuong-mai/Cong-van-932-BCT-TTTN-2024-dieu-hanh-kinh-doanh-xang-dau-598625.aspx
+[2026-06-10 12:01:04] FETCH OK: https://thuvienphapluat.vn/cong-van/Thuong-mai/Cong-van-932-BCT-TTTN-2024-dieu-hanh-kinh-doanh-xang-dau-598625.aspx
+[2026-06-10 12:01:05] FETCH 200: https://thuvienphapluat.vn/cong-van/Thuong-mai/Cong-van-734-BCT-TTTN-2024-dieu-hanh-kinh-doanh-xang-dau-598990.aspx
+[2026-06-10 12:01:05] FETCH OK: https://thuvienphapluat.vn/cong-van/Thuong-mai/Cong-van-734-BCT-TTTN-2024-dieu-hanh-kinh-doanh-xang-dau-598990.aspx
+[2026-06-10 12:01:07] FETCH 200: https://thuvienphapluat.vn/cong-van/Thuong-mai/Cong-van-580-BCT-TTTN-2024-dieu-hanh-kinh-doanh-xang-dau-596842.aspx
+[2026-06-10 12:01:07] FETCH OK: https://thuvienphapluat.vn/cong-van/Thuong-mai/Cong-van-580-BCT-TTTN-2024-dieu-hanh-kinh-doanh-xang-dau-596842.aspx
+[2026-06-10 12:01:09] FETCH 200: https://thuvienphapluat.vn/cong-van/Thuong-mai/Cong-van-399-BCT-TTTN-2024-dieu-hanh-kinh-doanh-xang-dau-596841.aspx
+[2026-06-10 12:01:09] FETCH OK: https://thuvienphapluat.vn/cong-van/Thuong-mai/Cong-van-399-BCT-TTTN-2024-dieu-hanh-kinh-doanh-xang-dau-596841.aspx
+[2026-06-10 12:01:10] FETCH 429: https://thuvienphapluat.vn/cong-van/Thuong-mai/Cong-van-242-BCT-TTTN-2024-dieu-hanh-kinh-doanh-xang-dau-594919.aspx
+[2026-06-10 12:01:10] FETCH ERROR: HTTP 429 | https://thuvienphapluat.vn/cong-van/Thuong-mai/Cong-van-242-BCT-TTTN-2024-dieu-hanh-kinh-doanh-xang-dau-594919.aspx
+[2026-06-10 12:01:13] FETCH 200: https://thuvienphapluat.vn/cong-van/Thuong-mai/Cong-van-43-BCT-TTTN-2024-dieu-hanh-kinh-doanh-xang-dau-594917.aspx
+[2026-06-10 12:01:13] FETCH OK: https://thuvienphapluat.vn/cong-van/Thuong-mai/Cong-van-43-BCT-TTTN-2024-dieu-hanh-kinh-doanh-xang-dau-594917.aspx
+[2026-06-10 12:01:14] FETCH 200: https://thuvienphapluat.vn/cong-van/Thuong-mai/Cong-van-9275-BCT-TTTN-2023-dieu-hanh-kinh-doanh-xang-dau-592984.aspx
+[2026-06-10 12:01:14] FETCH OK: https://thuvienphapluat.vn/cong-van/Thuong-mai/Cong-van-9275-BCT-TTTN-2023-dieu-hanh-kinh-doanh-xang-dau-592984.aspx
+[2026-06-10 12:01:16] FETCH 200: https://thuvienphapluat.vn/cong-van/Thuong-mai/Cong-van-9088-BCT-TTTN-2023-dieu-hanh-kinh-doanh-xang-dau-591859.aspx
+[2026-06-10 12:01:16] FETCH OK: https://thuvienphapluat.vn/cong-van/Thuong-mai/Cong-van-9088-BCT-TTTN-2023-dieu-hanh-kinh-doanh-xang-dau-591859.aspx
+[2026-06-10 12:01:18] FETCH 200: https://thuvienphapluat.vn/cong-van/Thuong-mai/Cong-van-8909-BCT-TTTN-2023-dieu-hanh-kinh-doanh-xang-dau-590773.aspx
+[2026-06-10 12:01:18] FETCH OK: https://thuvienphapluat.vn/cong-van/Thuong-mai/Cong-van-8909-BCT-TTTN-2023-dieu-hanh-kinh-doanh-xang-dau-590773.aspx
+[2026-06-10 12:01:19] FETCH 200: https://thuvienphapluat.vn/cong-van/Thuong-mai/Cong-van-8746-BCT-TTTN-2023-dieu-hanh-kinh-doanh-xang-dau-589726.aspx
+[2026-06-10 12:01:19] FETCH OK: https://thuvienphapluat.vn/cong-van/Thuong-mai/Cong-van-8746-BCT-TTTN-2023-dieu-hanh-kinh-doanh-xang-dau-589726.aspx
+[2026-06-10 12:01:21] FETCH 200: https://thuvienphapluat.vn/cong-van/Thuong-mai/Cong-van-8292-BCT-TTTN-2023-dieu-hanh-kinh-doanh-xang-dau-587724.aspx
+[2026-06-10 12:01:21] FETCH OK: https://thuvienphapluat.vn/cong-van/Thuong-mai/Cong-van-8292-BCT-TTTN-2023-dieu-hanh-kinh-doanh-xang-dau-587724.aspx
+[2026-06-10 12:01:22] FETCH 429: https://thuvienphapluat.vn/cong-van/Thuong-mai/Cong-van-8035-BCT-TTTN-2023-dieu-hanh-kinh-doanh-xang-dau-586264.aspx
+[2026-06-10 12:01:22] FETCH ERROR: HTTP 429 | https://thuvienphapluat.vn/cong-van/Thuong-mai/Cong-van-8035-BCT-TTTN-2023-dieu-hanh-kinh-doanh-xang-dau-586264.aspx
+[2026-06-10 12:01:25] FETCH 200: https://thuvienphapluat.vn/cong-van/Thuong-mai/Cong-van-7660-BCT-TTTN-2023-dieu-hanh-kinh-doanh-xang-dau-584704.aspx
+[2026-06-10 12:01:25] FETCH OK: https://thuvienphapluat.vn/cong-van/Thuong-mai/Cong-van-7660-BCT-TTTN-2023-dieu-hanh-kinh-doanh-xang-dau-584704.aspx
+[2026-06-10 12:01:26] FETCH 200: https://thuvienphapluat.vn/cong-van/Thuong-mai/Cong-van-7378-BCT-TTTN-2023-dieu-hanh-kinh-doanh-xang-dau-583310.aspx
+[2026-06-10 12:01:26] FETCH OK: https://thuvienphapluat.vn/cong-van/Thuong-mai/Cong-van-7378-BCT-TTTN-2023-dieu-hanh-kinh-doanh-xang-dau-583310.aspx
+[2026-06-10 12:01:28] FETCH 200: https://thuvienphapluat.vn/cong-van/Thuong-mai/Cong-van-7075-BCT-TTTN-2023-dieu-hanh-kinh-doanh-xang-dau-581994.aspx
+[2026-06-10 12:01:28] FETCH OK: https://thuvienphapluat.vn/cong-van/Thuong-mai/Cong-van-7075-BCT-TTTN-2023-dieu-hanh-kinh-doanh-xang-dau-581994.aspx
+[2026-06-10 12:01:30] FETCH 200: https://thuvienphapluat.vn/cong-van/Thuong-mai/Cong-van-6787-BCT-TTTN-2023-dieu-hanh-kinh-doanh-xang-dau-583978.aspx
+[2026-06-10 12:01:30] FETCH OK: https://thuvienphapluat.vn/cong-van/Thuong-mai/Cong-van-6787-BCT-TTTN-2023-dieu-hanh-kinh-doanh-xang-dau-583978.aspx
+[2026-06-10 12:01:31] FETCH 200: https://thuvienphapluat.vn/cong-van/Thuong-mai/Cong-van-6237-BCT-TTTN-2023-dieu-hanh-kinh-doanh-gia-xang-dau-578781.aspx
+[2026-06-10 12:01:31] FETCH OK: https://thuvienphapluat.vn/cong-van/Thuong-mai/Cong-van-6237-BCT-TTTN-2023-dieu-hanh-kinh-doanh-gia-xang-dau-578781.aspx
+[2026-06-10 12:01:33] FETCH 200: https://thuvienphapluat.vn/cong-van/Thuong-mai/Cong-van-6083-BCT-TTTN-2023-dieu-hanh-kinh-doanh-xang-dau-577971.aspx
+[2026-06-10 12:01:33] FETCH OK: https://thuvienphapluat.vn/cong-van/Thuong-mai/Cong-van-6083-BCT-TTTN-2023-dieu-hanh-kinh-doanh-xang-dau-577971.aspx
+[2026-06-10 12:01:35] FETCH 200: https://thuvienphapluat.vn/cong-van/Thuong-mai/Cong-van-5655-BCT-TTTN-2023-dieu-hanh-kinh-doanh-xang-dau-576412.aspx
+[2026-06-10 12:01:35] FETCH OK: https://thuvienphapluat.vn/cong-van/Thuong-mai/Cong-van-5655-BCT-TTTN-2023-dieu-hanh-kinh-doanh-xang-dau-576412.aspx
+[2026-06-10 12:01:36] FETCH 429: https://thuvienphapluat.vn/cong-van/Thuong-mai/Cong-van-5345-BCT-TTTN-2023-dieu-hanh-kinh-doanh-xang-dau-575532.aspx
+[2026-06-10 12:01:36] FETCH ERROR: HTTP 429 | https://thuvienphapluat.vn/cong-van/Thuong-mai/Cong-van-5345-BCT-TTTN-2023-dieu-hanh-kinh-doanh-xang-dau-575532.aspx
+[2026-06-10 12:01:39] FETCH 200: https://thuvienphapluat.vn/cong-van/Thuong-mai/Cong-van-5041-BCT-TTTN-2023-dieu-hanh-kinh-doanh-xang-dau-574286.aspx
+[2026-06-10 12:01:39] FETCH OK: https://thuvienphapluat.vn/cong-van/Thuong-mai/Cong-van-5041-BCT-TTTN-2023-dieu-hanh-kinh-doanh-xang-dau-574286.aspx
+[2026-06-10 12:01:40] FETCH 200: https://thuvienphapluat.vn/cong-van/Thuong-mai/Cong-van-4790-BCT-TTTN-2023-dieu-hanh-kinh-doanh-xang-dau-573180.aspx
+[2026-06-10 12:01:40] FETCH OK: https://thuvienphapluat.vn/cong-van/Thuong-mai/Cong-van-4790-BCT-TTTN-2023-dieu-hanh-kinh-doanh-xang-dau-573180.aspx
+[2026-06-10 12:01:42] FETCH 200: https://thuvienphapluat.vn/cong-van/Thuong-mai/Cong-van-4506-BCT-TTTN-2023-dieu-hanh-kinh-doanh-xang-dau-572235.aspx
+[2026-06-10 12:01:42] FETCH OK: https://thuvienphapluat.vn/cong-van/Thuong-mai/Cong-van-4506-BCT-TTTN-2023-dieu-hanh-kinh-doanh-xang-dau-572235.aspx
+[2026-06-10 12:01:44] FETCH 200: https://thuvienphapluat.vn/cong-van/Thuong-mai/Cong-van-4228-BCT-TTTN-2023-dieu-hanh-kinh-doanh-xang-dau-571491.aspx
+[2026-06-10 12:01:44] FETCH OK: https://thuvienphapluat.vn/cong-van/Thuong-mai/Cong-van-4228-BCT-TTTN-2023-dieu-hanh-kinh-doanh-xang-dau-571491.aspx
+[2026-06-10 12:01:45] FETCH 200: https://thuvienphapluat.vn/cong-van/Thuong-mai/Cong-van-3862-BCT-TTTN-2023-dieu-hanh-kinh-doanh-xang-dau-570369.aspx
+[2026-06-10 12:01:45] FETCH OK: https://thuvienphapluat.vn/cong-van/Thuong-mai/Cong-van-3862-BCT-TTTN-2023-dieu-hanh-kinh-doanh-xang-dau-570369.aspx
+[2026-06-10 12:01:47] FETCH 200: https://thuvienphapluat.vn/cong-van/Thuong-mai/Cong-van-3620-BCT-TTTN-2023-dieu-hanh-kinh-doanh-xang-dau-569311.aspx
+[2026-06-10 12:01:47] FETCH OK: https://thuvienphapluat.vn/cong-van/Thuong-mai/Cong-van-3620-BCT-TTTN-2023-dieu-hanh-kinh-doanh-xang-dau-569311.aspx
+[2026-06-10 12:01:48] FETCH 429: https://thuvienphapluat.vn/cong-van/Thuong-mai/Cong-van-3380-BCT-TTTN-2023-dieu-hanh-kinh-doanh-xang-dau-568203.aspx
+[2026-06-10 12:01:49] FETCH ERROR: HTTP 429 | https://thuvienphapluat.vn/cong-van/Thuong-mai/Cong-van-3380-BCT-TTTN-2023-dieu-hanh-kinh-doanh-xang-dau-568203.aspx
+[2026-06-10 12:01:51] FETCH 200: https://thuvienphapluat.vn/cong-van/Thuong-mai/Cong-van-3080-BCT-TTTN-2023-dieu-hanh-kinh-doanh-xang-dau-567088.aspx
+[2026-06-10 12:01:51] FETCH OK: https://thuvienphapluat.vn/cong-van/Thuong-mai/Cong-van-3080-BCT-TTTN-2023-dieu-hanh-kinh-doanh-xang-dau-567088.aspx
+[2026-06-10 12:01:53] FETCH 200: https://thuvienphapluat.vn/cong-van/Thuong-mai/Cong-van-2789-BCT-TTTN-2023-dieu-hanh-kinh-doanh-xang-dau-565898.aspx
+[2026-06-10 12:01:53] FETCH OK: https://thuvienphapluat.vn/cong-van/Thuong-mai/Cong-van-2789-BCT-TTTN-2023-dieu-hanh-kinh-doanh-xang-dau-565898.aspx
+[2026-06-10 12:01:54] FETCH 200: https://thuvienphapluat.vn/cong-van/Thuong-mai/Cong-van-2588-BCT-TTTN-2023-dieu-hanh-kinh-doanh-xang-dau-565131.aspx
+[2026-06-10 12:01:54] FETCH OK: https://thuvienphapluat.vn/cong-van/Thuong-mai/Cong-van-2588-BCT-TTTN-2023-dieu-hanh-kinh-doanh-xang-dau-565131.aspx
+[2026-06-10 12:01:56] FETCH 200: https://thuvienphapluat.vn/cong-van/Thuong-mai/Cong-van-2390-BCT-TTTN-2023-dieu-hanh-kinh-doanh-xang-dau-564078.aspx
+[2026-06-10 12:01:56] FETCH OK: https://thuvienphapluat.vn/cong-van/Thuong-mai/Cong-van-2390-BCT-TTTN-2023-dieu-hanh-kinh-doanh-xang-dau-564078.aspx
+[2026-06-10 12:01:57] FETCH 200: https://thuvienphapluat.vn/cong-van/Thuong-mai/Cong-van-2075-BCT-TTTN-2023-dieu-hanh-kinh-doanh-xang-dau-562689.aspx
+[2026-06-10 12:01:57] FETCH OK: https://thuvienphapluat.vn/cong-van/Thuong-mai/Cong-van-2075-BCT-TTTN-2023-dieu-hanh-kinh-doanh-xang-dau-562689.aspx
+[2026-06-10 12:01:59] FETCH 200: https://thuvienphapluat.vn/cong-van/Thuong-mai/Cong-van-1886-BCT-TTTN-2023-dieu-hanh-kinh-doanh-xang-dau-561646.aspx
+[2026-06-10 12:01:59] FETCH OK: https://thuvienphapluat.vn/cong-van/Thuong-mai/Cong-van-1886-BCT-TTTN-2023-dieu-hanh-kinh-doanh-xang-dau-561646.aspx
+[2026-06-10 12:02:01] FETCH 200: https://thuvienphapluat.vn/cong-van/Thuong-mai/Cong-van-1576-BCT-TTTN-2023-dieu-hanh-kinh-doanh-xang-dau-560186.aspx
+[2026-06-10 12:02:01] FETCH OK: https://thuvienphapluat.vn/cong-van/Thuong-mai/Cong-van-1576-BCT-TTTN-2023-dieu-hanh-kinh-doanh-xang-dau-560186.aspx
+[2026-06-10 12:02:02] FETCH 429: https://thuvienphapluat.vn/cong-van/Thuong-mai/Cong-van-1325-BCT-TTTN-2023-dieu-hanh-kinh-doanh-xang-dau-559180.aspx
+[2026-06-10 12:02:02] FETCH ERROR: HTTP 429 | https://thuvienphapluat.vn/cong-van/Thuong-mai/Cong-van-1325-BCT-TTTN-2023-dieu-hanh-kinh-doanh-xang-dau-559180.aspx
+[2026-06-10 12:02:04] FETCH 200: https://thuvienphapluat.vn/cong-van/Thuong-mai/Cong-van-1051-BCT-TTTN-2023-dieu-hanh-kinh-doanh-xang-dau-557007.aspx
+[2026-06-10 12:02:04] FETCH OK: https://thuvienphapluat.vn/cong-van/Thuong-mai/Cong-van-1051-BCT-TTTN-2023-dieu-hanh-kinh-doanh-xang-dau-557007.aspx
+[2026-06-10 12:02:06] FETCH 200: https://thuvienphapluat.vn/cong-van/Thuong-mai/Cong-van-831-BCT-TTTN-2023-dieu-hanh-kinh-doanh-xang-dau-555905.aspx
+[2026-06-10 12:02:06] FETCH OK: https://thuvienphapluat.vn/cong-van/Thuong-mai/Cong-van-831-BCT-TTTN-2023-dieu-hanh-kinh-doanh-xang-dau-555905.aspx
+[2026-06-10 12:02:08] FETCH 200: https://thuvienphapluat.vn/cong-van/Thuong-mai/Cong-van-639-BCT-TTTN-2023-dieu-hanh-kinh-doanh-xang-dau-554630.aspx
+[2026-06-10 12:02:08] FETCH OK: https://thuvienphapluat.vn/cong-van/Thuong-mai/Cong-van-639-BCT-TTTN-2023-dieu-hanh-kinh-doanh-xang-dau-554630.aspx
+[2026-06-10 12:02:09] FETCH 200: https://thuvienphapluat.vn/cong-van/Thuong-mai/Cong-van-413-BCT-TTTN-2023-dieu-hanh-kinh-doanh-xang-dau-552133.aspx
+[2026-06-10 12:02:09] FETCH OK: https://thuvienphapluat.vn/cong-van/Thuong-mai/Cong-van-413-BCT-TTTN-2023-dieu-hanh-kinh-doanh-xang-dau-552133.aspx
+[2026-06-10 12:02:11] FETCH 200: https://thuvienphapluat.vn/cong-van/Thuong-mai/Cong-van-10-BCT-TTTN-2023-dieu-hanh-kinh-doanh-xang-dau-548622.aspx
+[2026-06-10 12:02:11] FETCH OK: https://thuvienphapluat.vn/cong-van/Thuong-mai/Cong-van-10-BCT-TTTN-2023-dieu-hanh-kinh-doanh-xang-dau-548622.aspx
+[2026-06-10 12:02:12] FETCH 429: https://thuvienphapluat.vn/cong-van/Thuong-mai/Cong-van-8243-BCT-TTTN-2022-dieu-hanh-kinh-doanh-xang-dau-546815.aspx
+[2026-06-10 12:02:12] FETCH ERROR: HTTP 429 | https://thuvienphapluat.vn/cong-van/Thuong-mai/Cong-van-8243-BCT-TTTN-2022-dieu-hanh-kinh-doanh-xang-dau-546815.aspx
+[2026-06-10 12:02:14] FETCH 200: https://thuvienphapluat.vn/cong-van/Thuong-mai/Cong-van-7938-BCT-TTTN-2022-dieu-hanh-kinh-doanh-xang-dau-545017.aspx
+[2026-06-10 12:02:14] FETCH OK: https://thuvienphapluat.vn/cong-van/Thuong-mai/Cong-van-7938-BCT-TTTN-2022-dieu-hanh-kinh-doanh-xang-dau-545017.aspx
+[2026-06-10 12:02:16] FETCH 200: https://thuvienphapluat.vn/cong-van/Thuong-mai/Cong-van-7706-BCT-TTTN-2022-dieu-hanh-kinh-doanh-xang-dau-542258.aspx
+[2026-06-10 12:02:16] FETCH OK: https://thuvienphapluat.vn/cong-van/Thuong-mai/Cong-van-7706-BCT-TTTN-2022-dieu-hanh-kinh-doanh-xang-dau-542258.aspx
+[2026-06-10 12:02:18] FETCH 200: https://thuvienphapluat.vn/cong-van/Thuong-mai/Cong-van-7376-BCT-TTTN-2022-dieu-hanh-kinh-doanh-xang-dau-539748.aspx
+[2026-06-10 12:02:18] FETCH OK: https://thuvienphapluat.vn/cong-van/Thuong-mai/Cong-van-7376-BCT-TTTN-2022-dieu-hanh-kinh-doanh-xang-dau-539748.aspx
+[2026-06-10 12:02:19] FETCH 200: https://thuvienphapluat.vn/cong-van/Thuong-mai/Cong-van-7180-BCT-TTTN-2022-dieu-hanh-kinh-doanh-xang-dau-538097.aspx
+[2026-06-10 12:02:19] FETCH OK: https://thuvienphapluat.vn/cong-van/Thuong-mai/Cong-van-7180-BCT-TTTN-2022-dieu-hanh-kinh-doanh-xang-dau-538097.aspx
+[2026-06-10 12:02:21] FETCH 200: https://thuvienphapluat.vn/cong-van/Thuong-mai/Cong-van-6853-BCT-TTTN-2022-dieu-hanh-kinh-doanh-xang-dau-535928.aspx
+[2026-06-10 12:02:21] FETCH OK: https://thuvienphapluat.vn/cong-van/Thuong-mai/Cong-van-6853-BCT-TTTN-2022-dieu-hanh-kinh-doanh-xang-dau-535928.aspx
+[2026-06-10 12:02:23] FETCH 200: https://thuvienphapluat.vn/cong-van/Thuong-mai/Cong-van-6501-BCT-TTTN-2022-dieu-hanh-kinh-doanh-xang-dau-533572.aspx
+[2026-06-10 12:02:23] FETCH OK: https://thuvienphapluat.vn/cong-van/Thuong-mai/Cong-van-6501-BCT-TTTN-2022-dieu-hanh-kinh-doanh-xang-dau-533572.aspx
+[2026-06-10 12:02:24] FETCH 429: https://thuvienphapluat.vn/cong-van/Thuong-mai/Cong-van-6253-BCT-TTTN-2022-dieu-hanh-kinh-doanh-xang-dau-531921.aspx
+[2026-06-10 12:02:24] FETCH ERROR: HTTP 429 | https://thuvienphapluat.vn/cong-van/Thuong-mai/Cong-van-6253-BCT-TTTN-2022-dieu-hanh-kinh-doanh-xang-dau-531921.aspx
+[2026-06-10 12:02:26] FETCH 200: https://thuvienphapluat.vn/cong-van/Thuong-mai/Cong-van-5938-BCT-TTTN-2022-dieu-hanh-kinh-doanh-xang-dau-531074.aspx
+[2026-06-10 12:02:26] FETCH OK: https://thuvienphapluat.vn/cong-van/Thuong-mai/Cong-van-5938-BCT-TTTN-2022-dieu-hanh-kinh-doanh-xang-dau-531074.aspx
+[2026-06-10 12:02:28] FETCH 200: https://thuvienphapluat.vn/cong-van/Thuong-mai/Cong-van-5621-BCT-TTTN-2022-dieu-hanh-kinh-doanh-xang-dau-530111.aspx
+[2026-06-10 12:02:28] FETCH OK: https://thuvienphapluat.vn/cong-van/Thuong-mai/Cong-van-5621-BCT-TTTN-2022-dieu-hanh-kinh-doanh-xang-dau-530111.aspx
+[2026-06-10 12:02:30] FETCH 200: https://thuvienphapluat.vn/cong-van/Thuong-mai/Cong-van-5404-BCT-TTTN-2022-dieu-hanh-kinh-doanh-xang-dau-529151.aspx
+[2026-06-10 12:02:30] FETCH OK: https://thuvienphapluat.vn/cong-van/Thuong-mai/Cong-van-5404-BCT-TTTN-2022-dieu-hanh-kinh-doanh-xang-dau-529151.aspx
+[2026-06-10 12:02:31] FETCH 200: https://thuvienphapluat.vn/cong-van/Thuong-mai/Cong-van-5274-BCT-TTTN-2022-dieu-hanh-kinh-doanh-xang-dau-528312.aspx
+[2026-06-10 12:02:31] FETCH OK: https://thuvienphapluat.vn/cong-van/Thuong-mai/Cong-van-5274-BCT-TTTN-2022-dieu-hanh-kinh-doanh-xang-dau-528312.aspx
+[2026-06-10 12:02:33] FETCH 200: https://thuvienphapluat.vn/cong-van/Thuong-mai/Cong-van-5011-BCT-TTTN-2022-dieu-hanh-kinh-doanh-xang-dau-526946.aspx
+[2026-06-10 12:02:33] FETCH OK: https://thuvienphapluat.vn/cong-van/Thuong-mai/Cong-van-5011-BCT-TTTN-2022-dieu-hanh-kinh-doanh-xang-dau-526946.aspx
+[2026-06-10 12:02:34] FETCH 429: https://thuvienphapluat.vn/cong-van/Thuong-mai/Cong-van-4750-BCT-TTTN-2022-dieu-hanh-kinh-doanh-xang-dau-525613.aspx
+[2026-06-10 12:02:34] FETCH ERROR: HTTP 429 | https://thuvienphapluat.vn/cong-van/Thuong-mai/Cong-van-4750-BCT-TTTN-2022-dieu-hanh-kinh-doanh-xang-dau-525613.aspx
+[2026-06-10 12:02:37] FETCH 200: https://thuvienphapluat.vn/cong-van/Thuong-mai/Cong-van-4479-BCT-TTTN-2022-dieu-hanh-kinh-doanh-xang-dau-524279.aspx
+[2026-06-10 12:02:37] FETCH OK: https://thuvienphapluat.vn/cong-van/Thuong-mai/Cong-van-4479-BCT-TTTN-2022-dieu-hanh-kinh-doanh-xang-dau-524279.aspx
+[2026-06-10 12:02:38] FETCH 200: https://thuvienphapluat.vn/cong-van/Thuong-mai/Cong-van-4202-BCT-TTTN-2022-dieu-hanh-kinh-doanh-xang-dau-522853.aspx
+[2026-06-10 12:02:38] FETCH OK: https://thuvienphapluat.vn/cong-van/Thuong-mai/Cong-van-4202-BCT-TTTN-2022-dieu-hanh-kinh-doanh-xang-dau-522853.aspx
+[2026-06-10 12:02:40] FETCH 200: https://thuvienphapluat.vn/cong-van/Thuong-mai/Cong-van-3942-BCT-TTTN-2022-dieu-hanh-kinh-doanh-xang-dau-521362.aspx
+[2026-06-10 12:02:40] FETCH OK: https://thuvienphapluat.vn/cong-van/Thuong-mai/Cong-van-3942-BCT-TTTN-2022-dieu-hanh-kinh-doanh-xang-dau-521362.aspx
+[2026-06-10 12:02:41] FETCH 200: https://thuvienphapluat.vn/cong-van/Thuong-mai/Cong-van-3742-BCT-TTTN-2022-dieu-hanh-kinh-doanh-xang-dau-520050.aspx
+[2026-06-10 12:02:41] FETCH OK: https://thuvienphapluat.vn/cong-van/Thuong-mai/Cong-van-3742-BCT-TTTN-2022-dieu-hanh-kinh-doanh-xang-dau-520050.aspx
+[2026-06-10 12:02:43] FETCH 200: https://thuvienphapluat.vn/cong-van/Thuong-mai/Cong-van-3460-BCT-TTTN-2022-dieu-hanh-kinh-doanh-xang-dau-518234.aspx
+[2026-06-10 12:02:43] FETCH OK: https://thuvienphapluat.vn/cong-van/Thuong-mai/Cong-van-3460-BCT-TTTN-2022-dieu-hanh-kinh-doanh-xang-dau-518234.aspx
+[2026-06-10 12:02:45] FETCH 200: https://thuvienphapluat.vn/cong-van/Thuong-mai/Cong-van-3309-BCT-TTTN-2022-dieu-hanh-kinh-doanh-xang-dau-516842.aspx
+[2026-06-10 12:02:45] FETCH OK: https://thuvienphapluat.vn/cong-van/Thuong-mai/Cong-van-3309-BCT-TTTN-2022-dieu-hanh-kinh-doanh-xang-dau-516842.aspx
+[2026-06-10 12:02:46] FETCH 429: https://thuvienphapluat.vn/cong-van/Thuong-mai/Cong-van-3011-BCT-TTTN-2022-dieu-hanh-kinh-doanh-xang-dau-515381.aspx
+[2026-06-10 12:02:46] FETCH ERROR: HTTP 429 | https://thuvienphapluat.vn/cong-van/Thuong-mai/Cong-van-3011-BCT-TTTN-2022-dieu-hanh-kinh-doanh-xang-dau-515381.aspx
+[2026-06-10 12:02:48] FETCH 200: https://thuvienphapluat.vn/cong-van/Thuong-mai/Cong-van-2738-BCT-TTTN-2022-dieu-hanh-kinh-doanh-xang-dau-514153.aspx
+[2026-06-10 12:02:48] FETCH OK: https://thuvienphapluat.vn/cong-van/Thuong-mai/Cong-van-2738-BCT-TTTN-2022-dieu-hanh-kinh-doanh-xang-dau-514153.aspx
+[2026-06-10 12:02:50] FETCH 200: https://thuvienphapluat.vn/cong-van/Thuong-mai/Cong-van-2531-BCT-TTTN-2022-dieu-hanh-kinh-doanh-xang-dau-512856.aspx
+[2026-06-10 12:02:50] FETCH OK: https://thuvienphapluat.vn/cong-van/Thuong-mai/Cong-van-2531-BCT-TTTN-2022-dieu-hanh-kinh-doanh-xang-dau-512856.aspx
+[2026-06-10 12:02:52] FETCH 200: https://thuvienphapluat.vn/cong-van/Thuong-mai/Cong-van-2293-BCT-TTTN-2022-dieu-hanh-kinh-doanh-xang-dau-512102.aspx
+[2026-06-10 12:02:52] FETCH OK: https://thuvienphapluat.vn/cong-van/Thuong-mai/Cong-van-2293-BCT-TTTN-2022-dieu-hanh-kinh-doanh-xang-dau-512102.aspx
+[2026-06-10 12:02:53] FETCH 200: https://thuvienphapluat.vn/cong-van/Thuong-mai/Cong-van-2078-BCT-TTTN-2022-dieu-hanh-kinh-doanh-xang-dau-510931.aspx
+[2026-06-10 12:02:53] FETCH OK: https://thuvienphapluat.vn/cong-van/Thuong-mai/Cong-van-2078-BCT-TTTN-2022-dieu-hanh-kinh-doanh-xang-dau-510931.aspx
+[2026-06-10 12:02:55] FETCH 200: https://thuvienphapluat.vn/cong-van/Thuong-mai/Cong-van-1846-BCT-TTTN-2022-dieu-hanh-kinh-doanh-xang-dau-509818.aspx
+[2026-06-10 12:02:55] FETCH OK: https://thuvienphapluat.vn/cong-van/Thuong-mai/Cong-van-1846-BCT-TTTN-2022-dieu-hanh-kinh-doanh-xang-dau-509818.aspx
+[2026-06-10 12:02:56] FETCH 429: https://thuvienphapluat.vn/cong-van/Thuong-mai/Cong-van-1674-BCT-TTTN-2022-dieu-hanh-kinh-doanh-xang-dau-508669.aspx
+[2026-06-10 12:02:56] FETCH ERROR: HTTP 429 | https://thuvienphapluat.vn/cong-van/Thuong-mai/Cong-van-1674-BCT-TTTN-2022-dieu-hanh-kinh-doanh-xang-dau-508669.aspx
+[2026-06-10 12:02:58] FETCH 200: https://thuvienphapluat.vn/cong-van/Thuong-mai/Cong-van-1403-BCT-TTTN-2022-dieu-hanh-kinh-doanh-xang-dau-507357.aspx
+[2026-06-10 12:02:58] FETCH OK: https://thuvienphapluat.vn/cong-van/Thuong-mai/Cong-van-1403-BCT-TTTN-2022-dieu-hanh-kinh-doanh-xang-dau-507357.aspx
+[2026-06-10 12:03:00] FETCH 200: https://thuvienphapluat.vn/cong-van/Thuong-mai/Cong-van-1214-BCT-TTTN-2022-dieu-hanh-kinh-doanh-xang-dau-506242.aspx
+[2026-06-10 12:03:00] FETCH OK: https://thuvienphapluat.vn/cong-van/Thuong-mai/Cong-van-1214-BCT-TTTN-2022-dieu-hanh-kinh-doanh-xang-dau-506242.aspx
+[2026-06-10 12:03:02] FETCH 200: https://thuvienphapluat.vn/cong-van/Thuong-mai/Cong-van-961-BCT-TTTN-2022-dieu-hanh-kinh-doanh-xang-dau-505020.aspx
+[2026-06-10 12:03:02] FETCH OK: https://thuvienphapluat.vn/cong-van/Thuong-mai/Cong-van-961-BCT-TTTN-2022-dieu-hanh-kinh-doanh-xang-dau-505020.aspx
+[2026-06-10 12:03:03] FETCH 200: https://thuvienphapluat.vn/cong-van/Thuong-mai/Cong-van-791-BCT-TTTN-2022-dieu-hanh-kinh-doanh-xang-dau-503958.aspx
+[2026-06-10 12:03:03] FETCH OK: https://thuvienphapluat.vn/cong-van/Thuong-mai/Cong-van-791-BCT-TTTN-2022-dieu-hanh-kinh-doanh-xang-dau-503958.aspx
+[2026-06-10 12:03:05] FETCH 200: https://thuvienphapluat.vn/cong-van/Thuong-mai/Cong-van-603-BCT-TTTN-2022-dieu-hanh-kinh-doanh-xang-dau-502751.aspx
+[2026-06-10 12:03:05] FETCH OK: https://thuvienphapluat.vn/cong-van/Thuong-mai/Cong-van-603-BCT-TTTN-2022-dieu-hanh-kinh-doanh-xang-dau-502751.aspx
+[2026-06-10 12:03:07] FETCH 200: https://thuvienphapluat.vn/cong-van/Thuong-mai/Cong-van-326-BCT-TTTN-2022-dieu-hanh-kinh-doanh-xang-dau-501241.aspx
+[2026-06-10 12:03:07] FETCH OK: https://thuvienphapluat.vn/cong-van/Thuong-mai/Cong-van-326-BCT-TTTN-2022-dieu-hanh-kinh-doanh-xang-dau-501241.aspx
+[2026-06-10 12:03:08] FETCH 429: https://thuvienphapluat.vn/cong-van/Thuong-mai/Cong-van-162-BCT-TTTN-2022-dieu-hanh-kinh-doanh-xang-dau-500175.aspx
+[2026-06-10 12:03:08] FETCH ERROR: HTTP 429 | https://thuvienphapluat.vn/cong-van/Thuong-mai/Cong-van-162-BCT-TTTN-2022-dieu-hanh-kinh-doanh-xang-dau-500175.aspx
+[2026-06-10 12:03:10] FETCH 200: https://thuvienphapluat.vn/cong-van/Thuong-mai/Cong-van-8362-BCT-TTTN-2021-dieu-hanh-kinh-doanh-xang-dau-498704.aspx
+[2026-06-10 12:03:10] FETCH OK: https://thuvienphapluat.vn/cong-van/Thuong-mai/Cong-van-8362-BCT-TTTN-2021-dieu-hanh-kinh-doanh-xang-dau-498704.aspx
+[2026-06-10 12:03:12] FETCH 200: https://thuvienphapluat.vn/cong-van/Thuong-mai/Cong-van-7877-BCT-TTTN-2021-dieu-hanh-kinh-doanh-xang-dau-497107.aspx
+[2026-06-10 12:03:12] FETCH OK: https://thuvienphapluat.vn/cong-van/Thuong-mai/Cong-van-7877-BCT-TTTN-2021-dieu-hanh-kinh-doanh-xang-dau-497107.aspx
+[2026-06-10 12:03:13] FETCH 200: https://thuvienphapluat.vn/cong-van/Thuong-mai/Cong-van-7477-BCT-TTTN-2021-dieu-hanh-kinh-doanh-xang-dau-495582.aspx
+[2026-06-10 12:03:13] FETCH OK: https://thuvienphapluat.vn/cong-van/Thuong-mai/Cong-van-7477-BCT-TTTN-2021-dieu-hanh-kinh-doanh-xang-dau-495582.aspx
+[2026-06-10 12:03:15] FETCH 200: https://thuvienphapluat.vn/cong-van/Thuong-mai/Cong-van-7101-BCT-TTTN-2021-dieu-hanh-kinh-doanh-xang-dau-493968.aspx
+[2026-06-10 12:03:15] FETCH OK: https://thuvienphapluat.vn/cong-van/Thuong-mai/Cong-van-7101-BCT-TTTN-2021-dieu-hanh-kinh-doanh-xang-dau-493968.aspx
+[2026-06-10 12:03:17] FETCH 200: https://thuvienphapluat.vn/cong-van/Thuong-mai/Cong-van-6716-BCT-TTTN-2021-dieu-hanh-kinh-doanh-xang-dau-492469.aspx
+[2026-06-10 12:03:17] FETCH OK: https://thuvienphapluat.vn/cong-van/Thuong-mai/Cong-van-6716-BCT-TTTN-2021-dieu-hanh-kinh-doanh-xang-dau-492469.aspx
+[2026-06-10 12:03:18] FETCH 429: https://thuvienphapluat.vn/cong-van/Thuong-mai/Cong-van-6295-BCT-TTTN-2021-dieu-hanh-kinh-doanh-xang-dau-490756.aspx
+[2026-06-10 12:03:18] FETCH ERROR: HTTP 429 | https://thuvienphapluat.vn/cong-van/Thuong-mai/Cong-van-6295-BCT-TTTN-2021-dieu-hanh-kinh-doanh-xang-dau-490756.aspx
+[2026-06-10 12:03:20] FETCH 200: https://thuvienphapluat.vn/cong-van/Thuong-mai/Cong-van-5909-BCT-TTTN-2021-dieu-hanh-kinh-doanh-xang-dau-489146.aspx
+[2026-06-10 12:03:21] FETCH OK: https://thuvienphapluat.vn/cong-van/Thuong-mai/Cong-van-5909-BCT-TTTN-2021-dieu-hanh-kinh-doanh-xang-dau-489146.aspx
+[2026-06-10 12:03:22] FETCH 200: https://thuvienphapluat.vn/cong-van/Thuong-mai/Cong-van-5522-BCT-TTTN-2021-dieu-hanh-kinh-doanh-xang-dau-487477.aspx
+[2026-06-10 12:03:22] FETCH OK: https://thuvienphapluat.vn/cong-van/Thuong-mai/Cong-van-5522-BCT-TTTN-2021-dieu-hanh-kinh-doanh-xang-dau-487477.aspx
+[2026-06-10 12:03:24] FETCH 200: https://thuvienphapluat.vn/cong-van/Thuong-mai/Cong-van-5204-BCT-TTTN-2021-dieu-hanh-kinh-doanh-xang-dau-486064.aspx
+[2026-06-10 12:03:24] FETCH OK: https://thuvienphapluat.vn/cong-van/Thuong-mai/Cong-van-5204-BCT-TTTN-2021-dieu-hanh-kinh-doanh-xang-dau-486064.aspx
+[2026-06-10 12:03:25] FETCH 200: https://thuvienphapluat.vn/cong-van/Thuong-mai/Cong-van-4843-BCT-TTTN-2021-dieu-hanh-kinh-doanh-xang-dau-484312.aspx
+[2026-06-10 12:03:25] FETCH OK: https://thuvienphapluat.vn/cong-van/Thuong-mai/Cong-van-4843-BCT-TTTN-2021-dieu-hanh-kinh-doanh-xang-dau-484312.aspx
+[2026-06-10 12:03:27] FETCH 200: https://thuvienphapluat.vn/cong-van/Thuong-mai/Cong-van-4469-BCT-TTTN-2021-dieu-hanh-kinh-doanh-xang-dau-482589.aspx
+[2026-06-10 12:03:27] FETCH OK: https://thuvienphapluat.vn/cong-van/Thuong-mai/Cong-van-4469-BCT-TTTN-2021-dieu-hanh-kinh-doanh-xang-dau-482589.aspx
+[2026-06-10 12:03:29] FETCH 200: https://thuvienphapluat.vn/cong-van/Thuong-mai/Cong-van-4104-BCT-TTTN-2021-dieu-hanh-kinh-doanh-xang-dau-480875.aspx
+[2026-06-10 12:03:29] FETCH OK: https://thuvienphapluat.vn/cong-van/Thuong-mai/Cong-van-4104-BCT-TTTN-2021-dieu-hanh-kinh-doanh-xang-dau-480875.aspx
+[2026-06-10 12:03:30] FETCH 429: https://thuvienphapluat.vn/cong-van/Thuong-mai/Cong-van-3753-BCT-TTTN-2021-dieu-hanh-kinh-doanh-xang-dau-479188.aspx
+[2026-06-10 12:03:30] FETCH ERROR: HTTP 429 | https://thuvienphapluat.vn/cong-van/Thuong-mai/Cong-van-3753-BCT-TTTN-2021-dieu-hanh-kinh-doanh-xang-dau-479188.aspx
+[2026-06-10 12:03:32] FETCH 200: https://thuvienphapluat.vn/cong-van/Thuong-mai/Cong-van-3382-BCT-TTTN-2021-dieu-hanh-kinh-doanh-xang-dau-477415.aspx
+[2026-06-10 12:03:32] FETCH OK: https://thuvienphapluat.vn/cong-van/Thuong-mai/Cong-van-3382-BCT-TTTN-2021-dieu-hanh-kinh-doanh-xang-dau-477415.aspx
+[2026-06-10 12:03:34] FETCH 200: https://thuvienphapluat.vn/cong-van/Thuong-mai/Cong-van-2621-BCT-TTTN-2021-dieu-hanh-kinh-doanh-xang-dau-473948.aspx
+[2026-06-10 12:03:34] FETCH OK: https://thuvienphapluat.vn/cong-van/Thuong-mai/Cong-van-2621-BCT-TTTN-2021-dieu-hanh-kinh-doanh-xang-dau-473948.aspx
+[2026-06-10 12:03:35] FETCH 429: https://thuvienphapluat.vn/cong-van/Thuong-mai/Cong-van-2055-BCT-TTTN-2021-dieu-hanh-kinh-doanh-xang-dau-470560.aspx
+[2026-06-10 12:03:35] FETCH ERROR: HTTP 429 | https://thuvienphapluat.vn/cong-van/Thuong-mai/Cong-van-2055-BCT-TTTN-2021-dieu-hanh-kinh-doanh-xang-dau-470560.aspx
+[2026-06-10 12:03:38] FETCH 200: https://thuvienphapluat.vn/cong-van/Thuong-mai/Cong-van-1685-BCT-TTTN-2021-dieu-hanh-kinh-doanh-xang-dau-468947.aspx
+[2026-06-10 12:03:38] FETCH OK: https://thuvienphapluat.vn/cong-van/Thuong-mai/Cong-van-1685-BCT-TTTN-2021-dieu-hanh-kinh-doanh-xang-dau-468947.aspx
+[2026-06-10 12:03:39] FETCH 200: https://thuvienphapluat.vn/cong-van/Thuong-mai/Cong-van-1348-BCT-TTTN-2021-dieu-hanh-kinh-doanh-xang-dau-467376.aspx
+[2026-06-10 12:03:39] FETCH OK: https://thuvienphapluat.vn/cong-van/Thuong-mai/Cong-van-1348-BCT-TTTN-2021-dieu-hanh-kinh-doanh-xang-dau-467376.aspx
+[2026-06-10 12:03:41] FETCH 200: https://thuvienphapluat.vn/cong-van/Thuong-mai/Cong-van-992-BCT-TTTN-2021-dieu-hanh-kinh-doanh-xang-dau-465910.aspx
+[2026-06-10 12:03:41] FETCH OK: https://thuvienphapluat.vn/cong-van/Thuong-mai/Cong-van-992-BCT-TTTN-2021-dieu-hanh-kinh-doanh-xang-dau-465910.aspx
+[2026-06-10 12:03:43] FETCH 200: https://thuvienphapluat.vn/cong-van/Thuong-mai/Cong-van-856-BCT-TTTN-2021-quy-dinh-dieu-hanh-kinh-doanh-xang-dau-465103.aspx
+[2026-06-10 12:03:43] FETCH OK: https://thuvienphapluat.vn/cong-van/Thuong-mai/Cong-van-856-BCT-TTTN-2021-quy-dinh-dieu-hanh-kinh-doanh-xang-dau-465103.aspx
+[2026-06-10 12:03:45] FETCH 200: https://thuvienphapluat.vn/cong-van/Thuong-mai/Cong-van-466-BCT-TTTN-2021-dieu-hanh-kinh-doanh-xang-dau-463633.aspx
+[2026-06-10 12:03:45] FETCH OK: https://thuvienphapluat.vn/cong-van/Thuong-mai/Cong-van-466-BCT-TTTN-2021-dieu-hanh-kinh-doanh-xang-dau-463633.aspx
+[2026-06-10 12:03:46] FETCH 200: https://thuvienphapluat.vn/cong-van/Thuong-mai/Cong-van-150-BCT-TTTN-2020-dieu-hanh-kinh-doanh-xang-dau-461916.aspx
+[2026-06-10 12:03:46] FETCH OK: https://thuvienphapluat.vn/cong-van/Thuong-mai/Cong-van-150-BCT-TTTN-2020-dieu-hanh-kinh-doanh-xang-dau-461916.aspx
+[2026-06-10 12:03:48] FETCH 200: https://thuvienphapluat.vn/cong-van/Thuong-mai/Cong-van-10034-BCT-TTTN-2020-dieu-hanh-kinh-doanh-xang-dau-460580.aspx
+[2026-06-10 12:03:48] FETCH OK: https://thuvienphapluat.vn/cong-van/Thuong-mai/Cong-van-10034-BCT-TTTN-2020-dieu-hanh-kinh-doanh-xang-dau-460580.aspx
+[2026-06-10 12:03:50] FETCH 200: https://thuvienphapluat.vn/cong-van/Thuong-mai/Cong-van-7212-BCT-TTTN-2020-dieu-hanh-kinh-doanh-xang-dau-493591.aspx
+[2026-06-10 12:03:50] FETCH OK: https://thuvienphapluat.vn/cong-van/Thuong-mai/Cong-van-7212-BCT-TTTN-2020-dieu-hanh-kinh-doanh-xang-dau-493591.aspx
+[2026-06-10 12:03:51] FETCH 429: https://thuvienphapluat.vn/cong-van/Thuong-mai/Cong-van-5919-BCT-TTTN-2020-dieu-hanh-kinh-doanh-xang-dau-449870.aspx
+[2026-06-10 12:03:51] FETCH ERROR: HTTP 429 | https://thuvienphapluat.vn/cong-van/Thuong-mai/Cong-van-5919-BCT-TTTN-2020-dieu-hanh-kinh-doanh-xang-dau-449870.aspx
+[2026-06-10 12:03:53] FETCH 200: https://thuvienphapluat.vn/cong-van/Thuong-mai/Cong-van-5464-BCT-TTTN-2020-dieu-hanh-kinh-doanh-xang-dau-448324.aspx
+[2026-06-10 12:03:54] FETCH OK: https://thuvienphapluat.vn/cong-van/Thuong-mai/Cong-van-5464-BCT-TTTN-2020-dieu-hanh-kinh-doanh-xang-dau-448324.aspx
+[2026-06-10 12:03:55] FETCH 200: https://thuvienphapluat.vn/cong-van/Thuong-mai/Cong-van-5046-BCT-TTTN-2020-dieu-hanh-kinh-doanh-xang-dau-447191.aspx
+[2026-06-10 12:03:55] FETCH OK: https://thuvienphapluat.vn/cong-van/Thuong-mai/Cong-van-5046-BCT-TTTN-2020-dieu-hanh-kinh-doanh-xang-dau-447191.aspx
+[2026-06-10 12:03:57] FETCH 200: https://thuvienphapluat.vn/cong-van/Thuong-mai/Cong-van-4686-BCT-TTTN-2020-dieu-hanh-kinh-doanh-xang-dau-445977.aspx
+[2026-06-10 12:03:57] FETCH OK: https://thuvienphapluat.vn/cong-van/Thuong-mai/Cong-van-4686-BCT-TTTN-2020-dieu-hanh-kinh-doanh-xang-dau-445977.aspx
+[2026-06-10 12:03:59] FETCH 200: https://thuvienphapluat.vn/cong-van/Thuong-mai/Cong-van-4227-BCT-TTTN-2020-cong-bo-gia-co-so-kinh-doanh-xang-dau-tren-thi-truong-444775.aspx
+[2026-06-10 12:03:59] FETCH OK: https://thuvienphapluat.vn/cong-van/Thuong-mai/Cong-van-4227-BCT-TTTN-2020-cong-bo-gia-co-so-kinh-doanh-xang-dau-tren-thi-truong-444775.aspx
+[2026-06-10 12:04:00] FETCH 429: https://thuvienphapluat.vn/cong-van/Tai-chinh-nha-nuoc/Cong-van-3821-BCT-TTTN-2020-dieu-hanh-kinh-doanh-xang-dau-443754.aspx
+[2026-06-10 12:04:00] FETCH ERROR: HTTP 429 | https://thuvienphapluat.vn/cong-van/Tai-chinh-nha-nuoc/Cong-van-3821-BCT-TTTN-2020-dieu-hanh-kinh-doanh-xang-dau-443754.aspx
+[2026-06-10 12:04:02] FETCH 200: https://thuvienphapluat.vn/cong-van/Tai-chinh-nha-nuoc/Cong-van-3397-BCT-TTTN-2020-dieu-hanh-kinh-doanh-xang-dau-442411.aspx
+[2026-06-10 12:04:02] FETCH OK: https://thuvienphapluat.vn/cong-van/Tai-chinh-nha-nuoc/Cong-van-3397-BCT-TTTN-2020-dieu-hanh-kinh-doanh-xang-dau-442411.aspx
+[2026-06-10 12:04:04] FETCH 200: https://thuvienphapluat.vn/cong-van/Thuong-mai/Cong-van-3006-BCT-TTTN-2020-dieu-hanh-kinh-doanh-xang-dau-441182.aspx
+[2026-06-10 12:04:04] FETCH OK: https://thuvienphapluat.vn/cong-van/Thuong-mai/Cong-van-3006-BCT-TTTN-2020-dieu-hanh-kinh-doanh-xang-dau-441182.aspx
+[2026-06-10 12:04:05] FETCH 200: https://thuvienphapluat.vn/cong-van/Thuong-mai/Cong-van-2587-BCT-TTTN-2020-dieu-hanh-kinh-doanh-xang-dau-439755.aspx
+[2026-06-10 12:04:05] FETCH OK: https://thuvienphapluat.vn/cong-van/Thuong-mai/Cong-van-2587-BCT-TTTN-2020-dieu-hanh-kinh-doanh-xang-dau-439755.aspx
+[2026-06-10 12:04:07] FETCH 200: https://thuvienphapluat.vn/cong-van/Thuong-mai/Cong-van-1798-BCT-TTTN-2020-kinh-doanh-xang-dau-437649.aspx
+[2026-06-10 12:04:07] FETCH OK: https://thuvienphapluat.vn/cong-van/Thuong-mai/Cong-van-1798-BCT-TTTN-2020-kinh-doanh-xang-dau-437649.aspx
+[2026-06-10 12:04:09] FETCH 200: https://thuvienphapluat.vn/cong-van/Thuong-mai/Cong-van-1373-BCT-TTTN-2020-dieu-hanh-kinh-doanh-xang-dau-509822.aspx
+[2026-06-10 12:04:09] FETCH OK: https://thuvienphapluat.vn/cong-van/Thuong-mai/Cong-van-1373-BCT-TTTN-2020-dieu-hanh-kinh-doanh-xang-dau-509822.aspx
+[2026-06-10 12:04:10] FETCH 429: https://thuvienphapluat.vn/cong-van/Thuong-mai/Cong-van-944-BCT-TTTN-2020-dieu-hanh-kinh-doanh-xang-dau-435342.aspx
+[2026-06-10 12:04:10] FETCH ERROR: HTTP 429 | https://thuvienphapluat.vn/cong-van/Thuong-mai/Cong-van-944-BCT-TTTN-2020-dieu-hanh-kinh-doanh-xang-dau-435342.aspx
+[2026-06-10 12:04:13] FETCH 200: https://thuvienphapluat.vn/cong-van/Thuong-mai/Cong-van-343-BCT-TTTN-2020-dieu-hanh-kinh-doanh-xang-dau-432938.aspx
+[2026-06-10 12:04:13] FETCH OK: https://thuvienphapluat.vn/cong-van/Thuong-mai/Cong-van-343-BCT-TTTN-2020-dieu-hanh-kinh-doanh-xang-dau-432938.aspx
+[2026-06-10 12:04:14] FETCH 200: https://thuvienphapluat.vn/cong-van/Thuong-mai/Cong-van-10162-BCT-TTTN-2019-dieu-hanh-kinh-doanh-xang-dau-511814.aspx
+[2026-06-10 12:04:14] FETCH OK: https://thuvienphapluat.vn/cong-van/Thuong-mai/Cong-van-10162-BCT-TTTN-2019-dieu-hanh-kinh-doanh-xang-dau-511814.aspx
+[2026-06-10 12:04:16] FETCH 200: https://thuvienphapluat.vn/cong-van/Thuong-mai/Cong-van-9621-BCT-TTTN-2019-dieu-hanh-kinh-doanh-xang-dau-512342.aspx
+[2026-06-10 12:04:16] FETCH OK: https://thuvienphapluat.vn/cong-van/Thuong-mai/Cong-van-9621-BCT-TTTN-2019-dieu-hanh-kinh-doanh-xang-dau-512342.aspx
+[2026-06-10 12:04:17] FETCH 200: https://thuvienphapluat.vn/cong-van/Thuong-mai/Cong-van-9139-BCT-TTTN-2019-dieu-hanh-kinh-doanh-xang-dau-512481.aspx
+[2026-06-10 12:04:17] FETCH OK: https://thuvienphapluat.vn/cong-van/Thuong-mai/Cong-van-9139-BCT-TTTN-2019-dieu-hanh-kinh-doanh-xang-dau-512481.aspx
+[2026-06-10 12:04:19] FETCH 200: https://thuvienphapluat.vn/cong-van/Thuong-mai/Cong-van-8733-BCT-TTTN-2019-dieu-hanh-kinh-doanh-xang-dau-514194.aspx
+[2026-06-10 12:04:19] FETCH OK: https://thuvienphapluat.vn/cong-van/Thuong-mai/Cong-van-8733-BCT-TTTN-2019-dieu-hanh-kinh-doanh-xang-dau-514194.aspx
+[2026-06-10 12:04:21] FETCH 200: https://thuvienphapluat.vn/cong-van/Thuong-mai/Cong-van-8258-BCT-TTTN-2019-dieu-hanh-kinh-doanh-xang-dau-427077.aspx
+[2026-06-10 12:04:21] FETCH OK: https://thuvienphapluat.vn/cong-van/Thuong-mai/Cong-van-8258-BCT-TTTN-2019-dieu-hanh-kinh-doanh-xang-dau-427077.aspx
+[2026-06-10 12:04:22] FETCH 429: https://thuvienphapluat.vn/cong-van/Thuong-mai/Cong-van-7785-BCT-TTTN-2019-kinh-doanh-xang-dau-426252.aspx
+[2026-06-10 12:04:22] FETCH ERROR: HTTP 429 | https://thuvienphapluat.vn/cong-van/Thuong-mai/Cong-van-7785-BCT-TTTN-2019-kinh-doanh-xang-dau-426252.aspx
+[2026-06-10 12:04:25] FETCH 200: https://thuvienphapluat.vn/cong-van/Thuong-mai/Cong-van-6817-BCT-TTTN-2019-dieu-hanh-kinh-doanh-xang-dau-424046.aspx
+[2026-06-10 12:04:25] FETCH OK: https://thuvienphapluat.vn/cong-van/Thuong-mai/Cong-van-6817-BCT-TTTN-2019-dieu-hanh-kinh-doanh-xang-dau-424046.aspx
+[2026-06-10 12:04:26] FETCH 200: https://thuvienphapluat.vn/cong-van/Thuong-mai/Cong-van-6012-BCT-TTTN-2019-dieu-hanh-kinh-doanh-xang-dau-421225.aspx
+[2026-06-10 12:04:26] FETCH OK: https://thuvienphapluat.vn/cong-van/Thuong-mai/Cong-van-6012-BCT-TTTN-2019-dieu-hanh-kinh-doanh-xang-dau-421225.aspx
+[2026-06-10 12:04:28] FETCH 200: https://thuvienphapluat.vn/cong-van/Thuong-mai/Cong-van-5531-BCT-TTTN-2019-ve-dieu-hanh-kinh-doanh-xang-dau-420105.aspx
+[2026-06-10 12:04:28] FETCH OK: https://thuvienphapluat.vn/cong-van/Thuong-mai/Cong-van-5531-BCT-TTTN-2019-ve-dieu-hanh-kinh-doanh-xang-dau-420105.aspx
+[2026-06-10 12:04:30] FETCH 200: https://thuvienphapluat.vn/cong-van/Thuong-mai/Cong-van-5087-BCT-TTTN-2019-ve-dieu-hanh-kinh-doanh-xang-dau-418929.aspx
+[2026-06-10 12:04:30] FETCH OK: https://thuvienphapluat.vn/cong-van/Thuong-mai/Cong-van-5087-BCT-TTTN-2019-ve-dieu-hanh-kinh-doanh-xang-dau-418929.aspx
+[2026-06-10 12:04:31] FETCH 200: https://thuvienphapluat.vn/cong-van/Thuong-mai/Cong-van-4720-BCT-TTTN-2019-ve-dieu-hanh-kinh-doanh-xang-dau-418753.aspx
+[2026-06-10 12:04:31] FETCH OK: https://thuvienphapluat.vn/cong-van/Thuong-mai/Cong-van-4720-BCT-TTTN-2019-ve-dieu-hanh-kinh-doanh-xang-dau-418753.aspx
+[2026-06-10 12:04:33] FETCH 200: https://thuvienphapluat.vn/cong-van/Thuong-mai/Cong-van-4286-BCT-TTTN-2019-dieu-hanh-kinh-doah-xang-dau-416531.aspx
+[2026-06-10 12:04:33] FETCH OK: https://thuvienphapluat.vn/cong-van/Thuong-mai/Cong-van-4286-BCT-TTTN-2019-dieu-hanh-kinh-doah-xang-dau-416531.aspx
+[2026-06-10 12:04:35] FETCH 200: https://thuvienphapluat.vn/cong-van/Thuong-mai/Cong-van-3864-BCT-TTTN-2019-ve-dieu-hanh-kinh-doanh-xang-dau-416102.aspx
+[2026-06-10 12:04:35] FETCH OK: https://thuvienphapluat.vn/cong-van/Thuong-mai/Cong-van-3864-BCT-TTTN-2019-ve-dieu-hanh-kinh-doanh-xang-dau-416102.aspx
+[2026-06-10 12:04:36] FETCH 429: https://thuvienphapluat.vn/cong-van/Thuong-mai/Cong-van-3466-BCT-TTTN-2019-dieu-hanh-kinh-doanh-xang-dau-414220.aspx
+[2026-06-10 12:04:36] FETCH ERROR: HTTP 429 | https://thuvienphapluat.vn/cong-van/Thuong-mai/Cong-van-3466-BCT-TTTN-2019-dieu-hanh-kinh-doanh-xang-dau-414220.aspx
+[2026-06-10 12:04:39] FETCH 200: https://thuvienphapluat.vn/cong-van/Thuong-mai/Cong-van-3006-BCT-TTTN-2019-dieu-hanh-kinh-doanh-xang-dau-412758.aspx
+[2026-06-10 12:04:39] FETCH OK: https://thuvienphapluat.vn/cong-van/Thuong-mai/Cong-van-3006-BCT-TTTN-2019-dieu-hanh-kinh-doanh-xang-dau-412758.aspx
+[2026-06-10 12:04:41] FETCH 200: https://thuvienphapluat.vn/cong-van/Thuong-mai/Cong-van-2647-BCT-TTTN-2019-dieu-hanh-kinh-doanh-xang-dau-411767.aspx
+[2026-06-10 12:04:41] FETCH OK: https://thuvienphapluat.vn/cong-van/Thuong-mai/Cong-van-2647-BCT-TTTN-2019-dieu-hanh-kinh-doanh-xang-dau-411767.aspx
+[2026-06-10 12:04:42] FETCH 200: https://thuvienphapluat.vn/cong-van/Thuong-mai/Cong-van-1363-BCT-TTTN-2019-dieu-hanh-kinh-doanh-xang-dau-410164.aspx
+[2026-06-10 12:04:42] FETCH OK: https://thuvienphapluat.vn/cong-van/Thuong-mai/Cong-van-1363-BCT-TTTN-2019-dieu-hanh-kinh-doanh-xang-dau-410164.aspx
+[2026-06-10 12:04:44] FETCH 200: https://thuvienphapluat.vn/cong-van/Thuong-mai/Cong-van-8989-BCT-TTTN-2018-dieu-hanh-kinh-doanh-xang-dau-399015.aspx
+[2026-06-10 12:04:44] FETCH OK: https://thuvienphapluat.vn/cong-van/Thuong-mai/Cong-van-8989-BCT-TTTN-2018-dieu-hanh-kinh-doanh-xang-dau-399015.aspx
+[2026-06-10 12:04:46] FETCH 200: https://thuvienphapluat.vn/cong-van/Thuong-mai/Cong-van-8563-BCT-TTTN-2018-dieu-hanh-kinh-doanh-xang-dau-397560.aspx
+[2026-06-10 12:04:46] FETCH OK: https://thuvienphapluat.vn/cong-van/Thuong-mai/Cong-van-8563-BCT-TTTN-2018-dieu-hanh-kinh-doanh-xang-dau-397560.aspx
+[2026-06-10 12:04:47] FETCH 200: https://thuvienphapluat.vn/cong-van/Thuong-mai/Cong-van-7657-BCT-TTTN-2018-dieu-hanh-kinh-doanh-xang-dau-395197.aspx
+[2026-06-10 12:04:47] FETCH OK: https://thuvienphapluat.vn/cong-van/Thuong-mai/Cong-van-7657-BCT-TTTN-2018-dieu-hanh-kinh-doanh-xang-dau-395197.aspx
+[2026-06-10 12:04:49] FETCH 200: https://thuvienphapluat.vn/cong-van/Thuong-mai/Cong-van-7194-BCT-TTTN-2018-dieu-hanh-kinh-doanh-xang-dau-393365.aspx
+[2026-06-10 12:04:49] FETCH OK: https://thuvienphapluat.vn/cong-van/Thuong-mai/Cong-van-7194-BCT-TTTN-2018-dieu-hanh-kinh-doanh-xang-dau-393365.aspx
+[2026-06-10 12:04:51] FETCH 200: https://thuvienphapluat.vn/cong-van/Thuong-mai/Cong-van-6181-BCT-TTTN-2018-dieu-hanh-kinh-doanh-xang-dau-389885.aspx
+[2026-06-10 12:04:51] FETCH OK: https://thuvienphapluat.vn/cong-van/Thuong-mai/Cong-van-6181-BCT-TTTN-2018-dieu-hanh-kinh-doanh-xang-dau-389885.aspx
+[2026-06-10 12:04:52] FETCH 429: https://thuvienphapluat.vn/cong-van/Thuong-mai/Cong-van-5778-BCT-TTTN-2018-dieu-hanh-kinh-doanh-xang-dau-388226.aspx
+[2026-06-10 12:04:52] FETCH ERROR: HTTP 429 | https://thuvienphapluat.vn/cong-van/Thuong-mai/Cong-van-5778-BCT-TTTN-2018-dieu-hanh-kinh-doanh-xang-dau-388226.aspx
+[2026-06-10 12:04:55] FETCH 200: https://thuvienphapluat.vn/cong-van/Thuong-mai/Cong-van-4530-BCT-TTTN-2018-dieu-hanh-kinh-doanh-xang-dau-383741.aspx
+[2026-06-10 12:04:55] FETCH OK: https://thuvienphapluat.vn/cong-van/Thuong-mai/Cong-van-4530-BCT-TTTN-2018-dieu-hanh-kinh-doanh-xang-dau-383741.aspx
+[2026-06-10 12:04:56] FETCH 200: https://thuvienphapluat.vn/cong-van/Thuong-mai/Cong-van-4057-BCT-TTTN-2018-dieu-hanh-kinh-doanh-xang-dau-382514.aspx
+[2026-06-10 12:04:56] FETCH OK: https://thuvienphapluat.vn/cong-van/Thuong-mai/Cong-van-4057-BCT-TTTN-2018-dieu-hanh-kinh-doanh-xang-dau-382514.aspx
+[2026-06-10 12:04:58] FETCH 200: https://thuvienphapluat.vn/cong-van/Thuong-mai/Cong-van-3585-BCT-TTTN-2018-dieu-hanh-kinh-doanh-xang-dau-381286.aspx
+[2026-06-10 12:04:58] FETCH OK: https://thuvienphapluat.vn/cong-van/Thuong-mai/Cong-van-3585-BCT-TTTN-2018-dieu-hanh-kinh-doanh-xang-dau-381286.aspx
+[2026-06-10 12:05:00] FETCH 200: https://thuvienphapluat.vn/cong-van/Thuong-mai/Cong-van-2243-BCT-TTTN-2018-dieu-hanh-kinh-doanh-xang-dau-387974.aspx
+[2026-06-10 12:05:00] FETCH OK: https://thuvienphapluat.vn/cong-van/Thuong-mai/Cong-van-2243-BCT-TTTN-2018-dieu-hanh-kinh-doanh-xang-dau-387974.aspx
+[2026-06-10 12:05:01] FETCH 200: https://thuvienphapluat.vn/cong-van/Thuong-mai/Cong-van-1757-BCT-TTTN-2018-dieu-hanh-kinh-doanh-xang-dau-376238.aspx
+[2026-06-10 12:05:01] FETCH OK: https://thuvienphapluat.vn/cong-van/Thuong-mai/Cong-van-1757-BCT-TTTN-2018-dieu-hanh-kinh-doanh-xang-dau-376238.aspx
+[2026-06-10 12:05:03] FETCH 200: https://thuvienphapluat.vn/cong-van/Thuong-mai/Cong-van-1377-BCT-TTTN-2018-dieu-hanh-kinh-doanh-xang-dau-374927.aspx
+[2026-06-10 12:05:03] FETCH OK: https://thuvienphapluat.vn/cong-van/Thuong-mai/Cong-van-1377-BCT-TTTN-2018-dieu-hanh-kinh-doanh-xang-dau-374927.aspx
+[2026-06-10 12:05:04] FETCH 429: https://thuvienphapluat.vn/cong-van/Thuong-mai/Cong-van-1073-BCT-TTTN-2018-dieu-hanh-kinh-doanh-xang-dau-374438.aspx
+[2026-06-10 12:05:04] FETCH ERROR: HTTP 429 | https://thuvienphapluat.vn/cong-van/Thuong-mai/Cong-van-1073-BCT-TTTN-2018-dieu-hanh-kinh-doanh-xang-dau-374438.aspx
+[2026-06-10 12:05:07] FETCH 200: https://thuvienphapluat.vn/cong-van/Thuong-mai/Cong-van-552-BCT-TTTN-2018-dieu-hanh-kinh-doanh-xang-dau-372752.aspx
+[2026-06-10 12:05:07] FETCH OK: https://thuvienphapluat.vn/cong-van/Thuong-mai/Cong-van-552-BCT-TTTN-2018-dieu-hanh-kinh-doanh-xang-dau-372752.aspx
+[2026-06-10 12:05:08] FETCH 200: https://thuvienphapluat.vn/cong-van/Thuong-mai/Cong-van-51-BCT-TTTN-2018-dieu-hanh-kinh-doanh-xang-dau-371492.aspx
+[2026-06-10 12:05:08] FETCH OK: https://thuvienphapluat.vn/cong-van/Thuong-mai/Cong-van-51-BCT-TTTN-2018-dieu-hanh-kinh-doanh-xang-dau-371492.aspx
+[2026-06-10 12:05:10] FETCH 200: https://thuvienphapluat.vn/cong-van/Thuong-mai/Cong-van-11964-BCT-TTTN-2017-dieu-hanh-kinh-doanh-xang-dau-370234.aspx
+[2026-06-10 12:05:10] FETCH OK: https://thuvienphapluat.vn/cong-van/Thuong-mai/Cong-van-11964-BCT-TTTN-2017-dieu-hanh-kinh-doanh-xang-dau-370234.aspx
+[2026-06-10 12:05:11] FETCH 200: https://thuvienphapluat.vn/cong-van/Thuong-mai/Cong-van-11448-BCT-TTTN-2017-dieu-hanh-kinh-doanh-xang-dau-368985.aspx
+[2026-06-10 12:05:11] FETCH OK: https://thuvienphapluat.vn/cong-van/Thuong-mai/Cong-van-11448-BCT-TTTN-2017-dieu-hanh-kinh-doanh-xang-dau-368985.aspx
+[2026-06-10 12:05:13] FETCH 200: https://thuvienphapluat.vn/cong-van/Thuong-mai/Cong-van-10896-BCT-TTTN-2017-dieu-hanh-kinh-doanh-xang-dau-367626.aspx
+[2026-06-10 12:05:13] FETCH OK: https://thuvienphapluat.vn/cong-van/Thuong-mai/Cong-van-10896-BCT-TTTN-2017-dieu-hanh-kinh-doanh-xang-dau-367626.aspx
+[2026-06-10 12:05:15] FETCH 200: https://thuvienphapluat.vn/cong-van/Thuong-mai/Cong-van-10365-BCT-TTTN-2017-dieu-hanh-kinh-doanh-xang-dau-366261.aspx
+[2026-06-10 12:05:15] FETCH OK: https://thuvienphapluat.vn/cong-van/Thuong-mai/Cong-van-10365-BCT-TTTN-2017-dieu-hanh-kinh-doanh-xang-dau-366261.aspx
+[2026-06-10 12:05:16] FETCH 429: https://thuvienphapluat.vn/cong-van/Thuong-mai/Cong-van-9759-BCT-TTTN-2017-dieu-hanh-kinh-doanh-xang-dau-364831.aspx
+[2026-06-10 12:05:16] FETCH ERROR: HTTP 429 | https://thuvienphapluat.vn/cong-van/Thuong-mai/Cong-van-9759-BCT-TTTN-2017-dieu-hanh-kinh-doanh-xang-dau-364831.aspx
+[2026-06-10 12:05:18] FETCH 200: https://thuvienphapluat.vn/cong-van/Thuong-mai/Cong-van-9278-BCT-TTTN-2017-dieu-hanh-kinh-doanh-xang-dau-363619.aspx
+[2026-06-10 12:05:18] FETCH OK: https://thuvienphapluat.vn/cong-van/Thuong-mai/Cong-van-9278-BCT-TTTN-2017-dieu-hanh-kinh-doanh-xang-dau-363619.aspx
+[2026-06-10 12:05:20] FETCH 200: https://thuvienphapluat.vn/cong-van/Thuong-mai/Cong-van-8724-BCT-TTTN-2017-dieu-hanh-kinh-doanh-xang-dau-361833.aspx
+[2026-06-10 12:05:20] FETCH OK: https://thuvienphapluat.vn/cong-van/Thuong-mai/Cong-van-8724-BCT-TTTN-2017-dieu-hanh-kinh-doanh-xang-dau-361833.aspx
+[2026-06-10 12:05:22] FETCH 200: https://thuvienphapluat.vn/cong-van/Thuong-mai/Cong-van-8178-BCT-TTTN-2017-dieu-hanh-kinh-doanh-xang-dau-360655.aspx
+[2026-06-10 12:05:22] FETCH OK: https://thuvienphapluat.vn/cong-van/Thuong-mai/Cong-van-8178-BCT-TTTN-2017-dieu-hanh-kinh-doanh-xang-dau-360655.aspx
+[2026-06-10 12:05:23] FETCH 200: https://thuvienphapluat.vn/cong-van/Thuong-mai/Cong-van-7616-BCT-TTTN-2017-dieu-hanh-kinh-doanh-xang-dau-359409.aspx
+[2026-06-10 12:05:23] FETCH OK: https://thuvienphapluat.vn/cong-van/Thuong-mai/Cong-van-7616-BCT-TTTN-2017-dieu-hanh-kinh-doanh-xang-dau-359409.aspx
+[2026-06-10 12:05:25] FETCH 200: https://thuvienphapluat.vn/cong-van/Thuong-mai/Cong-van-7027-BCT-TTTN-2017-dieu-hanh-kinh-doanh-xang-dau-dau-moi-kinh-doanh-xang-dau-357804.aspx
+[2026-06-10 12:05:25] FETCH OK: https://thuvienphapluat.vn/cong-van/Thuong-mai/Cong-van-7027-BCT-TTTN-2017-dieu-hanh-kinh-doanh-xang-dau-dau-moi-kinh-doanh-xang-dau-357804.aspx
+[2026-06-10 12:05:27] FETCH 200: https://thuvienphapluat.vn/cong-van/Thuong-mai/Cong-van-6473-BCT-TTTN-2017-dieu-hanh-kinh-doanh-xang-dau-355818.aspx
+[2026-06-10 12:05:27] FETCH OK: https://thuvienphapluat.vn/cong-van/Thuong-mai/Cong-van-6473-BCT-TTTN-2017-dieu-hanh-kinh-doanh-xang-dau-355818.aspx
+[2026-06-10 12:05:28] FETCH 429: https://thuvienphapluat.vn/cong-van/Thuong-mai/Quyet-dinh-5977-QD-BCT-2017-dieu-hanh-kinh-doanh-xang-dau-354025.aspx
+[2026-06-10 12:05:28] FETCH ERROR: HTTP 429 | https://thuvienphapluat.vn/cong-van/Thuong-mai/Quyet-dinh-5977-QD-BCT-2017-dieu-hanh-kinh-doanh-xang-dau-354025.aspx
+[2026-06-10 12:05:30] FETCH 200: https://thuvienphapluat.vn/cong-van/Thuong-mai/Cong-van-5430-BCT-TTTN-2017-dieu-hanh-kinh-doanh-xang-dau-352523.aspx
+[2026-06-10 12:05:30] FETCH OK: https://thuvienphapluat.vn/cong-van/Thuong-mai/Cong-van-5430-BCT-TTTN-2017-dieu-hanh-kinh-doanh-xang-dau-352523.aspx
+[2026-06-10 12:05:32] FETCH 200: https://thuvienphapluat.vn/cong-van/Thuong-mai/Cong-van-4442-BCT-TTTN-2017-dieu-hanh-kinh-doanh-xang-dau-349719.aspx
+[2026-06-10 12:05:32] FETCH OK: https://thuvienphapluat.vn/cong-van/Thuong-mai/Cong-van-4442-BCT-TTTN-2017-dieu-hanh-kinh-doanh-xang-dau-349719.aspx
+[2026-06-10 12:05:34] FETCH 200: https://thuvienphapluat.vn/cong-van/Thuong-mai/Cong-van-3886-BCT-TTTN-dieu-hanh-kinh-doanh-xang-dau-2017-348294.aspx
+[2026-06-10 12:05:34] FETCH OK: https://thuvienphapluat.vn/cong-van/Thuong-mai/Cong-van-3886-BCT-TTTN-dieu-hanh-kinh-doanh-xang-dau-2017-348294.aspx
+[2026-06-10 12:05:35] FETCH 200: https://thuvienphapluat.vn/cong-van/Thuong-mai/Cong-van-3372-BCT-TTTN-dieu-hanh-kinh-doanh-xang-dau-2017-346707.aspx
+[2026-06-10 12:05:35] FETCH OK: https://thuvienphapluat.vn/cong-van/Thuong-mai/Cong-van-3372-BCT-TTTN-dieu-hanh-kinh-doanh-xang-dau-2017-346707.aspx
+[2026-06-10 12:05:37] FETCH 200: https://thuvienphapluat.vn/cong-van/Thuong-mai/Cong-van-2833-BCT-TTTN-dieu-hanh-kinh-doanh-xang-dau-2017-345987.aspx
+[2026-06-10 12:05:37] FETCH OK: https://thuvienphapluat.vn/cong-van/Thuong-mai/Cong-van-2833-BCT-TTTN-dieu-hanh-kinh-doanh-xang-dau-2017-345987.aspx
+[2026-06-10 12:05:39] FETCH 200: https://thuvienphapluat.vn/cong-van/Thuong-mai/Cong-van-2284-BCT-TTTN-dieu-hanh-kinh-doanh-xang-dau-2017-343184.aspx
+[2026-06-10 12:05:39] FETCH OK: https://thuvienphapluat.vn/cong-van/Thuong-mai/Cong-van-2284-BCT-TTTN-dieu-hanh-kinh-doanh-xang-dau-2017-343184.aspx
+[2026-06-10 12:05:40] FETCH 429: https://thuvienphapluat.vn/cong-van/Thuong-mai/Cong-van-1775-BCT-TTTN-dieu-hanh-kinh-doanh-xang-dau-2017-341514.aspx
+[2026-06-10 12:05:40] FETCH ERROR: HTTP 429 | https://thuvienphapluat.vn/cong-van/Thuong-mai/Cong-van-1775-BCT-TTTN-dieu-hanh-kinh-doanh-xang-dau-2017-341514.aspx
+[2026-06-10 12:05:42] FETCH 200: https://thuvienphapluat.vn/cong-van/Thuong-mai/Cong-van-1315-BCT-TTTN-dieu-hanh-kinh-doanh-xang-dau-2017-340087.aspx
+[2026-06-10 12:05:42] FETCH OK: https://thuvienphapluat.vn/cong-van/Thuong-mai/Cong-van-1315-BCT-TTTN-dieu-hanh-kinh-doanh-xang-dau-2017-340087.aspx
+[2026-06-10 12:05:44] FETCH 200: https://thuvienphapluat.vn/cong-van/Thuong-mai/Cong-van-845-BCT-TTTN-dieu-hanh-kinh-doanh-xang-dau-2017-338394.aspx
+[2026-06-10 12:05:44] FETCH OK: https://thuvienphapluat.vn/cong-van/Thuong-mai/Cong-van-845-BCT-TTTN-dieu-hanh-kinh-doanh-xang-dau-2017-338394.aspx
+[2026-06-10 12:05:46] FETCH 200: https://thuvienphapluat.vn/cong-van/Thuong-mai/Cong-van-562-BCT-TTTN-dieu-hanh-kinh-doanh-xang-dau-2017-337760.aspx
+[2026-06-10 12:05:46] FETCH OK: https://thuvienphapluat.vn/cong-van/Thuong-mai/Cong-van-562-BCT-TTTN-dieu-hanh-kinh-doanh-xang-dau-2017-337760.aspx
+[2026-06-10 12:05:47] FETCH 200: https://thuvienphapluat.vn/cong-van/Thuong-mai/Cong-van-88-BCT-TTTN-dieu-hanh-kinh-doanh-xang-dau-2017-336302.aspx
+[2026-06-10 12:05:47] FETCH OK: https://thuvienphapluat.vn/cong-van/Thuong-mai/Cong-van-88-BCT-TTTN-dieu-hanh-kinh-doanh-xang-dau-2017-336302.aspx
+[2026-06-10 12:05:49] FETCH 200: https://thuvienphapluat.vn/cong-van/Thuong-mai/Cong-van-12255-BCT-TTTN-dieu-hanh-kinh-doanh-xang-dau-2016-334659.aspx
+[2026-06-10 12:05:49] FETCH OK: https://thuvienphapluat.vn/cong-van/Thuong-mai/Cong-van-12255-BCT-TTTN-dieu-hanh-kinh-doanh-xang-dau-2016-334659.aspx
+[2026-06-10 12:05:50] FETCH 429: https://thuvienphapluat.vn/cong-van/Thuong-mai/Cong-van-11674-BCT-TTTN-dieu-hanh-kinh-doanh-xang-dau-2016-332859.aspx
+[2026-06-10 12:05:50] FETCH ERROR: HTTP 429 | https://thuvienphapluat.vn/cong-van/Thuong-mai/Cong-van-11674-BCT-TTTN-dieu-hanh-kinh-doanh-xang-dau-2016-332859.aspx
+[2026-06-10 12:05:53] FETCH 200: https://thuvienphapluat.vn/cong-van/Thuong-mai/Cong-van-11070-BCT-TTTN-dieu-hanh-kinh-doanh-xang-dau-2016-330517.aspx
+[2026-06-10 12:05:53] FETCH OK: https://thuvienphapluat.vn/cong-van/Thuong-mai/Cong-van-11070-BCT-TTTN-dieu-hanh-kinh-doanh-xang-dau-2016-330517.aspx
+[2026-06-10 12:05:54] FETCH 200: https://thuvienphapluat.vn/cong-van/Thuong-mai/Cong-van-10541-BCT-TTTN-dieu-hanh-kinh-doanh-xang-dau-2016-328277.aspx
+[2026-06-10 12:05:54] FETCH OK: https://thuvienphapluat.vn/cong-van/Thuong-mai/Cong-van-10541-BCT-TTTN-dieu-hanh-kinh-doanh-xang-dau-2016-328277.aspx
+[2026-06-10 12:05:56] FETCH 200: https://thuvienphapluat.vn/cong-van/Thuong-mai/Cong-van-9999-BCT-TTTN-dieu-hanh-kinh-doanh-xang-dau-2016-326326.aspx
+[2026-06-10 12:05:56] FETCH OK: https://thuvienphapluat.vn/cong-van/Thuong-mai/Cong-van-9999-BCT-TTTN-dieu-hanh-kinh-doanh-xang-dau-2016-326326.aspx
+[2026-06-10 12:05:57] FETCH 200: https://thuvienphapluat.vn/cong-van/Thuong-mai/Cong-van-9434-BCT-TTTN-dieu-hanh-kinh-doanh-xang-dau-2016-324589.aspx
+[2026-06-10 12:05:58] FETCH OK: https://thuvienphapluat.vn/cong-van/Thuong-mai/Cong-van-9434-BCT-TTTN-dieu-hanh-kinh-doanh-xang-dau-2016-324589.aspx
+[2026-06-10 12:05:59] FETCH 200: https://thuvienphapluat.vn/cong-van/Thuong-mai/Cong-van-8811-BCT-TTTN-dieu-hanh-kinh-doanh-xang-dau-2016-322533.aspx
+[2026-06-10 12:05:59] FETCH OK: https://thuvienphapluat.vn/cong-van/Thuong-mai/Cong-van-8811-BCT-TTTN-dieu-hanh-kinh-doanh-xang-dau-2016-322533.aspx
+[2026-06-10 12:06:01] FETCH 200: https://thuvienphapluat.vn/cong-van/Thuong-mai/Cong-van-8239-BCT-TTTN-dieu-hanh-kinh-doanh-xang-dau-2016-321203.aspx
+[2026-06-10 12:06:01] FETCH OK: https://thuvienphapluat.vn/cong-van/Thuong-mai/Cong-van-8239-BCT-TTTN-dieu-hanh-kinh-doanh-xang-dau-2016-321203.aspx
+[2026-06-10 12:06:02] FETCH 429: https://thuvienphapluat.vn/cong-van/Thuong-mai/Cong-van-7716-BCT-TTTN-dieu-hanh-kinh-doanh-xang-dau-2016-319967.aspx
+[2026-06-10 12:06:02] FETCH ERROR: HTTP 429 | https://thuvienphapluat.vn/cong-van/Thuong-mai/Cong-van-7716-BCT-TTTN-dieu-hanh-kinh-doanh-xang-dau-2016-319967.aspx
+[2026-06-10 12:06:05] FETCH 200: https://thuvienphapluat.vn/cong-van/Thuong-mai/Cong-van-7204-BCT-TTTN-dieu-hanh-kinh-doanh-xang-dau-2016-318727.aspx
+[2026-06-10 12:06:05] FETCH OK: https://thuvienphapluat.vn/cong-van/Thuong-mai/Cong-van-7204-BCT-TTTN-dieu-hanh-kinh-doanh-xang-dau-2016-318727.aspx
+[2026-06-10 12:06:06] FETCH 200: https://thuvienphapluat.vn/cong-van/Thuong-mai/Cong-van-6695-BCT-TTTN-dieu-hanh-kinh-doanh-xang-dau-2016-317530.aspx
+[2026-06-10 12:06:06] FETCH OK: https://thuvienphapluat.vn/cong-van/Thuong-mai/Cong-van-6695-BCT-TTTN-dieu-hanh-kinh-doanh-xang-dau-2016-317530.aspx
+[2026-06-10 12:06:08] FETCH 200: https://thuvienphapluat.vn/cong-van/Thuong-mai/Cong-van-6056-BCT-TTTN-dieu-hanh-kinh-doanh-xang-dau-2016-316411.aspx
+[2026-06-10 12:06:08] FETCH OK: https://thuvienphapluat.vn/cong-van/Thuong-mai/Cong-van-6056-BCT-TTTN-dieu-hanh-kinh-doanh-xang-dau-2016-316411.aspx
+[2026-06-10 12:06:10] FETCH 200: https://thuvienphapluat.vn/cong-van/Thuong-mai/Cong-van-5450-BCT-TTTTN-dieu-hanh-kinh-doanh-xang-dau-2016-314942.aspx
+[2026-06-10 12:06:10] FETCH OK: https://thuvienphapluat.vn/cong-van/Thuong-mai/Cong-van-5450-BCT-TTTTN-dieu-hanh-kinh-doanh-xang-dau-2016-314942.aspx
+[2026-06-10 12:06:11] FETCH 200: https://thuvienphapluat.vn/cong-van/Thuong-mai/Cong-van-4951-BCT-TTTN-dieu-hanh-kinh-doanh-xang-dau-2016-313405.aspx
+[2026-06-10 12:06:11] FETCH OK: https://thuvienphapluat.vn/cong-van/Thuong-mai/Cong-van-4951-BCT-TTTN-dieu-hanh-kinh-doanh-xang-dau-2016-313405.aspx
+[2026-06-10 12:06:13] FETCH 200: https://thuvienphapluat.vn/cong-van/Thuong-mai/Cong-van-4353-BCT-TTTN-dieu-hanh-kinh-doanh-xang-dau-2016-311884.aspx
+[2026-06-10 12:06:13] FETCH OK: https://thuvienphapluat.vn/cong-van/Thuong-mai/Cong-van-4353-BCT-TTTN-dieu-hanh-kinh-doanh-xang-dau-2016-311884.aspx
+[2026-06-10 12:06:15] FETCH 200: https://thuvienphapluat.vn/cong-van/Thuong-mai/Cong-van-3835-BCT-TTTN-dieu-hanh-kinh-doanh-xang-dau-2016-310391.aspx
+[2026-06-10 12:06:15] FETCH OK: https://thuvienphapluat.vn/cong-van/Thuong-mai/Cong-van-3835-BCT-TTTN-dieu-hanh-kinh-doanh-xang-dau-2016-310391.aspx
+[2026-06-10 12:06:16] FETCH 429: https://thuvienphapluat.vn/cong-van/Thuong-mai/Cong-van-3407-BCT-TTTN-dieu-hanh-kinh-doanh-xang-dau-2016-309114.aspx
+[2026-06-10 12:06:16] FETCH ERROR: HTTP 429 | https://thuvienphapluat.vn/cong-van/Thuong-mai/Cong-van-3407-BCT-TTTN-dieu-hanh-kinh-doanh-xang-dau-2016-309114.aspx
+[2026-06-10 12:06:18] FETCH 200: https://thuvienphapluat.vn/cong-van/Thuong-mai/Cong-van-2974-BCT-TTTN-dieu-hanh-kinh-doanh-xang-dau-2016-308003.aspx
+[2026-06-10 12:06:18] FETCH OK: https://thuvienphapluat.vn/cong-van/Thuong-mai/Cong-van-2974-BCT-TTTN-dieu-hanh-kinh-doanh-xang-dau-2016-308003.aspx
+[2026-06-10 12:06:20] FETCH 200: https://thuvienphapluat.vn/cong-van/Thuong-mai/Cong-van-2427-BCT-TTTN-dieu-hanh-kinh-doanh-xang-dau-2016-306262.aspx
+[2026-06-10 12:06:20] FETCH OK: https://thuvienphapluat.vn/cong-van/Thuong-mai/Cong-van-2427-BCT-TTTN-dieu-hanh-kinh-doanh-xang-dau-2016-306262.aspx
+[2026-06-10 12:06:22] FETCH 200: https://thuvienphapluat.vn/cong-van/Thuong-mai/Cong-van-1851-BTC-TTTN-dieu-hanh-kinh-doanh-xang-dau-2016-304374.aspx
+[2026-06-10 12:06:22] FETCH OK: https://thuvienphapluat.vn/cong-van/Thuong-mai/Cong-van-1851-BTC-TTTN-dieu-hanh-kinh-doanh-xang-dau-2016-304374.aspx
+[2026-06-10 12:06:24] FETCH 200: https://thuvienphapluat.vn/cong-van/Thuong-mai/Cong-van-1407-BCT-TTTN-dieu-chinh-kinh-doanh-xang-dau-2016-302812.aspx
+[2026-06-10 12:06:24] FETCH OK: https://thuvienphapluat.vn/cong-van/Thuong-mai/Cong-van-1407-BCT-TTTN-dieu-chinh-kinh-doanh-xang-dau-2016-302812.aspx
+[2026-06-10 12:06:25] FETCH 200: https://thuvienphapluat.vn/cong-van/Thuong-mai/Cong-van-1273-BCT-TTTN-dieu-hanh-kinh-doanh-xang-dau-2016-302261.aspx
+[2026-06-10 12:06:25] FETCH OK: https://thuvienphapluat.vn/cong-van/Thuong-mai/Cong-van-1273-BCT-TTTN-dieu-hanh-kinh-doanh-xang-dau-2016-302261.aspx
+[2026-06-10 12:06:27] FETCH 200: https://thuvienphapluat.vn/cong-van/Thuong-mai/Cong-van-564-BCT-TTTN-dieu-hanh-kinh-doanh-xang-dau-2016-300827.aspx
+[2026-06-10 12:06:27] FETCH OK: https://thuvienphapluat.vn/cong-van/Thuong-mai/Cong-van-564-BCT-TTTN-dieu-hanh-kinh-doanh-xang-dau-2016-300827.aspx
+[2026-06-10 12:06:28] FETCH 429: https://thuvienphapluat.vn/cong-van/Thuong-mai/Cong-van-12-BCT-TTTN-dieu-hanh-kinh-doanh-xang-dau-2015-299509.aspx
+[2026-06-10 12:06:28] FETCH ERROR: HTTP 429 | https://thuvienphapluat.vn/cong-van/Thuong-mai/Cong-van-12-BCT-TTTN-dieu-hanh-kinh-doanh-xang-dau-2015-299509.aspx
+[2026-06-10 12:06:31] FETCH 200: https://thuvienphapluat.vn/cong-van/Thuong-mai/Cong-van-12925-BCT-TTTN-dieu-hanh-kinh-doanh-xang-dau-2015-298346.aspx
+[2026-06-10 12:06:31] FETCH OK: https://thuvienphapluat.vn/cong-van/Thuong-mai/Cong-van-12925-BCT-TTTN-dieu-hanh-kinh-doanh-xang-dau-2015-298346.aspx
+[2026-06-10 12:06:33] FETCH 200: https://thuvienphapluat.vn/cong-van/Thuong-mai/Cong-van-12401-BCT-TTTN-dieu-hanh-kinh-doanh-xang-dau-2015-296965.aspx
+[2026-06-10 12:06:33] FETCH OK: https://thuvienphapluat.vn/cong-van/Thuong-mai/Cong-van-12401-BCT-TTTN-dieu-hanh-kinh-doanh-xang-dau-2015-296965.aspx
+[2026-06-10 12:06:35] FETCH 200: https://thuvienphapluat.vn/cong-van/Thuong-mai/Cong-van-11858-BCT-TTTN-dieu-hanh-kinh-doanh-xang-dau-2015-295658.aspx
+[2026-06-10 12:06:35] FETCH OK: https://thuvienphapluat.vn/cong-van/Thuong-mai/Cong-van-11858-BCT-TTTN-dieu-hanh-kinh-doanh-xang-dau-2015-295658.aspx
+[2026-06-10 12:06:37] FETCH 200: https://thuvienphapluat.vn/cong-van/Thuong-mai/Cong-van-11330-BCT-TTTN-dieu-hanh-kinh-doanh-xang-dau-2015-294497.aspx
+[2026-06-10 12:06:37] FETCH OK: https://thuvienphapluat.vn/cong-van/Thuong-mai/Cong-van-11330-BCT-TTTN-dieu-hanh-kinh-doanh-xang-dau-2015-294497.aspx
+[2026-06-10 12:06:39] FETCH 200: https://thuvienphapluat.vn/cong-van/Thuong-mai/Cong-van-10755-BCT-TTTN-dieu-hanh-kinh-doanh-xang-dau-2015-293301.aspx
+[2026-06-10 12:06:39] FETCH OK: https://thuvienphapluat.vn/cong-van/Thuong-mai/Cong-van-10755-BCT-TTTN-dieu-hanh-kinh-doanh-xang-dau-2015-293301.aspx
+[2026-06-10 12:06:41] FETCH 200: https://thuvienphapluat.vn/cong-van/Thuong-mai/Cong-van-10225-BCT-TTTN-dieu-hanh-kinh-doanh-xang-dau-292023.aspx
+[2026-06-10 12:06:41] FETCH OK: https://thuvienphapluat.vn/cong-van/Thuong-mai/Cong-van-10225-BCT-TTTN-dieu-hanh-kinh-doanh-xang-dau-292023.aspx
+[2026-06-10 12:06:43] FETCH 200: https://thuvienphapluat.vn/cong-van/Thuong-mai/Cong-van-9709-BCT-TTTN-dieu-hanh-kinh-doanh-xang-dau-290523.aspx
+[2026-06-10 12:06:43] FETCH OK: https://thuvienphapluat.vn/cong-van/Thuong-mai/Cong-van-9709-BCT-TTTN-dieu-hanh-kinh-doanh-xang-dau-290523.aspx
+[2026-06-10 12:06:45] FETCH 200: https://thuvienphapluat.vn/cong-van/Thuong-mai/Cong-van-9144-BCT-TTTN-dieu-hanh-kinh-doanh-xang-dau-288747.aspx
+[2026-06-10 12:06:45] FETCH OK: https://thuvienphapluat.vn/cong-van/Thuong-mai/Cong-van-9144-BCT-TTTN-dieu-hanh-kinh-doanh-xang-dau-288747.aspx
+[2026-06-10 12:06:48] FETCH 200: https://thuvienphapluat.vn/cong-van/Thuong-mai/Cong-van-8616-BCT-TTTN-2015-ve-dieu-hanh-kinh-doanh-xang-dau-286948.aspx
+[2026-06-10 12:06:48] FETCH OK: https://thuvienphapluat.vn/cong-van/Thuong-mai/Cong-van-8616-BCT-TTTN-2015-ve-dieu-hanh-kinh-doanh-xang-dau-286948.aspx
+[2026-06-10 12:06:50] FETCH 200: https://thuvienphapluat.vn/cong-van/Thuong-mai/Cong-van-8047-BCT-TTTN-2015-dieu-hanh-kinh-doanh-xang-dau-284738.aspx
+[2026-06-10 12:06:50] FETCH OK: https://thuvienphapluat.vn/cong-van/Thuong-mai/Cong-van-8047-BCT-TTTN-2015-dieu-hanh-kinh-doanh-xang-dau-284738.aspx
+[2026-06-10 12:06:52] FETCH 200: https://thuvienphapluat.vn/cong-van/Thuong-mai/Cong-van-7294-BCT-TTTN-2015-dieu-hanh-kinh-doanh-xang-dau-282890.aspx
+[2026-06-10 12:06:52] FETCH OK: https://thuvienphapluat.vn/cong-van/Thuong-mai/Cong-van-7294-BCT-TTTN-2015-dieu-hanh-kinh-doanh-xang-dau-282890.aspx
+[2026-06-10 12:06:54] FETCH 200: https://thuvienphapluat.vn/cong-van/Thuong-mai/Cong-van-6714-BCT-TTTN-2015-viec-dieu-hanh-kinh-doanh-xang-dau-280526.aspx
+[2026-06-10 12:06:54] FETCH OK: https://thuvienphapluat.vn/cong-van/Thuong-mai/Cong-van-6714-BCT-TTTN-2015-viec-dieu-hanh-kinh-doanh-xang-dau-280526.aspx
+[2026-06-10 12:06:56] FETCH 200: https://thuvienphapluat.vn/cong-van/Thuong-mai/Cong-van-6056-BCT-TTTN-2015-dieu-hanh-kinh-doanh-xang-dau-278461.aspx
+[2026-06-10 12:06:56] FETCH OK: https://thuvienphapluat.vn/cong-van/Thuong-mai/Cong-van-6056-BCT-TTTN-2015-dieu-hanh-kinh-doanh-xang-dau-278461.aspx
+[2026-06-10 12:06:58] FETCH 200: https://thuvienphapluat.vn/cong-van/Thuong-mai/Cong-van-5507-BCT-TTTN-2015-dieu-hanh-kinh-doanh-xang-dau-276545.aspx
+[2026-06-10 12:06:58] FETCH OK: https://thuvienphapluat.vn/cong-van/Thuong-mai/Cong-van-5507-BCT-TTTN-2015-dieu-hanh-kinh-doanh-xang-dau-276545.aspx
+[2026-06-10 12:07:00] FETCH 200: https://thuvienphapluat.vn/cong-van/Thuong-mai/Cong-van-4972-BCT-TTTN-2015-dieu-hanh-kinh-doanh-xang-dau-274785.aspx
+[2026-06-10 12:07:00] FETCH OK: https://thuvienphapluat.vn/cong-van/Thuong-mai/Cong-van-4972-BCT-TTTN-2015-dieu-hanh-kinh-doanh-xang-dau-274785.aspx
+[2026-06-10 12:07:02] FETCH 200: https://thuvienphapluat.vn/cong-van/Thuong-mai/Cong-van-4391-BCT-TTTN-2015-dieu-hanh-kinh-doanh-xang-dau-273162.aspx
+[2026-06-10 12:07:03] FETCH OK: https://thuvienphapluat.vn/cong-van/Thuong-mai/Cong-van-4391-BCT-TTTN-2015-dieu-hanh-kinh-doanh-xang-dau-273162.aspx
+[2026-06-10 12:07:05] FETCH 200: https://thuvienphapluat.vn/cong-van/Giao-thong-Van-tai/Cong-van-3543-BCT-TTTN-2015-dieu-hanh-kinh-doanh-xang-dau-271010.aspx
+[2026-06-10 12:07:05] FETCH OK: https://thuvienphapluat.vn/cong-van/Giao-thong-Van-tai/Cong-van-3543-BCT-TTTN-2015-dieu-hanh-kinh-doanh-xang-dau-271010.aspx
+[2026-06-10 12:07:06] FETCH 200: https://thuvienphapluat.vn/cong-van/Thuong-mai/Cong-van-2943-BCT-TTTN-2015-dieu-hanh-kinh-doanh-xang-dau-269344.aspx
+[2026-06-10 12:07:07] FETCH OK: https://thuvienphapluat.vn/cong-van/Thuong-mai/Cong-van-2943-BCT-TTTN-2015-dieu-hanh-kinh-doanh-xang-dau-269344.aspx
+[2026-06-10 12:07:08] FETCH 200: https://thuvienphapluat.vn/cong-van/Thuong-mai/Cong-van-2374-BCT-TTTN-2015-dieu-hanh-kinh-doanh-xang-dau-267723.aspx
+[2026-06-10 12:07:08] FETCH OK: https://thuvienphapluat.vn/cong-van/Thuong-mai/Cong-van-2374-BCT-TTTN-2015-dieu-hanh-kinh-doanh-xang-dau-267723.aspx
+[2026-06-10 12:07:11] FETCH 200: https://thuvienphapluat.vn/cong-van/Thuong-mai/Cong-van-1860-BCT-TTTN-2015-dieu-hanh-kinh-doanh-xang-dau-266238.aspx
+[2026-06-10 12:07:11] FETCH OK: https://thuvienphapluat.vn/cong-van/Thuong-mai/Cong-van-1860-BCT-TTTN-2015-dieu-hanh-kinh-doanh-xang-dau-266238.aspx
+[2026-06-10 12:07:13] FETCH 200: https://thuvienphapluat.vn/cong-van/Thuong-mai/Cong-van-1337-BCT-TTTN-2015-dieu-hanh-kinh-doanh-xang-dau-265355.aspx
+[2026-06-10 12:07:13] FETCH OK: https://thuvienphapluat.vn/cong-van/Thuong-mai/Cong-van-1337-BCT-TTTN-2015-dieu-hanh-kinh-doanh-xang-dau-265355.aspx
+[2026-06-10 12:07:15] FETCH 200: https://thuvienphapluat.vn/cong-van/Thuong-mai/Cong-van-687-BCT-TTTN-2015-dieu-hanh-kinh-doanh-xang-dau-263697.aspx
+[2026-06-10 12:07:15] FETCH OK: https://thuvienphapluat.vn/cong-van/Thuong-mai/Cong-van-687-BCT-TTTN-2015-dieu-hanh-kinh-doanh-xang-dau-263697.aspx
+[2026-06-10 12:07:17] FETCH 200: https://thuvienphapluat.vn/cong-van/Thuong-mai/Cong-van-54-BCT-TTTN-nam-2015-dieu-hanh-kinh-doanh-xang-dau-262349.aspx
+[2026-06-10 12:07:17] FETCH OK: https://thuvienphapluat.vn/cong-van/Thuong-mai/Cong-van-54-BCT-TTTN-nam-2015-dieu-hanh-kinh-doanh-xang-dau-262349.aspx
+[2026-06-10 12:07:19] FETCH 200: https://thuvienphapluat.vn/cong-van/Thuong-mai/Cong-van-12826-BCT-TTTN-2014-dieu-hanh-kinh-doanh-xang-dau-261014.aspx
+[2026-06-10 12:07:19] FETCH OK: https://thuvienphapluat.vn/cong-van/Thuong-mai/Cong-van-12826-BCT-TTTN-2014-dieu-hanh-kinh-doanh-xang-dau-261014.aspx
+[2026-06-10 12:07:21] FETCH 200: https://thuvienphapluat.vn/cong-van/Thuong-mai/Cong-van-12248-BCT-TTTN-2014-dieu-hanh-kinh-doanh-xang-dau-259564.aspx
+[2026-06-10 12:07:21] FETCH OK: https://thuvienphapluat.vn/cong-van/Thuong-mai/Cong-van-12248-BCT-TTTN-2014-dieu-hanh-kinh-doanh-xang-dau-259564.aspx
+[2026-06-10 12:07:23] FETCH 200: https://thuvienphapluat.vn/cong-van/Thuong-mai/Cong-van-11747-BCT-TTTN-nam-2014-dieu-hanh-kinh-doanh-xang-dau-258180.aspx
+[2026-06-10 12:07:23] FETCH OK: https://thuvienphapluat.vn/cong-van/Thuong-mai/Cong-van-11747-BCT-TTTN-nam-2014-dieu-hanh-kinh-doanh-xang-dau-258180.aspx
+[2026-06-10 12:07:26] FETCH 200: https://thuvienphapluat.vn/cong-van/Thuong-mai/Cong-van-11088-BCT-TTTN-nam-2014-dieu-hanh-kinh-doanh-xang-dau-256505.aspx
+[2026-06-10 12:07:26] FETCH OK: https://thuvienphapluat.vn/cong-van/Thuong-mai/Cong-van-11088-BCT-TTTN-nam-2014-dieu-hanh-kinh-doanh-xang-dau-256505.aspx
+[2026-06-10 12:07:27] FETCH DONE: new=279, retry_ok=0, blocked=0, invalid=0, failed=42, skipped=0
+[2026-06-10 12:07:28] PARSE: 279 docs cần parse, 0 đã xong
+[2026-06-10 12:07:29] PARSE OK: a728f566cad561f8 → 3 loại nhiên liệu
+[2026-06-10 12:07:30] PARSE OK: 90c5209410d3139e → 3 loại nhiên liệu
+[2026-06-10 12:07:30] PARSE OK: 7090572f802d5049 → 3 loại nhiên liệu
+[2026-06-10 12:07:31] PARSE OK: 896e0a3f91d55e45 → 3 loại nhiên liệu
+[2026-06-10 12:07:32] PARSE OK: 5038f03bf8420274 → 4 loại nhiên liệu
+[2026-06-10 12:07:33] PARSE OK: cd334f1809ca70cb → 4 loại nhiên liệu
+[2026-06-10 12:07:33] PARSE OK: f7f6307c25f1bd85 → 4 loại nhiên liệu
+[2026-06-10 12:07:34] PARSE OK: bf9489af04f85357 → 4 loại nhiên liệu
+[2026-06-10 12:07:35] PARSE OK: 4140a899a2cfcefd → 4 loại nhiên liệu
+[2026-06-10 12:07:36] PARSE OK: 6809720dbebd9a21 → 4 loại nhiên liệu
+[2026-06-10 12:07:37] PARSE OK: 48cea29f6701993d → 4 loại nhiên liệu
+[2026-06-10 12:07:37] PARSE OK: a874d5794c21461f → 4 loại nhiên liệu
+[2026-06-10 12:07:38] PARSE OK: 7ceb92855164dccc → 4 loại nhiên liệu
+[2026-06-10 12:07:39] PARSE OK: 84b6eb81c9fa9228 → 4 loại nhiên liệu
+[2026-06-10 12:07:40] PARSE OK: cd990b5d4e95df0e → 4 loại nhiên liệu
+[2026-06-10 12:07:41] PARSE OK: 52ca854df47d6ca2 → 4 loại nhiên liệu
+[2026-06-10 12:07:41] PARSE OK: cf4043b38fa0a377 → 4 loại nhiên liệu
+[2026-06-10 12:07:42] PARSE OK: 4276ec4c940451d6 → 4 loại nhiên liệu
+[2026-06-10 12:07:43] PARSE OK: ce79c97a8561cafd → 4 loại nhiên liệu
+[2026-06-10 12:07:44] PARSE OK: 0ef954a9d915b261 → 4 loại nhiên liệu
+[2026-06-10 12:07:44] PARSE OK: 1e7fd6acc777908a → 4 loại nhiên liệu
+[2026-06-10 12:07:45] PARSE OK: 6852d53097037f5c → 4 loại nhiên liệu
+[2026-06-10 12:07:46] PARSE OK: 4e73ea2c475175c5 → 4 loại nhiên liệu
+[2026-06-10 12:07:47] PARSE OK: 224bfe067c3e56e0 → 4 loại nhiên liệu
+[2026-06-10 12:07:48] PARSE OK: 3d3cc7b8749f5d7a → 4 loại nhiên liệu
+[2026-06-10 12:07:48] PARSE OK: 6d0d915b3c40f1f8 → 4 loại nhiên liệu
+[2026-06-10 12:07:49] PARSE OK: 29581e6f1ebe579f → 4 loại nhiên liệu
+[2026-06-10 12:07:50] PARSE OK: 890d8b16af9704e1 → 4 loại nhiên liệu
+[2026-06-10 12:07:51] PARSE OK: 5e038ebe3805ab01 → 4 loại nhiên liệu
+[2026-06-10 12:07:51] PARSE OK: d71ca098e4ef19e1 → 4 loại nhiên liệu
+[2026-06-10 12:07:52] PARSE OK: b9f957592c086c67 → 4 loại nhiên liệu
+[2026-06-10 12:07:53] PARSE OK: 04952f180c7b5bda → 4 loại nhiên liệu
+[2026-06-10 12:07:53] PARSE OK: 8a053775d8966ef2 → 4 loại nhiên liệu
+[2026-06-10 12:07:54] PARSE OK: a321ba1451d946ec → 4 loại nhiên liệu
+[2026-06-10 12:07:55] PARSE OK: 5a5265c83adc2602 → 4 loại nhiên liệu
+[2026-06-10 12:07:56] PARSE OK: 678175aa5523860d → 4 loại nhiên liệu
+[2026-06-10 12:07:56] PARSE OK: 2e4508090c994436 → 4 loại nhiên liệu
+[2026-06-10 12:07:57] PARSE OK: 70311e056d5ffa15 → 4 loại nhiên liệu
+[2026-06-10 12:07:58] PARSE OK: b8c6b7893827fa99 → 4 loại nhiên liệu
+[2026-06-10 12:07:59] PARSE OK: 11ae3aa3d8e13813 → 4 loại nhiên liệu
+[2026-06-10 12:08:00] PARSE OK: 0761832a6f3871c9 → 3 loại nhiên liệu
+[2026-06-10 12:08:00] PARSE OK: f066ef7a129e75dc → 4 loại nhiên liệu
+[2026-06-10 12:08:01] PARSE OK: a08f9af844846763 → 4 loại nhiên liệu
+[2026-06-10 12:08:02] PARSE OK: 8156ff3d02aa4d36 → 4 loại nhiên liệu
+[2026-06-10 12:08:03] PARSE OK: 93c4a91c0e45e9e5 → 4 loại nhiên liệu
+[2026-06-10 12:08:03] PARSE OK: a69c1d3cf11a89b5 → 4 loại nhiên liệu
+[2026-06-10 12:08:04] PARSE OK: 90ae92eed8a97b76 → 4 loại nhiên liệu
+[2026-06-10 12:08:05] PARSE OK: 71e3d0f6592fbb77 → 4 loại nhiên liệu
+[2026-06-10 12:08:06] PARSE OK: fa1eb7d694a84828 → 4 loại nhiên liệu
+[2026-06-10 12:08:07] PARSE OK: a7b7db6999ddbac1 → 4 loại nhiên liệu
+[2026-06-10 12:08:08] PARSE OK: 36402681df05eb59 → 4 loại nhiên liệu
+[2026-06-10 12:08:08] PARSE OK: cde62b286d7ce87e → 4 loại nhiên liệu
+[2026-06-10 12:08:09] PARSE OK: 42773ce2c7acca4f → 4 loại nhiên liệu
+[2026-06-10 12:08:10] PARSE OK: cb6106ec65b0f039 → 4 loại nhiên liệu
+[2026-06-10 12:08:11] PARSE OK: 60dbc03761dfa22f → 4 loại nhiên liệu
+[2026-06-10 12:08:11] PARSE OK: 55200b1cf534bc1c → 3 loại nhiên liệu
+[2026-06-10 12:08:12] PARSE OK: e1d4cd5b265ecce4 → 3 loại nhiên liệu
+[2026-06-10 12:08:13] PARSE OK: 5eef8331bfa2de62 → 4 loại nhiên liệu
+[2026-06-10 12:08:14] PARSE OK: 2f790c55b31bad00 → 4 loại nhiên liệu
+[2026-06-10 12:08:14] PARSE OK: 81ea7e10e17bf4ea → 4 loại nhiên liệu
+[2026-06-10 12:08:15] PARSE OK: 67424b4bd17e4957 → 4 loại nhiên liệu
+[2026-06-10 12:08:16] PARSE OK: 8e8a2ffeca0c5f07 → 4 loại nhiên liệu
+[2026-06-10 12:08:16] PARSE OK: 271060ee867d8926 → 4 loại nhiên liệu
+[2026-06-10 12:08:17] PARSE OK: 9faf39ef788ff56d → 4 loại nhiên liệu
+[2026-06-10 12:08:18] PARSE OK: 141e9343abe20eb9 → 4 loại nhiên liệu
+[2026-06-10 12:08:18] PARSE OK: 7d3ebb22e94f1f40 → 4 loại nhiên liệu
+[2026-06-10 12:08:19] PARSE OK: b7d05ef645a67f44 → 4 loại nhiên liệu
+[2026-06-10 12:08:20] PARSE OK: 92226e6a7b03760b → 3 loại nhiên liệu
+[2026-06-10 12:08:21] PARSE OK: 8daeccf4f36f9455 → 4 loại nhiên liệu
+[2026-06-10 12:08:21] PARSE OK: b4ee19c7165c12a0 → 4 loại nhiên liệu
+[2026-06-10 12:08:22] PARSE OK: 1cb3b772784ecebf → 4 loại nhiên liệu
+[2026-06-10 12:08:23] PARSE OK: d55e0016dee18732 → 3 loại nhiên liệu
+[2026-06-10 12:08:24] PARSE OK: 84d07ef8a882969f → 4 loại nhiên liệu
+[2026-06-10 12:08:24] PARSE OK: 7959ab958153b98b → 4 loại nhiên liệu
+[2026-06-10 12:08:25] PARSE OK: f3815863f9e37aba → 4 loại nhiên liệu
+[2026-06-10 12:08:26] PARSE OK: c1c8c98c8d46237b → 4 loại nhiên liệu
+[2026-06-10 12:08:26] PARSE OK: 5d23a701a057a309 → 4 loại nhiên liệu
+[2026-06-10 12:08:27] PARSE OK: 49be5b6eff8c914b → 4 loại nhiên liệu
+[2026-06-10 12:08:28] PARSE OK: bc836d5191d7ce51 → 4 loại nhiên liệu
+[2026-06-10 12:08:29] PARSE OK: 58ef356368c56074 → 4 loại nhiên liệu
+[2026-06-10 12:08:29] PARSE OK: a29a516f2e050fb7 → 4 loại nhiên liệu
+[2026-06-10 12:08:30] PARSE OK: e52bb3fc81b9a626 → 4 loại nhiên liệu
+[2026-06-10 12:08:31] PARSE OK: dd4881330cce28e3 → 4 loại nhiên liệu
+[2026-06-10 12:08:31] PARSE OK: 2a1501798dd51761 → 4 loại nhiên liệu
+[2026-06-10 12:08:32] PARSE OK: b24b70c1085fb515 → 4 loại nhiên liệu
+[2026-06-10 12:08:33] PARSE OK: 5246fa97457bcb70 → 4 loại nhiên liệu
+[2026-06-10 12:08:34] PARSE OK: 218325b47d08220a → 4 loại nhiên liệu
+[2026-06-10 12:08:34] PARSE OK: 511bd198a7514607 → 4 loại nhiên liệu
+[2026-06-10 12:08:35] PARSE OK: d2bccd5ca4e11d24 → 4 loại nhiên liệu
+[2026-06-10 12:08:36] PARSE OK: b6a5234b1125cb33 → 4 loại nhiên liệu
+[2026-06-10 12:08:36] PARSE OK: 2196557009c194a0 → 4 loại nhiên liệu
+[2026-06-10 12:08:37] PARSE OK: 30e240e2a457f143 → 4 loại nhiên liệu
+[2026-06-10 12:08:38] PARSE OK: 06bd3142210deae9 → 4 loại nhiên liệu
+[2026-06-10 12:08:38] PARSE OK: f7af1a1867c6a7cd → 4 loại nhiên liệu
+[2026-06-10 12:08:39] PARSE OK: 480538d6506f8b0e → 4 loại nhiên liệu
+[2026-06-10 12:08:40] PARSE OK: 945757bbd05ecc2f → 4 loại nhiên liệu
+[2026-06-10 12:08:41] PARSE OK: d1a4c5a312499c97 → 4 loại nhiên liệu
+[2026-06-10 12:08:41] PARSE OK: 246edd7078b758a3 → 4 loại nhiên liệu
+[2026-06-10 12:08:42] PARSE OK: 2b0db8a727377890 → 4 loại nhiên liệu
+[2026-06-10 12:08:43] PARSE OK: 8ee7aaa1a9b516d5 → 4 loại nhiên liệu
+[2026-06-10 12:08:44] PARSE OK: b2185f4d39bb3e80 → 4 loại nhiên liệu
+[2026-06-10 12:08:44] PARSE OK: 43277a15a463ab8b → 4 loại nhiên liệu
+[2026-06-10 12:08:45] PARSE OK: ed822e601211d1a5 → 4 loại nhiên liệu
+[2026-06-10 12:08:46] PARSE OK: 8cd59e4a8eb484d6 → 4 loại nhiên liệu
+[2026-06-10 12:08:46] PARSE OK: 142d9dbbc40b7b10 → 4 loại nhiên liệu
+[2026-06-10 12:08:47] PARSE OK: fda83b07610d6d7a → 4 loại nhiên liệu
+[2026-06-10 12:08:48] PARSE OK: a8c0b5fd50c036e2 → 4 loại nhiên liệu
+[2026-06-10 12:08:49] PARSE OK: 7b0afe1983af5eae → 4 loại nhiên liệu
+[2026-06-10 12:08:49] PARSE OK: 357ddc491db7319f → 4 loại nhiên liệu
+[2026-06-10 12:08:50] PARSE OK: 1361570c641851c0 → 4 loại nhiên liệu
+[2026-06-10 12:08:51] PARSE OK: c03572423c97770a → 4 loại nhiên liệu
+[2026-06-10 12:08:52] PARSE OK: 27771f9191d04f48 → 4 loại nhiên liệu
+[2026-06-10 12:08:52] PARSE OK: b45983cc9ab1fbde → 4 loại nhiên liệu
+[2026-06-10 12:08:53] PARSE OK: c94e335cd2749250 → 4 loại nhiên liệu
+[2026-06-10 12:08:54] PARSE OK: 8661319bed8ee03f → 4 loại nhiên liệu
+[2026-06-10 12:08:54] PARSE OK: 7544bf287dcba3eb → 4 loại nhiên liệu
+[2026-06-10 12:08:55] PARSE OK: a0c8df806dfbead2 → 4 loại nhiên liệu
+[2026-06-10 12:08:56] PARSE OK: 9f73ec62433dbbd1 → 4 loại nhiên liệu
+[2026-06-10 12:08:56] PARSE OK: be5be5091e9c6938 → 4 loại nhiên liệu
+[2026-06-10 12:08:57] PARSE OK: 49efd5c44d15cf3a → 4 loại nhiên liệu
+[2026-06-10 12:08:58] PARSE OK: 10ad0848e0137c45 → 4 loại nhiên liệu
+[2026-06-10 12:08:59] PARSE OK: ed0322bf76c0f8c7 → 4 loại nhiên liệu
+[2026-06-10 12:08:59] PARSE OK: 40765525cb7249f3 → 4 loại nhiên liệu
+[2026-06-10 12:09:00] PARSE OK: 495ad626e2357be6 → 4 loại nhiên liệu
+[2026-06-10 12:09:01] PARSE OK: 8e438261ab8ba721 → 4 loại nhiên liệu
+[2026-06-10 12:09:01] PARSE OK: ba1999135130c2f7 → 3 loại nhiên liệu
+[2026-06-10 12:09:02] PARSE OK: 7b5d1e885986634b → 4 loại nhiên liệu
+[2026-06-10 12:09:03] PARSE OK: 1c2b8cdeea92e049 → 4 loại nhiên liệu
+[2026-06-10 12:09:04] PARSE OK: 6d08ab2941258dc4 → 4 loại nhiên liệu
+[2026-06-10 12:09:04] PARSE OK: 07ee38d725b8d5b3 → 3 loại nhiên liệu
+[2026-06-10 12:09:05] PARSE OK: ab44c7f939abc832 → 3 loại nhiên liệu
+[2026-06-10 12:09:06] PARSE OK: 91e2b6fc28a24cd0 → 4 loại nhiên liệu
+[2026-06-10 12:09:06] PARSE OK: 3cc3281e00e1f740 → 4 loại nhiên liệu
+[2026-06-10 12:09:07] PARSE OK: 6bd96d345c95198d → 3 loại nhiên liệu
+[2026-06-10 12:09:08] PARSE OK: 7509c8d23c4692d4 → 4 loại nhiên liệu
+[2026-06-10 12:09:08] PARSE OK: 309c486d77f4e113 → 4 loại nhiên liệu
+[2026-06-10 12:09:09] PARSE OK: 0aadece0dfde5c6c → 4 loại nhiên liệu
+[2026-06-10 12:09:10] PARSE OK: 55e2726618f71a73 → 4 loại nhiên liệu
+[2026-06-10 12:09:11] PARSE OK: f58ac09cd7c09323 → 4 loại nhiên liệu
+[2026-06-10 12:09:11] PARSE OK: 10930402cc504c28 → 4 loại nhiên liệu
+[2026-06-10 12:09:12] PARSE OK: 194ebffe91342525 → 4 loại nhiên liệu
+[2026-06-10 12:09:13] PARSE OK: ffe7857cdb3d744e → 4 loại nhiên liệu
+[2026-06-10 12:09:14] PARSE OK: 7dde25b3be4c963d → 4 loại nhiên liệu
+[2026-06-10 12:09:14] PARSE OK: f5341afafd87415c → 4 loại nhiên liệu
+[2026-06-10 12:09:15] PARSE OK: 82c9378e78d2a187 → 4 loại nhiên liệu
+[2026-06-10 12:09:16] PARSE OK: 5220c6dff4aaca33 → 4 loại nhiên liệu
+[2026-06-10 12:09:16] PARSE OK: 84317f90fa0b02e2 → 4 loại nhiên liệu
+[2026-06-10 12:09:17] PARSE OK: c69e778b4c04b065 → 4 loại nhiên liệu
+[2026-06-10 12:09:18] PARSE OK: 236e6ac37c0ba8b2 → 4 loại nhiên liệu
+[2026-06-10 12:09:19] PARSE OK: 7c1d00521c3e88b1 → 4 loại nhiên liệu
+[2026-06-10 12:09:19] PARSE OK: 2c07ff6be9ca9534 → 4 loại nhiên liệu
+[2026-06-10 12:09:20] PARSE OK: e7cdde7fc9b4e0f2 → 4 loại nhiên liệu
+[2026-06-10 12:09:21] PARSE OK: 072465adfb554761 → 4 loại nhiên liệu
+[2026-06-10 12:09:22] PARSE OK: 454489abd5c080db → 4 loại nhiên liệu
+[2026-06-10 12:09:22] PARSE OK: 72b4b296d7c8b304 → 4 loại nhiên liệu
+[2026-06-10 12:09:23] PARSE OK: 3559d236b812dfcd → 4 loại nhiên liệu
+[2026-06-10 12:09:24] PARSE OK: b41e561195c91720 → 4 loại nhiên liệu
+[2026-06-10 12:09:25] PARSE OK: ea44ca29da438dc5 → 4 loại nhiên liệu
+[2026-06-10 12:09:25] PARSE OK: 2a7b98f03827a3f9 → 4 loại nhiên liệu
+[2026-06-10 12:09:26] PARSE OK: 25f909e5f880c572 → 4 loại nhiên liệu
+[2026-06-10 12:09:27] PARSE OK: fbc438476304231f → 4 loại nhiên liệu
+[2026-06-10 12:09:28] PARSE OK: ca09ee3139976bf4 → 4 loại nhiên liệu
+[2026-06-10 12:09:28] PARSE OK: e2aba3cc77fe2c0b → 4 loại nhiên liệu
+[2026-06-10 12:09:29] PARSE OK: 6bfaa9d6a3da55a6 → 3 loại nhiên liệu
+[2026-06-10 12:09:30] PARSE OK: c25ab0c229997983 → 4 loại nhiên liệu
+[2026-06-10 12:09:31] PARSE OK: 8339c3bca900ecab → 4 loại nhiên liệu
+[2026-06-10 12:09:31] PARSE OK: 8f97d11bbb23826a → 4 loại nhiên liệu
+[2026-06-10 12:09:32] PARSE OK: 365d82a975376d25 → 4 loại nhiên liệu
+[2026-06-10 12:09:33] PARSE OK: 35db264c4642bb9e → 4 loại nhiên liệu
+[2026-06-10 12:09:33] PARSE OK: 29dcb757af4fa90f → 4 loại nhiên liệu
+[2026-06-10 12:09:34] PARSE OK: 688f3c7f5e7ef362 → 4 loại nhiên liệu
+[2026-06-10 12:09:35] PARSE OK: c83af9a9e8d6368e → 4 loại nhiên liệu
+[2026-06-10 12:09:36] PARSE OK: b57be55ed50a7b2c → 4 loại nhiên liệu
+[2026-06-10 12:09:36] PARSE OK: 6aee6bec61580895 → 4 loại nhiên liệu
+[2026-06-10 12:09:37] PARSE OK: e18cdc1abe7b60dc → 4 loại nhiên liệu
+[2026-06-10 12:09:38] PARSE OK: 24ce5fea41900cbf → 4 loại nhiên liệu
+[2026-06-10 12:09:39] PARSE OK: 9d4951184c929caf → 4 loại nhiên liệu
+[2026-06-10 12:09:40] PARSE OK: 4f8755ac70d1cc16 → 4 loại nhiên liệu
+[2026-06-10 12:09:41] PARSE OK: c61d5c8c24339ad2 → 4 loại nhiên liệu
+[2026-06-10 12:09:41] PARSE OK: cb16aa11db345903 → 4 loại nhiên liệu
+[2026-06-10 12:09:42] PARSE OK: f173edbf2138e07d → 4 loại nhiên liệu
+[2026-06-10 12:09:43] PARSE OK: 829fa806e93dbd70 → 4 loại nhiên liệu
+[2026-06-10 12:09:43] PARSE OK: e70f640024cf67ce → 4 loại nhiên liệu
+[2026-06-10 12:09:44] PARSE OK: cee021c4579d5e4a → 4 loại nhiên liệu
+[2026-06-10 12:09:45] PARSE OK: 430f840047d50443 → 4 loại nhiên liệu
+[2026-06-10 12:09:45] PARSE OK: 876e2e22ae5f248c → 4 loại nhiên liệu
+[2026-06-10 12:09:46] PARSE OK: ae971a9d39adbd1f → 4 loại nhiên liệu
+[2026-06-10 12:09:47] PARSE OK: 6682f906b4a0dcd5 → 4 loại nhiên liệu
+[2026-06-10 12:09:48] PARSE OK: 18fd98acec910b27 → 4 loại nhiên liệu
+[2026-06-10 12:09:48] PARSE OK: 7fcff5dcfc597358 → 4 loại nhiên liệu
+[2026-06-10 12:09:49] PARSE OK: 73458464de839e57 → 4 loại nhiên liệu
+[2026-06-10 12:09:50] PARSE OK: faeed766841e4adc → 4 loại nhiên liệu
+[2026-06-10 12:09:51] PARSE OK: 241f520f9c5417e7 → 4 loại nhiên liệu
+[2026-06-10 12:09:52] PARSE OK: a2f74c16dad4b8ca → 4 loại nhiên liệu
+[2026-06-10 12:09:52] PARSE OK: efa63f1d509ca02b → 4 loại nhiên liệu
+[2026-06-10 12:09:53] PARSE OK: 6d82313dfa138df8 → 4 loại nhiên liệu
+[2026-06-10 12:09:54] PARSE OK: 11604de3a2ad1ce1 → 4 loại nhiên liệu
+[2026-06-10 12:09:55] PARSE OK: 3325e571e7852ab4 → 4 loại nhiên liệu
+[2026-06-10 12:09:55] PARSE OK: dd7fafda9226ae04 → 4 loại nhiên liệu
+[2026-06-10 12:09:56] PARSE OK: a50595cef638fbee → 4 loại nhiên liệu
+[2026-06-10 12:09:57] PARSE OK: 3c16e424176c8982 → 4 loại nhiên liệu
+[2026-06-10 12:09:58] PARSE OK: dc91d5d9d0f26857 → 4 loại nhiên liệu
+[2026-06-10 12:09:59] PARSE OK: f8b0738a648ab4d7 → 4 loại nhiên liệu
+[2026-06-10 12:09:59] PARSE OK: edf2a9015c2c96a8 → 4 loại nhiên liệu
+[2026-06-10 12:10:00] PARSE OK: d4f6c8d61f4d9488 → 4 loại nhiên liệu
+[2026-06-10 12:10:01] PARSE OK: e58ce2ef9c5d27cb → 4 loại nhiên liệu
+[2026-06-10 12:10:01] PARSE OK: f817be78e4864682 → 4 loại nhiên liệu
+[2026-06-10 12:10:02] PARSE OK: 8241d4ccf57ab80e → 3 loại nhiên liệu
+[2026-06-10 12:10:03] PARSE OK: a09caf85934748c5 → 3 loại nhiên liệu
+[2026-06-10 12:10:04] PARSE OK: 8f55b6d9603a7f06 → 3 loại nhiên liệu
+[2026-06-10 12:10:04] PARSE OK: d0fc1fad74c0ec84 → 3 loại nhiên liệu
+[2026-06-10 12:10:05] PARSE OK: 39a48dad2dab689d → 3 loại nhiên liệu
+[2026-06-10 12:10:06] PARSE OK: 69d1a04749be4380 → 3 loại nhiên liệu
+[2026-06-10 12:10:07] PARSE OK: 9fa3709404908860 → 3 loại nhiên liệu
+[2026-06-10 12:10:08] PARSE OK: 2b52886eadb9dca5 → 3 loại nhiên liệu
+[2026-06-10 12:10:09] PARSE OK: 9cd2e0b9585039d2 → 2 loại nhiên liệu
+[2026-06-10 12:10:10] PARSE OK: 1b7b42dfeb1bf5b2 → 3 loại nhiên liệu
+[2026-06-10 12:10:11] PARSE OK: cbd39d9a47faf7e8 → 3 loại nhiên liệu
+[2026-06-10 12:10:12] PARSE OK: 06ef0e45eb8c031e → 3 loại nhiên liệu
+[2026-06-10 12:10:12] PARSE OK: 13cda7bd83363d57 → 3 loại nhiên liệu
+[2026-06-10 12:10:13] PARSE OK: fc9a8f5275bf873e → 3 loại nhiên liệu
+[2026-06-10 12:10:14] PARSE OK: 921bf03d65b06677 → 3 loại nhiên liệu
+[2026-06-10 12:10:15] PARSE OK: ad10f0c3e079515d → 3 loại nhiên liệu
+[2026-06-10 12:10:15] PARSE OK: abeb75d673ddddac → 3 loại nhiên liệu
+[2026-06-10 12:10:16] PARSE OK: d62f1a583aa23a5b → 3 loại nhiên liệu
+[2026-06-10 12:10:17] PARSE OK: 5934bf2a1035cdc7 → 3 loại nhiên liệu
+[2026-06-10 12:10:17] PARSE OK: f5219a31aa1949c2 → 3 loại nhiên liệu
+[2026-06-10 12:10:18] PARSE OK: 4d4e4a8f66f25fce → 3 loại nhiên liệu
+[2026-06-10 12:10:19] PARSE OK: 85349108d29236f7 → 3 loại nhiên liệu
+[2026-06-10 12:10:20] PARSE OK: 4e4b62a32987ec4b → 3 loại nhiên liệu
+[2026-06-10 12:10:21] PARSE OK: 82e96d5203929456 → 3 loại nhiên liệu
+[2026-06-10 12:10:21] PARSE OK: 2ac158a8f2190332 → 3 loại nhiên liệu
+[2026-06-10 12:10:22] PARSE OK: 3c95d2596010ad83 → 3 loại nhiên liệu
+[2026-06-10 12:10:23] PARSE OK: 38ab771683aaf50d → 3 loại nhiên liệu
+[2026-06-10 12:10:24] PARSE OK: 5ef734b737dd9f4f → 3 loại nhiên liệu
+[2026-06-10 12:10:25] PARSE OK: e383f4ffaf96735f → 3 loại nhiên liệu
+[2026-06-10 12:10:25] PARSE OK: 97034205aef0f0c1 → 3 loại nhiên liệu
+[2026-06-10 12:10:26] PARSE OK: 45309d7cfc9a5004 → 3 loại nhiên liệu
+[2026-06-10 12:10:27] PARSE OK: 04cea6b6d02defc0 → 3 loại nhiên liệu
+[2026-06-10 12:10:28] PARSE OK: 9321eff5f86a1156 → 3 loại nhiên liệu
+[2026-06-10 12:10:29] PARSE OK: 11703c12f7f2fdf2 → 3 loại nhiên liệu
+[2026-06-10 12:10:29] PARSE OK: f2842f6b70c01089 → 3 loại nhiên liệu
+[2026-06-10 12:10:30] PARSE OK: f7f67b120da503b0 → 3 loại nhiên liệu
+[2026-06-10 12:10:31] PARSE OK: b87aa645d2da7592 → 3 loại nhiên liệu
+[2026-06-10 12:10:32] PARSE OK: dcedccbb836a181d → 3 loại nhiên liệu
+[2026-06-10 12:10:33] PARSE OK: 92caeff422765db6 → 3 loại nhiên liệu
+[2026-06-10 12:10:34] PARSE OK: eaf10a8893233a5d → 3 loại nhiên liệu
+[2026-06-10 12:10:34] PARSE OK: c33b524e883b30cb → 3 loại nhiên liệu
+[2026-06-10 12:10:35] PARSE OK: 5044e65200c475e0 → 3 loại nhiên liệu
+[2026-06-10 12:10:36] PARSE OK: 21c47683914e48ed → 3 loại nhiên liệu
+[2026-06-10 12:10:37] PARSE OK: 4c5892781f11fc11 → 3 loại nhiên liệu
+[2026-06-10 12:10:38] PARSE OK: 7fd1d11450e12050 → 3 loại nhiên liệu
+[2026-06-10 12:10:38] PARSE OK: 3777d3d847913d8c → 3 loại nhiên liệu
+[2026-06-10 12:10:39] PARSE OK: 892cdb71625801c7 → 3 loại nhiên liệu
+[2026-06-10 12:10:40] PARSE OK: c0efd073e9c1cf0c → 3 loại nhiên liệu
+[2026-06-10 12:10:41] PARSE OK: 75455e0d1869053f → 3 loại nhiên liệu
+[2026-06-10 12:10:42] PARSE OK: 0639a24cc3b411ce → 3 loại nhiên liệu
+[2026-06-10 12:10:43] PARSE OK: afc43f742ddb23b6 → 3 loại nhiên liệu
+[2026-06-10 12:10:44] PARSE OK: 7ba600c88011c5a5 → 3 loại nhiên liệu
+[2026-06-10 12:10:45] PARSE OK: ca0772f1d74cb8b9 → 3 loại nhiên liệu
+[2026-06-10 12:10:45] PARSE OK: 475337f8c0bc548c → 3 loại nhiên liệu
+[2026-06-10 12:10:46] PARSE OK: 615d30de58e0fcf9 → 3 loại nhiên liệu
+[2026-06-10 12:10:47] PARSE OK: 100643d3a805afca → 3 loại nhiên liệu
+[2026-06-10 12:10:48] PARSE OK: 638679d424b061af → 3 loại nhiên liệu
+[2026-06-10 12:10:49] PARSE OK: b6073fb7d8e78279 → 3 loại nhiên liệu
+[2026-06-10 12:10:50] PARSE OK: 578cf12162c1c8bd → 3 loại nhiên liệu
+[2026-06-10 12:10:50] PARSE OK: 36f481eb050e7497 → 3 loại nhiên liệu
+[2026-06-10 12:10:51] PARSE OK: ba50a690b521477d → 3 loại nhiên liệu
+[2026-06-10 12:10:52] PARSE OK: b4948270d58ccb03 → 3 loại nhiên liệu
+[2026-06-10 12:10:53] PARSE OK: 5b1069fe7d45cf2e → 3 loại nhiên liệu
+[2026-06-10 12:10:54] PARSE OK: 190e3feb92dc1642 → 3 loại nhiên liệu
+[2026-06-10 12:10:55] PARSE OK: a6b99affb3cd6b41 → 3 loại nhiên liệu
+[2026-06-10 12:10:56] PARSE OK: 8083c9b669acdcfa → 2 loại nhiên liệu
+[2026-06-10 12:10:57] PARSE OK: d20bdb55ecd98680 → 2 loại nhiên liệu
+[2026-06-10 12:10:57] PARSE OK: 9d0d2960f13ebeb9 → 2 loại nhiên liệu
+[2026-06-10 12:10:58] PARSE OK: c00cf4a2cafe9e73 → 2 loại nhiên liệu
+[2026-06-10 12:10:59] PARSE OK: 07d83c3f7537314d → 2 loại nhiên liệu
+[2026-06-10 12:11:00] PARSE OK: 952eed87cd7fad84 → 2 loại nhiên liệu
+[2026-06-10 12:11:00] PARSE OK: 3f0047b49ca74031 → 2 loại nhiên liệu
+[2026-06-10 12:11:01] PARSE DONE: ok=279, no_table=0, error=0 | total rows=1022
+[2026-06-10 13:22:08] DISCOVERY: start
+[2026-06-10 13:22:08] DISCOVERY: cập nhật - tối đa 3 trang
+[2026-06-10 13:22:08] DISCOVERY: existing URLs = 321
+[2026-06-10 13:27:52] DISCOVERY: start
+[2026-06-10 13:27:52] DISCOVERY: cập nhật - tối đa 3 trang
+[2026-06-10 13:27:52] DISCOVERY: existing URLs = 321
+[2026-06-10 13:27:54] DISCOVERY: page=1 | https://thuvienphapluat.vn/page/tim-van-ban.aspx?keyword=%C4%91i%E1%BB%81u+h%C3%A0nh&area=0&type=3&status=0&lan=1&org=0&signer=0&match=True&sort=1&bdate=20%2F04%2F1946&edate=21%2F04%2F2026&page=1
+[2026-06-10 13:28:00] PAGE_TITLE=Chờ một chút...
+[2026-06-10 13:28:00] BODY_PREVIEW=thuvienphapluat.vn | Thực hiện xác minh bảo mật | Trang web này sử dụng dịch vụ bảo mật để chống bot độc hại. Trang này hiển thị trong khi trang web xác minh bạn không phải là bot. | Ray ID: a096501bfdaa3da7 | Hiệu suất và Tính bảo mật của Cloudflare | Quyền riêng tư
+[2026-06-10 13:28:00] SAVED_SEARCH_HTML=C:\Users\Admin\vietnam-fuel-price-dataset\data\raw\search_pages\update_page_001.html
+[2026-06-10 13:28:00] PAGE_STATUS=blocked
+[2026-06-10 13:28:01] DISCOVERY: gặp captcha — đang chờ bạn giải trong Chrome...
+[2026-06-10 13:28:06] CAPTCHA WAIT 5s — status=blocked
+[2026-06-10 13:28:12] CAPTCHA WAIT 10s — status=blocked
+[2026-06-10 13:28:21] CAPTCHA WAIT 15s — status=blocked
+[2026-06-10 13:28:28] CAPTCHA WAIT 20s — status=ok
+[2026-06-10 13:28:28] DISCOVERY: captcha đã giải, tiếp tục...
+[2026-06-10 13:28:29] DISCOVERY: page 1 → 19 found, 19 đã có, 0 mới
+[2026-06-10 13:28:29] DISCOVERY: page 1 toàn URL cũ → dừng sớm
+[2026-06-10 13:28:31] DISCOVERY DONE: không có doc mới
+[2026-06-10 13:28:34] FETCH 200: https://thuvienphapluat.vn/cong-van/Thuong-mai/Cong-van-6495-BCT-TTTN-2025-dieu-hanh-kinh-doanh-xang-dau-670907.aspx
+[2026-06-10 13:28:34] FETCH RETRY OK: https://thuvienphapluat.vn/cong-van/Thuong-mai/Cong-van-6495-BCT-TTTN-2025-dieu-hanh-kinh-doanh-xang-dau-670907.aspx
+[2026-06-10 13:28:36] FETCH 200: https://thuvienphapluat.vn/cong-van/Tai-nguyen-Moi-truong/Cong-van-6269-BCT-TTTN-2025-dieu-hanh-kinh-doanh-xang-dau-670097.aspx
+[2026-06-10 13:28:36] FETCH RETRY OK: https://thuvienphapluat.vn/cong-van/Tai-nguyen-Moi-truong/Cong-van-6269-BCT-TTTN-2025-dieu-hanh-kinh-doanh-xang-dau-670097.aspx
+[2026-06-10 13:28:37] FETCH 200: https://thuvienphapluat.vn/cong-van/Thuong-mai/Cong-van-6042-BCT-TTTN-2025-dieu-hanh-kinh-doanh-xang-dau-669217.aspx
+[2026-06-10 13:28:37] FETCH RETRY OK: https://thuvienphapluat.vn/cong-van/Thuong-mai/Cong-van-6042-BCT-TTTN-2025-dieu-hanh-kinh-doanh-xang-dau-669217.aspx
+[2026-06-10 13:28:39] FETCH 200: https://thuvienphapluat.vn/cong-van/Thuong-mai/Cong-van-5891-BCT-TTTN-2025-dieu-hanh-kinh-doanh-xang-dau-668376.aspx
+[2026-06-10 13:28:39] FETCH RETRY OK: https://thuvienphapluat.vn/cong-van/Thuong-mai/Cong-van-5891-BCT-TTTN-2025-dieu-hanh-kinh-doanh-xang-dau-668376.aspx
+[2026-06-10 13:28:41] FETCH 200: https://thuvienphapluat.vn/cong-van/Thuong-mai/Cong-van-4904-BCT-TTTN-2025-dieu-hanh-kinh-doanh-xang-dau-663531.aspx
+[2026-06-10 13:28:41] FETCH RETRY OK: https://thuvienphapluat.vn/cong-van/Thuong-mai/Cong-van-4904-BCT-TTTN-2025-dieu-hanh-kinh-doanh-xang-dau-663531.aspx
+[2026-06-10 13:28:42] FETCH 200: https://thuvienphapluat.vn/cong-van/Thuong-mai/Cong-van-3462-BCT-TTTN-2025-dieu-hanh-kinh-doanh-xang-dau-656806.aspx
+[2026-06-10 13:28:42] FETCH RETRY OK: https://thuvienphapluat.vn/cong-van/Thuong-mai/Cong-van-3462-BCT-TTTN-2025-dieu-hanh-kinh-doanh-xang-dau-656806.aspx
+[2026-06-10 13:28:44] FETCH 200: https://thuvienphapluat.vn/cong-van/Thuong-mai/Cong-van-1791-BCT-TTTN-2025-dieu-hanh-kinh-doanh-xang-dau-647009.aspx
+[2026-06-10 13:28:44] FETCH RETRY OK: https://thuvienphapluat.vn/cong-van/Thuong-mai/Cong-van-1791-BCT-TTTN-2025-dieu-hanh-kinh-doanh-xang-dau-647009.aspx
+[2026-06-10 13:28:46] FETCH 200: https://thuvienphapluat.vn/cong-van/Thuong-mai/Cong-van-610-BCT-TTTN-2025-dieu-hanh-kinh-doanh-xang-dau-641484.aspx
+[2026-06-10 13:28:46] FETCH RETRY OK: https://thuvienphapluat.vn/cong-van/Thuong-mai/Cong-van-610-BCT-TTTN-2025-dieu-hanh-kinh-doanh-xang-dau-641484.aspx
+[2026-06-10 13:28:47] FETCH 200: https://thuvienphapluat.vn/cong-van/Thuong-mai/Cong-van-9214-BCT-TTTN-2024-dieu-hanh-kinh-doanh-xang-dau-631509.aspx
+[2026-06-10 13:28:47] FETCH RETRY OK: https://thuvienphapluat.vn/cong-van/Thuong-mai/Cong-van-9214-BCT-TTTN-2024-dieu-hanh-kinh-doanh-xang-dau-631509.aspx
+[2026-06-10 13:28:49] FETCH 200: https://thuvienphapluat.vn/cong-van/Thuong-mai/Cong-van-7558-BCT-TTTN-2024-dieu-hanh-kinh-doanh-xang-dau-625661.aspx
+[2026-06-10 13:28:49] FETCH RETRY OK: https://thuvienphapluat.vn/cong-van/Thuong-mai/Cong-van-7558-BCT-TTTN-2024-dieu-hanh-kinh-doanh-xang-dau-625661.aspx
+[2026-06-10 13:28:51] FETCH 200: https://thuvienphapluat.vn/cong-van/Thuong-mai/Cong-van-5345-BCT-TTTN-2024-dieu-hanh-kinh-doanh-xang-dau-618605.aspx
+[2026-06-10 13:28:51] FETCH RETRY OK: https://thuvienphapluat.vn/cong-van/Thuong-mai/Cong-van-5345-BCT-TTTN-2024-dieu-hanh-kinh-doanh-xang-dau-618605.aspx
+[2026-06-10 13:28:53] FETCH 200: https://thuvienphapluat.vn/cong-van/Thuong-mai/Cong-van-4280-BCT-TTTN-2024-quy-dinh-dieu-hanh-kinh-doanh-xang-dau-614903.aspx
+[2026-06-10 13:28:53] FETCH RETRY OK: https://thuvienphapluat.vn/cong-van/Thuong-mai/Cong-van-4280-BCT-TTTN-2024-quy-dinh-dieu-hanh-kinh-doanh-xang-dau-614903.aspx
+[2026-06-10 13:28:54] FETCH 200: https://thuvienphapluat.vn/cong-van/Thuong-mai/Cong-van-2846-BCT-TTTN-2024-dieu-hanh-kinh-doanh-xang-dau-608386.aspx
+[2026-06-10 13:28:54] FETCH RETRY OK: https://thuvienphapluat.vn/cong-van/Thuong-mai/Cong-van-2846-BCT-TTTN-2024-dieu-hanh-kinh-doanh-xang-dau-608386.aspx
+[2026-06-10 13:28:56] FETCH 200: https://thuvienphapluat.vn/cong-van/Thuong-mai/Cong-van-1081-BCT-TTTN-2024-dieu-hanh-kinh-doanh-xang-dau-599429.aspx
+[2026-06-10 13:28:56] FETCH RETRY OK: https://thuvienphapluat.vn/cong-van/Thuong-mai/Cong-van-1081-BCT-TTTN-2024-dieu-hanh-kinh-doanh-xang-dau-599429.aspx
+[2026-06-10 13:28:58] FETCH 200: https://thuvienphapluat.vn/cong-van/Thuong-mai/Cong-van-242-BCT-TTTN-2024-dieu-hanh-kinh-doanh-xang-dau-594919.aspx
+[2026-06-10 13:28:58] FETCH RETRY OK: https://thuvienphapluat.vn/cong-van/Thuong-mai/Cong-van-242-BCT-TTTN-2024-dieu-hanh-kinh-doanh-xang-dau-594919.aspx
+[2026-06-10 13:28:59] FETCH 200: https://thuvienphapluat.vn/cong-van/Thuong-mai/Cong-van-8035-BCT-TTTN-2023-dieu-hanh-kinh-doanh-xang-dau-586264.aspx
+[2026-06-10 13:28:59] FETCH RETRY OK: https://thuvienphapluat.vn/cong-van/Thuong-mai/Cong-van-8035-BCT-TTTN-2023-dieu-hanh-kinh-doanh-xang-dau-586264.aspx
+[2026-06-10 13:29:01] FETCH 200: https://thuvienphapluat.vn/cong-van/Thuong-mai/Cong-van-5345-BCT-TTTN-2023-dieu-hanh-kinh-doanh-xang-dau-575532.aspx
+[2026-06-10 13:29:01] FETCH RETRY OK: https://thuvienphapluat.vn/cong-van/Thuong-mai/Cong-van-5345-BCT-TTTN-2023-dieu-hanh-kinh-doanh-xang-dau-575532.aspx
+[2026-06-10 13:29:03] FETCH 200: https://thuvienphapluat.vn/cong-van/Thuong-mai/Cong-van-3380-BCT-TTTN-2023-dieu-hanh-kinh-doanh-xang-dau-568203.aspx
+[2026-06-10 13:29:03] FETCH RETRY OK: https://thuvienphapluat.vn/cong-van/Thuong-mai/Cong-van-3380-BCT-TTTN-2023-dieu-hanh-kinh-doanh-xang-dau-568203.aspx
+[2026-06-10 13:29:05] FETCH 200: https://thuvienphapluat.vn/cong-van/Thuong-mai/Cong-van-1325-BCT-TTTN-2023-dieu-hanh-kinh-doanh-xang-dau-559180.aspx
+[2026-06-10 13:29:05] FETCH RETRY OK: https://thuvienphapluat.vn/cong-van/Thuong-mai/Cong-van-1325-BCT-TTTN-2023-dieu-hanh-kinh-doanh-xang-dau-559180.aspx
+[2026-06-10 13:29:06] FETCH 200: https://thuvienphapluat.vn/cong-van/Thuong-mai/Cong-van-8243-BCT-TTTN-2022-dieu-hanh-kinh-doanh-xang-dau-546815.aspx
+[2026-06-10 13:29:06] FETCH RETRY OK: https://thuvienphapluat.vn/cong-van/Thuong-mai/Cong-van-8243-BCT-TTTN-2022-dieu-hanh-kinh-doanh-xang-dau-546815.aspx
+[2026-06-10 13:29:08] FETCH 200: https://thuvienphapluat.vn/cong-van/Thuong-mai/Cong-van-6253-BCT-TTTN-2022-dieu-hanh-kinh-doanh-xang-dau-531921.aspx
+[2026-06-10 13:29:08] FETCH RETRY OK: https://thuvienphapluat.vn/cong-van/Thuong-mai/Cong-van-6253-BCT-TTTN-2022-dieu-hanh-kinh-doanh-xang-dau-531921.aspx
+[2026-06-10 13:29:10] FETCH 200: https://thuvienphapluat.vn/cong-van/Thuong-mai/Cong-van-4750-BCT-TTTN-2022-dieu-hanh-kinh-doanh-xang-dau-525613.aspx
+[2026-06-10 13:29:10] FETCH RETRY OK: https://thuvienphapluat.vn/cong-van/Thuong-mai/Cong-van-4750-BCT-TTTN-2022-dieu-hanh-kinh-doanh-xang-dau-525613.aspx
+[2026-06-10 13:29:11] FETCH 200: https://thuvienphapluat.vn/cong-van/Thuong-mai/Cong-van-3011-BCT-TTTN-2022-dieu-hanh-kinh-doanh-xang-dau-515381.aspx
+[2026-06-10 13:29:11] FETCH RETRY OK: https://thuvienphapluat.vn/cong-van/Thuong-mai/Cong-van-3011-BCT-TTTN-2022-dieu-hanh-kinh-doanh-xang-dau-515381.aspx
+[2026-06-10 13:29:13] FETCH 200: https://thuvienphapluat.vn/cong-van/Thuong-mai/Cong-van-1674-BCT-TTTN-2022-dieu-hanh-kinh-doanh-xang-dau-508669.aspx
+[2026-06-10 13:29:13] FETCH RETRY OK: https://thuvienphapluat.vn/cong-van/Thuong-mai/Cong-van-1674-BCT-TTTN-2022-dieu-hanh-kinh-doanh-xang-dau-508669.aspx
+[2026-06-10 13:29:15] FETCH 200: https://thuvienphapluat.vn/cong-van/Thuong-mai/Cong-van-162-BCT-TTTN-2022-dieu-hanh-kinh-doanh-xang-dau-500175.aspx
+[2026-06-10 13:29:15] FETCH RETRY OK: https://thuvienphapluat.vn/cong-van/Thuong-mai/Cong-van-162-BCT-TTTN-2022-dieu-hanh-kinh-doanh-xang-dau-500175.aspx
+[2026-06-10 13:29:17] FETCH 200: https://thuvienphapluat.vn/cong-van/Thuong-mai/Cong-van-6295-BCT-TTTN-2021-dieu-hanh-kinh-doanh-xang-dau-490756.aspx
+[2026-06-10 13:29:17] FETCH RETRY OK: https://thuvienphapluat.vn/cong-van/Thuong-mai/Cong-van-6295-BCT-TTTN-2021-dieu-hanh-kinh-doanh-xang-dau-490756.aspx
+[2026-06-10 13:29:18] FETCH 200: https://thuvienphapluat.vn/cong-van/Thuong-mai/Cong-van-3753-BCT-TTTN-2021-dieu-hanh-kinh-doanh-xang-dau-479188.aspx
+[2026-06-10 13:29:18] FETCH RETRY OK: https://thuvienphapluat.vn/cong-van/Thuong-mai/Cong-van-3753-BCT-TTTN-2021-dieu-hanh-kinh-doanh-xang-dau-479188.aspx
+[2026-06-10 13:29:20] FETCH 200: https://thuvienphapluat.vn/cong-van/Thuong-mai/Cong-van-2055-BCT-TTTN-2021-dieu-hanh-kinh-doanh-xang-dau-470560.aspx
+[2026-06-10 13:29:20] FETCH RETRY OK: https://thuvienphapluat.vn/cong-van/Thuong-mai/Cong-van-2055-BCT-TTTN-2021-dieu-hanh-kinh-doanh-xang-dau-470560.aspx
+[2026-06-10 13:29:22] FETCH 200: https://thuvienphapluat.vn/cong-van/Thuong-mai/Cong-van-5919-BCT-TTTN-2020-dieu-hanh-kinh-doanh-xang-dau-449870.aspx
+[2026-06-10 13:29:22] FETCH RETRY OK: https://thuvienphapluat.vn/cong-van/Thuong-mai/Cong-van-5919-BCT-TTTN-2020-dieu-hanh-kinh-doanh-xang-dau-449870.aspx
+[2026-06-10 13:29:23] FETCH 200: https://thuvienphapluat.vn/cong-van/Tai-chinh-nha-nuoc/Cong-van-3821-BCT-TTTN-2020-dieu-hanh-kinh-doanh-xang-dau-443754.aspx
+[2026-06-10 13:29:23] FETCH RETRY OK: https://thuvienphapluat.vn/cong-van/Tai-chinh-nha-nuoc/Cong-van-3821-BCT-TTTN-2020-dieu-hanh-kinh-doanh-xang-dau-443754.aspx
+[2026-06-10 13:29:25] FETCH 200: https://thuvienphapluat.vn/cong-van/Thuong-mai/Cong-van-944-BCT-TTTN-2020-dieu-hanh-kinh-doanh-xang-dau-435342.aspx
+[2026-06-10 13:29:25] FETCH RETRY OK: https://thuvienphapluat.vn/cong-van/Thuong-mai/Cong-van-944-BCT-TTTN-2020-dieu-hanh-kinh-doanh-xang-dau-435342.aspx
+[2026-06-10 13:29:27] FETCH 200: https://thuvienphapluat.vn/cong-van/Thuong-mai/Cong-van-7785-BCT-TTTN-2019-kinh-doanh-xang-dau-426252.aspx
+[2026-06-10 13:29:27] FETCH RETRY OK: https://thuvienphapluat.vn/cong-van/Thuong-mai/Cong-van-7785-BCT-TTTN-2019-kinh-doanh-xang-dau-426252.aspx
+[2026-06-10 13:29:28] FETCH 200: https://thuvienphapluat.vn/cong-van/Thuong-mai/Cong-van-3466-BCT-TTTN-2019-dieu-hanh-kinh-doanh-xang-dau-414220.aspx
+[2026-06-10 13:29:28] FETCH RETRY OK: https://thuvienphapluat.vn/cong-van/Thuong-mai/Cong-van-3466-BCT-TTTN-2019-dieu-hanh-kinh-doanh-xang-dau-414220.aspx
+[2026-06-10 13:29:30] FETCH 200: https://thuvienphapluat.vn/cong-van/Thuong-mai/Cong-van-5778-BCT-TTTN-2018-dieu-hanh-kinh-doanh-xang-dau-388226.aspx
+[2026-06-10 13:29:30] FETCH RETRY OK: https://thuvienphapluat.vn/cong-van/Thuong-mai/Cong-van-5778-BCT-TTTN-2018-dieu-hanh-kinh-doanh-xang-dau-388226.aspx
+[2026-06-10 13:29:32] FETCH 200: https://thuvienphapluat.vn/cong-van/Thuong-mai/Cong-van-1073-BCT-TTTN-2018-dieu-hanh-kinh-doanh-xang-dau-374438.aspx
+[2026-06-10 13:29:32] FETCH RETRY OK: https://thuvienphapluat.vn/cong-van/Thuong-mai/Cong-van-1073-BCT-TTTN-2018-dieu-hanh-kinh-doanh-xang-dau-374438.aspx
+[2026-06-10 13:29:34] FETCH 200: https://thuvienphapluat.vn/cong-van/Thuong-mai/Cong-van-9759-BCT-TTTN-2017-dieu-hanh-kinh-doanh-xang-dau-364831.aspx
+[2026-06-10 13:29:34] FETCH RETRY OK: https://thuvienphapluat.vn/cong-van/Thuong-mai/Cong-van-9759-BCT-TTTN-2017-dieu-hanh-kinh-doanh-xang-dau-364831.aspx
+[2026-06-10 13:29:35] FETCH 200: https://thuvienphapluat.vn/cong-van/Thuong-mai/Quyet-dinh-5977-QD-BCT-2017-dieu-hanh-kinh-doanh-xang-dau-354025.aspx
+[2026-06-10 13:29:35] FETCH RETRY OK: https://thuvienphapluat.vn/cong-van/Thuong-mai/Quyet-dinh-5977-QD-BCT-2017-dieu-hanh-kinh-doanh-xang-dau-354025.aspx
+[2026-06-10 13:29:37] FETCH 200: https://thuvienphapluat.vn/cong-van/Thuong-mai/Cong-van-1775-BCT-TTTN-dieu-hanh-kinh-doanh-xang-dau-2017-341514.aspx
+[2026-06-10 13:29:37] FETCH RETRY OK: https://thuvienphapluat.vn/cong-van/Thuong-mai/Cong-van-1775-BCT-TTTN-dieu-hanh-kinh-doanh-xang-dau-2017-341514.aspx
+[2026-06-10 13:29:39] FETCH 200: https://thuvienphapluat.vn/cong-van/Thuong-mai/Cong-van-11674-BCT-TTTN-dieu-hanh-kinh-doanh-xang-dau-2016-332859.aspx
+[2026-06-10 13:29:39] FETCH RETRY OK: https://thuvienphapluat.vn/cong-van/Thuong-mai/Cong-van-11674-BCT-TTTN-dieu-hanh-kinh-doanh-xang-dau-2016-332859.aspx
+[2026-06-10 13:29:40] FETCH 200: https://thuvienphapluat.vn/cong-van/Thuong-mai/Cong-van-7716-BCT-TTTN-dieu-hanh-kinh-doanh-xang-dau-2016-319967.aspx
+[2026-06-10 13:29:41] FETCH RETRY OK: https://thuvienphapluat.vn/cong-van/Thuong-mai/Cong-van-7716-BCT-TTTN-dieu-hanh-kinh-doanh-xang-dau-2016-319967.aspx
+[2026-06-10 13:29:42] FETCH 200: https://thuvienphapluat.vn/cong-van/Thuong-mai/Cong-van-3407-BCT-TTTN-dieu-hanh-kinh-doanh-xang-dau-2016-309114.aspx
+[2026-06-10 13:29:42] FETCH RETRY OK: https://thuvienphapluat.vn/cong-van/Thuong-mai/Cong-van-3407-BCT-TTTN-dieu-hanh-kinh-doanh-xang-dau-2016-309114.aspx
+[2026-06-10 13:29:44] FETCH 200: https://thuvienphapluat.vn/cong-van/Thuong-mai/Cong-van-12-BCT-TTTN-dieu-hanh-kinh-doanh-xang-dau-2015-299509.aspx
+[2026-06-10 13:29:44] FETCH RETRY OK: https://thuvienphapluat.vn/cong-van/Thuong-mai/Cong-van-12-BCT-TTTN-dieu-hanh-kinh-doanh-xang-dau-2015-299509.aspx
+[2026-06-10 13:29:45] FETCH DONE: new=0, retry_ok=42, blocked=0, invalid=0, failed=0, skipped=279
+[2026-06-10 13:29:47] PARSE: 42 docs cần parse, 279 đã xong
+[2026-06-10 13:29:49] PARSE OK: 60652000ef0073df → 4 loại nhiên liệu
+[2026-06-10 13:29:51] PARSE OK: e3098fe9b030e746 → 4 loại nhiên liệu
+[2026-06-10 13:29:52] PARSE OK: de63768e8edbc9f8 → 4 loại nhiên liệu
+[2026-06-10 13:29:54] PARSE OK: bb8d0255d7f62a48 → 4 loại nhiên liệu
+[2026-06-10 13:29:56] PARSE OK: 5adae1dced8dbd55 → 4 loại nhiên liệu
+[2026-06-10 13:29:58] PARSE OK: df9f7f768eccc0e8 → 4 loại nhiên liệu
+[2026-06-10 13:30:00] PARSE OK: eb31d26847c93fa4 → 4 loại nhiên liệu
+[2026-06-10 13:30:02] PARSE OK: 2d366215e386724a → 4 loại nhiên liệu
+[2026-06-10 13:30:04] PARSE OK: 4a6e7231324c9b50 → 4 loại nhiên liệu
+[2026-06-10 13:30:05] PARSE OK: a949aafc486ea103 → 4 loại nhiên liệu
+[2026-06-10 13:30:07] PARSE OK: 79fbdd1395119f99 → 4 loại nhiên liệu
+[2026-06-10 13:30:09] PARSE OK: 64c3790a34fc2a62 → 4 loại nhiên liệu
+[2026-06-10 13:30:11] PARSE OK: cc3fff00c14c4ea3 → 4 loại nhiên liệu
+[2026-06-10 13:30:13] PARSE OK: 4a63c46cb353090e → 4 loại nhiên liệu
+[2026-06-10 13:30:15] PARSE OK: 399dde7edb5b24cc → 4 loại nhiên liệu
+[2026-06-10 13:30:17] PARSE OK: 70f8b30d2d17ee47 → 4 loại nhiên liệu
+[2026-06-10 13:30:18] PARSE OK: d8065578e176113a → 4 loại nhiên liệu
+[2026-06-10 13:30:20] PARSE OK: f485f0044c0f9507 → 4 loại nhiên liệu
+[2026-06-10 13:30:22] PARSE OK: d6c77bd41b73a3e8 → 4 loại nhiên liệu
+[2026-06-10 13:30:24] PARSE OK: c79d7ba7b8ef4266 → 4 loại nhiên liệu
+[2026-06-10 13:30:26] PARSE OK: 8de10302b40389f8 → 4 loại nhiên liệu
+[2026-06-10 13:30:28] PARSE OK: 4a4221308ef4c877 → 4 loại nhiên liệu
+[2026-06-10 13:30:30] PARSE OK: 3169e41d1ed980b2 → 4 loại nhiên liệu
+[2026-06-10 13:30:31] PARSE OK: 2e42fd3b491f83e0 → 4 loại nhiên liệu
+[2026-06-10 13:30:33] PARSE OK: 6cfdc092eeb3dca7 → 4 loại nhiên liệu
+[2026-06-10 13:30:35] PARSE OK: 55827b3e640c7586 → 4 loại nhiên liệu
+[2026-06-10 13:30:37] PARSE OK: 602027f03890d215 → 4 loại nhiên liệu
+[2026-06-10 13:30:38] PARSE OK: b4f05a5c0d3ec1d3 → 4 loại nhiên liệu
+[2026-06-10 13:30:41] PARSE OK: 1c865e2d217bd1b6 → 4 loại nhiên liệu
+[2026-06-10 13:30:43] PARSE OK: b4beea8a5a7fb153 → 4 loại nhiên liệu
+[2026-06-10 13:30:45] PARSE OK: 18870d6525265bcd → 4 loại nhiên liệu
+[2026-06-10 13:30:46] PARSE OK: ec9559f4c9dd8148 → 4 loại nhiên liệu
+[2026-06-10 13:30:49] PARSE OK: e9b36e4731fda049 → 4 loại nhiên liệu
+[2026-06-10 13:30:51] PARSE OK: a3a874b8151a1a95 → 4 loại nhiên liệu
+[2026-06-10 13:30:52] PARSE OK: 8491d5bcbd9f1fb3 → 3 loại nhiên liệu
+[2026-06-10 13:30:54] PARSE OK: 418464c82c79b946 → 4 loại nhiên liệu
+[2026-06-10 13:30:56] PARSE OK: 7e32b00fbdb27950 → 4 loại nhiên liệu
+[2026-06-10 13:30:58] PARSE OK: ccb4d4d41d57ecf3 → 4 loại nhiên liệu
+[2026-06-10 13:30:59] PARSE OK: 7fe1b50a718d1aec → 4 loại nhiên liệu
+[2026-06-10 13:31:01] PARSE OK: 6cf73ba1d9166a85 → 4 loại nhiên liệu
+[2026-06-10 13:31:02] PARSE OK: c9c43fcbf0b31abd → 4 loại nhiên liệu
+[2026-06-10 13:31:04] PARSE OK: 8b2ae5609d823b9f → 4 loại nhiên liệu
+[2026-06-10 13:31:04] PARSE DONE: ok=42, no_table=0, error=0 | total rows=1189
+[2026-06-10 13:36:03] DISCOVERY: start
+[2026-06-10 13:36:04] DISCOVERY: cập nhật - tối đa 3 trang
+[2026-06-10 13:36:04] DISCOVERY: existing URLs = 321
+[2026-06-10 13:36:04] DISCOVERY: page=1 | https://thuvienphapluat.vn/page/tim-van-ban.aspx?keyword=%C4%91i%E1%BB%81u+h%C3%A0nh&area=0&type=3&status=0&lan=1&org=0&signer=0&match=True&sort=1&bdate=20%2F04%2F1946&edate=21%2F04%2F2026&page=1
+[2026-06-10 13:36:10] PAGE_TITLE=Chờ một chút...
+[2026-06-10 13:36:10] BODY_PREVIEW=thuvienphapluat.vn | Thực hiện xác minh bảo mật | Trang web này sử dụng dịch vụ bảo mật để chống bot độc hại. Trang này hiển thị trong khi trang web xác minh bạn không phải là bot. | Ray ID: a0965c13ebcbfdeb | Hiệu suất và Tính bảo mật của Cloudflare | Quyền riêng tư
+[2026-06-10 13:36:10] SAVED_SEARCH_HTML=C:\Users\Admin\vietnam-fuel-price-dataset\data\raw\search_pages\update_page_001.html
+[2026-06-10 13:36:10] PAGE_STATUS=blocked
+[2026-06-10 13:36:10] DISCOVERY: gặp captcha — đang chờ bạn giải trong Chrome...
+[2026-06-10 13:36:18] CAPTCHA WAIT 5s — status=ok
+[2026-06-10 13:36:18] DISCOVERY: captcha đã giải, tiếp tục...
+[2026-06-10 13:36:19] DISCOVERY: page 1 → 19 found, 19 đã có, 0 mới
+[2026-06-10 13:36:19] DISCOVERY: page 1 toàn URL cũ → dừng sớm
+[2026-06-10 13:36:21] DISCOVERY DONE: không có doc mới
+[2026-06-10 13:36:26] FETCH DONE: new=0, retry_ok=0, blocked=0, invalid=0, failed=0, skipped=321
+[2026-06-10 13:36:30] PARSE v24 COMPAT: start
+[2026-06-10 13:36:30] PARSE v24 COMPAT: 0 docs cần parse, 321 doc_id đã có trong output
+[2026-06-10 13:36:30] PARSE v24 COMPAT DONE: không có gì mới
+[2026-06-10 13:38:12] DISCOVERY: start
+[2026-06-10 13:38:12] DISCOVERY: cập nhật - tối đa 3 trang
+[2026-06-10 13:38:12] DISCOVERY: existing URLs = 321
+[2026-06-10 13:38:12] DISCOVERY: page=1 | https://thuvienphapluat.vn/page/tim-van-ban.aspx?keyword=%C4%91i%E1%BB%81u+h%C3%A0nh&area=0&type=3&status=0&lan=1&org=0&signer=0&match=True&sort=1&bdate=20%2F04%2F1946&edate=21%2F04%2F2026&page=1
+[2026-06-10 13:38:25] PAGE_TITLE=Tra cứu Công Văn điều hành
+[2026-06-10 13:38:25] BODY_PREVIEW=THƯ VIỆN PHÁP LUẬT | Trang Thông tin điện tử tổng hợp | ...loại rủi ro pháp lý, nắm cơ hội làm giàu... | Các gói dịch vụ | Chính sách Pháp luật mới | Pháp Luật | Liên hệ |  Danh mục    | Sơ đồ WebSite   Giới thiệu  Hướng dẫn sử dụng   Rss   Homepage    Widget | Tra cứu Công Văn điều hành | Từ khoá: Số Hiệu, Tiêu đề hoặ
+[2026-06-10 13:38:25] SAVED_SEARCH_HTML=C:\Users\Admin\vietnam-fuel-price-dataset\data\raw\search_pages\update_page_001.html
+[2026-06-10 13:38:25] PAGE_STATUS=ok
+[2026-06-10 13:38:25] DISCOVERY: page 1 → 19 found, 19 đã có, 0 mới
+[2026-06-10 13:38:25] DISCOVERY: page 1 toàn URL cũ → dừng sớm
+[2026-06-10 13:38:27] DISCOVERY DONE: không có doc mới
+[2026-06-10 13:38:29] FETCH DONE: new=0, retry_ok=0, blocked=0, invalid=0, failed=0, skipped=321
+[2026-06-10 13:38:31] PARSE v24 COMPAT: start
+[2026-06-10 13:38:31] PARSE v24 COMPAT: 321 docs cần parse, 0 doc_id đã có trong output
+[2026-06-10 13:38:31] PARSE v24 COMPAT OK: a728f566cad561f8 → 4 rows
+[2026-06-10 13:38:31] PARSE v24 COMPAT OK: 90c5209410d3139e → 4 rows
+[2026-06-10 13:38:32] PARSE v24 COMPAT OK: 7090572f802d5049 → 4 rows
+[2026-06-10 13:38:32] PARSE v24 COMPAT OK: 896e0a3f91d55e45 → 4 rows
+[2026-06-10 13:38:32] PARSE v24 COMPAT OK: 5038f03bf8420274 → 4 rows
+[2026-06-10 13:38:32] PARSE v24 COMPAT OK: cd334f1809ca70cb → 4 rows
+[2026-06-10 13:38:33] PARSE v24 COMPAT OK: f7f6307c25f1bd85 → 4 rows
+[2026-06-10 13:38:33] PARSE v24 COMPAT OK: bf9489af04f85357 → 4 rows
+[2026-06-10 13:38:33] PARSE v24 COMPAT OK: 4140a899a2cfcefd → 4 rows
+[2026-06-10 13:38:33] PARSE v24 COMPAT OK: 6809720dbebd9a21 → 4 rows
+[2026-06-10 13:38:34] PARSE v24 COMPAT OK: 48cea29f6701993d → 4 rows
+[2026-06-10 13:38:34] PARSE v24 COMPAT OK: a874d5794c21461f → 4 rows
+[2026-06-10 13:38:34] PARSE v24 COMPAT OK: 7ceb92855164dccc → 4 rows
+[2026-06-10 13:38:34] PARSE v24 COMPAT OK: 84b6eb81c9fa9228 → 4 rows
+[2026-06-10 13:38:35] PARSE v24 COMPAT OK: cd990b5d4e95df0e → 4 rows
+[2026-06-10 13:38:35] PARSE v24 COMPAT OK: 52ca854df47d6ca2 → 4 rows
+[2026-06-10 13:38:35] PARSE v24 COMPAT OK: cf4043b38fa0a377 → 4 rows
+[2026-06-10 13:38:36] PARSE v24 COMPAT OK: 4276ec4c940451d6 → 4 rows
+[2026-06-10 13:38:36] PARSE v24 COMPAT OK: ce79c97a8561cafd → 4 rows
+[2026-06-10 13:38:36] PARSE v24 COMPAT OK: 0ef954a9d915b261 → 4 rows
+[2026-06-10 13:38:37] PARSE v24 COMPAT OK: 1e7fd6acc777908a → 4 rows
+[2026-06-10 13:38:37] PARSE v24 COMPAT OK: 6852d53097037f5c → 4 rows
+[2026-06-10 13:38:37] PARSE v24 COMPAT OK: 4e73ea2c475175c5 → 4 rows
+[2026-06-10 13:38:37] PARSE v24 COMPAT OK: 224bfe067c3e56e0 → 4 rows
+[2026-06-10 13:38:38] PARSE v24 COMPAT OK: 3d3cc7b8749f5d7a → 4 rows
+[2026-06-10 13:38:38] PARSE v24 COMPAT OK: 6d0d915b3c40f1f8 → 4 rows
+[2026-06-10 13:38:38] PARSE v24 COMPAT OK: 29581e6f1ebe579f → 4 rows
+[2026-06-10 13:38:39] PARSE v24 COMPAT OK: 890d8b16af9704e1 → 4 rows
+[2026-06-10 13:38:39] PARSE v24 COMPAT OK: 5e038ebe3805ab01 → 4 rows
+[2026-06-10 13:38:39] PARSE v24 COMPAT OK: d71ca098e4ef19e1 → 4 rows
+[2026-06-10 13:38:40] PARSE v24 COMPAT OK: 60652000ef0073df → 4 rows
+[2026-06-10 13:38:40] PARSE v24 COMPAT OK: e3098fe9b030e746 → 4 rows
+[2026-06-10 13:38:40] PARSE v24 COMPAT OK: de63768e8edbc9f8 → 4 rows
+[2026-06-10 13:38:41] PARSE v24 COMPAT OK: bb8d0255d7f62a48 → 4 rows
+[2026-06-10 13:38:41] PARSE v24 COMPAT OK: b9f957592c086c67 → 4 rows
+[2026-06-10 13:38:41] PARSE v24 COMPAT OK: 04952f180c7b5bda → 4 rows
+[2026-06-10 13:38:41] PARSE v24 COMPAT OK: 8a053775d8966ef2 → 4 rows
+[2026-06-10 13:38:42] PARSE v24 COMPAT OK: a321ba1451d946ec → 4 rows
+[2026-06-10 13:38:42] PARSE v24 COMPAT OK: 5adae1dced8dbd55 → 4 rows
+[2026-06-10 13:38:42] PARSE v24 COMPAT OK: 5a5265c83adc2602 → 4 rows
+[2026-06-10 13:38:43] PARSE v24 COMPAT OK: 678175aa5523860d → 4 rows
+[2026-06-10 13:38:43] PARSE v24 COMPAT OK: 2e4508090c994436 → 4 rows
+[2026-06-10 13:38:43] PARSE v24 COMPAT OK: 70311e056d5ffa15 → 4 rows
+[2026-06-10 13:38:44] PARSE v24 COMPAT OK: b8c6b7893827fa99 → 4 rows
+[2026-06-10 13:38:44] PARSE v24 COMPAT OK: 11ae3aa3d8e13813 → 4 rows
+[2026-06-10 13:38:44] PARSE v24 COMPAT OK: df9f7f768eccc0e8 → 4 rows
+[2026-06-10 13:38:45] PARSE v24 COMPAT OK: 0761832a6f3871c9 → 4 rows
+[2026-06-10 13:38:45] PARSE v24 COMPAT OK: f066ef7a129e75dc → 4 rows
+[2026-06-10 13:38:45] PARSE v24 COMPAT OK: a08f9af844846763 → 4 rows
+[2026-06-10 13:38:45] PARSE v24 COMPAT OK: 8156ff3d02aa4d36 → 4 rows
+[2026-06-10 13:38:46] PARSE v24 COMPAT OK: 93c4a91c0e45e9e5 → 4 rows
+[2026-06-10 13:38:46] PARSE v24 COMPAT OK: a69c1d3cf11a89b5 → 4 rows
+[2026-06-10 13:38:46] PARSE v24 COMPAT OK: 90ae92eed8a97b76 → 4 rows
+[2026-06-10 13:38:46] PARSE v24 COMPAT OK: eb31d26847c93fa4 → 4 rows
+[2026-06-10 13:38:47] PARSE v24 COMPAT OK: 71e3d0f6592fbb77 → 4 rows
+[2026-06-10 13:38:47] PARSE v24 COMPAT OK: fa1eb7d694a84828 → 4 rows
+[2026-06-10 13:38:47] PARSE v24 COMPAT OK: a7b7db6999ddbac1 → 4 rows
+[2026-06-10 13:38:48] PARSE v24 COMPAT OK: 36402681df05eb59 → 4 rows
+[2026-06-10 13:38:48] PARSE v24 COMPAT OK: cde62b286d7ce87e → 4 rows
+[2026-06-10 13:38:48] PARSE v24 COMPAT OK: 42773ce2c7acca4f → 4 rows
+[2026-06-10 13:38:49] PARSE v24 COMPAT OK: 2d366215e386724a → 4 rows
+[2026-06-10 13:38:49] PARSE v24 COMPAT OK: cb6106ec65b0f039 → 4 rows
+[2026-06-10 13:38:49] PARSE v24 COMPAT OK: 60dbc03761dfa22f → 4 rows
+[2026-06-10 13:38:50] PARSE v24 COMPAT OK: 55200b1cf534bc1c → 4 rows
+[2026-06-10 13:38:50] PARSE v24 COMPAT OK: e1d4cd5b265ecce4 → 4 rows
+[2026-06-10 13:38:50] PARSE v24 COMPAT OK: 5eef8331bfa2de62 → 4 rows
+[2026-06-10 13:38:51] PARSE v24 COMPAT OK: 2f790c55b31bad00 → 4 rows
+[2026-06-10 13:38:51] PARSE v24 COMPAT OK: 4a6e7231324c9b50 → 4 rows
+[2026-06-10 13:38:51] PARSE v24 COMPAT OK: 81ea7e10e17bf4ea → 4 rows
+[2026-06-10 13:38:52] PARSE v24 COMPAT OK: 67424b4bd17e4957 → 4 rows
+[2026-06-10 13:38:52] PARSE v24 COMPAT OK: 8e8a2ffeca0c5f07 → 4 rows
+[2026-06-10 13:38:52] PARSE v24 COMPAT OK: 271060ee867d8926 → 4 rows
+[2026-06-10 13:38:52] PARSE v24 COMPAT OK: 9faf39ef788ff56d → 4 rows
+[2026-06-10 13:38:53] PARSE v24 COMPAT OK: 141e9343abe20eb9 → 4 rows
+[2026-06-10 13:38:53] PARSE v24 COMPAT OK: a949aafc486ea103 → 4 rows
+[2026-06-10 13:38:53] PARSE v24 COMPAT OK: 7d3ebb22e94f1f40 → 4 rows
+[2026-06-10 13:38:54] PARSE v24 COMPAT OK: b7d05ef645a67f44 → 4 rows
+[2026-06-10 13:38:54] PARSE v24 COMPAT OK: 92226e6a7b03760b → 4 rows
+[2026-06-10 13:38:54] PARSE v24 COMPAT OK: 8daeccf4f36f9455 → 4 rows
+[2026-06-10 13:38:55] PARSE v24 COMPAT OK: b4ee19c7165c12a0 → 4 rows
+[2026-06-10 13:38:55] PARSE v24 COMPAT OK: 1cb3b772784ecebf → 4 rows
+[2026-06-10 13:38:56] PARSE v24 COMPAT OK: 79fbdd1395119f99 → 4 rows
+[2026-06-10 13:38:56] PARSE v24 COMPAT OK: d55e0016dee18732 → 4 rows
+[2026-06-10 13:38:56] PARSE v24 COMPAT OK: 84d07ef8a882969f → 4 rows
+[2026-06-10 13:38:56] PARSE v24 COMPAT OK: 7959ab958153b98b → 4 rows
+[2026-06-10 13:38:56] PARSE v24 COMPAT OK: f3815863f9e37aba → 4 rows
+[2026-06-10 13:38:57] PARSE v24 COMPAT OK: 64c3790a34fc2a62 → 4 rows
+[2026-06-10 13:38:57] PARSE v24 COMPAT OK: c1c8c98c8d46237b → 4 rows
+[2026-06-10 13:38:57] PARSE v24 COMPAT OK: 5d23a701a057a309 → 4 rows
+[2026-06-10 13:38:58] PARSE v24 COMPAT OK: 49be5b6eff8c914b → 4 rows
+[2026-06-10 13:38:58] PARSE v24 COMPAT OK: bc836d5191d7ce51 → 4 rows
+[2026-06-10 13:38:58] PARSE v24 COMPAT OK: 58ef356368c56074 → 4 rows
+[2026-06-10 13:38:58] PARSE v24 COMPAT OK: a29a516f2e050fb7 → 4 rows
+[2026-06-10 13:38:59] PARSE v24 COMPAT OK: cc3fff00c14c4ea3 → 4 rows
+[2026-06-10 13:38:59] PARSE v24 COMPAT OK: e52bb3fc81b9a626 → 4 rows
+[2026-06-10 13:38:59] PARSE v24 COMPAT OK: dd4881330cce28e3 → 4 rows
+[2026-06-10 13:39:00] PARSE v24 COMPAT OK: 2a1501798dd51761 → 4 rows
+[2026-06-10 13:39:00] PARSE v24 COMPAT OK: b24b70c1085fb515 → 4 rows
+[2026-06-10 13:39:00] PARSE v24 COMPAT OK: 5246fa97457bcb70 → 4 rows
+[2026-06-10 13:39:01] PARSE v24 COMPAT OK: 218325b47d08220a → 4 rows
+[2026-06-10 13:39:01] PARSE v24 COMPAT OK: 511bd198a7514607 → 4 rows
+[2026-06-10 13:39:01] PARSE v24 COMPAT OK: d2bccd5ca4e11d24 → 4 rows
+[2026-06-10 13:39:01] PARSE v24 COMPAT OK: 4a63c46cb353090e → 4 rows
+[2026-06-10 13:39:02] PARSE v24 COMPAT OK: b6a5234b1125cb33 → 4 rows
+[2026-06-10 13:39:02] PARSE v24 COMPAT OK: 2196557009c194a0 → 4 rows
+[2026-06-10 13:39:02] PARSE v24 COMPAT OK: 30e240e2a457f143 → 4 rows
+[2026-06-10 13:39:02] PARSE v24 COMPAT OK: 06bd3142210deae9 → 4 rows
+[2026-06-10 13:39:03] PARSE v24 COMPAT OK: f7af1a1867c6a7cd → 4 rows
+[2026-06-10 13:39:03] PARSE v24 COMPAT OK: 399dde7edb5b24cc → 4 rows
+[2026-06-10 13:39:03] PARSE v24 COMPAT OK: 480538d6506f8b0e → 4 rows
+[2026-06-10 13:39:04] PARSE v24 COMPAT OK: 945757bbd05ecc2f → 4 rows
+[2026-06-10 13:39:04] PARSE v24 COMPAT OK: d1a4c5a312499c97 → 4 rows
+[2026-06-10 13:39:04] PARSE v24 COMPAT OK: 246edd7078b758a3 → 4 rows
+[2026-06-10 13:39:04] PARSE v24 COMPAT OK: 2b0db8a727377890 → 4 rows
+[2026-06-10 13:39:05] PARSE v24 COMPAT OK: 8ee7aaa1a9b516d5 → 4 rows
+[2026-06-10 13:39:05] PARSE v24 COMPAT OK: 70f8b30d2d17ee47 → 4 rows
+[2026-06-10 13:39:05] PARSE v24 COMPAT OK: b2185f4d39bb3e80 → 4 rows
+[2026-06-10 13:39:06] PARSE v24 COMPAT OK: 43277a15a463ab8b → 4 rows
+[2026-06-10 13:39:06] PARSE v24 COMPAT OK: ed822e601211d1a5 → 4 rows
+[2026-06-10 13:39:06] PARSE v24 COMPAT OK: 8cd59e4a8eb484d6 → 4 rows
+[2026-06-10 13:39:07] PARSE v24 COMPAT OK: 142d9dbbc40b7b10 → 4 rows
+[2026-06-10 13:39:07] PARSE v24 COMPAT OK: fda83b07610d6d7a → 4 rows
+[2026-06-10 13:39:07] PARSE v24 COMPAT OK: a8c0b5fd50c036e2 → 4 rows
+[2026-06-10 13:39:07] PARSE v24 COMPAT OK: d8065578e176113a → 4 rows
+[2026-06-10 13:39:08] PARSE v24 COMPAT OK: 7b0afe1983af5eae → 4 rows
+[2026-06-10 13:39:08] PARSE v24 COMPAT OK: 357ddc491db7319f → 4 rows
+[2026-06-10 13:39:08] PARSE v24 COMPAT OK: 1361570c641851c0 → 4 rows
+[2026-06-10 13:39:08] PARSE v24 COMPAT OK: c03572423c97770a → 4 rows
+[2026-06-10 13:39:09] PARSE v24 COMPAT OK: 27771f9191d04f48 → 4 rows
+[2026-06-10 13:39:09] PARSE v24 COMPAT OK: b45983cc9ab1fbde → 4 rows
+[2026-06-10 13:39:09] PARSE v24 COMPAT OK: f485f0044c0f9507 → 4 rows
+[2026-06-10 13:39:10] PARSE v24 COMPAT OK: c94e335cd2749250 → 4 rows
+[2026-06-10 13:39:10] PARSE v24 COMPAT OK: 8661319bed8ee03f → 4 rows
+[2026-06-10 13:39:10] PARSE v24 COMPAT OK: 7544bf287dcba3eb → 4 rows
+[2026-06-10 13:39:11] PARSE v24 COMPAT OK: a0c8df806dfbead2 → 4 rows
+[2026-06-10 13:39:11] PARSE v24 COMPAT OK: 9f73ec62433dbbd1 → 4 rows
+[2026-06-10 13:39:11] PARSE v24 COMPAT OK: be5be5091e9c6938 → 4 rows
+[2026-06-10 13:39:11] PARSE v24 COMPAT OK: 49efd5c44d15cf3a → 4 rows
+[2026-06-10 13:39:12] PARSE v24 COMPAT OK: d6c77bd41b73a3e8 → 4 rows
+[2026-06-10 13:39:12] PARSE v24 COMPAT OK: 10ad0848e0137c45 → 4 rows
+[2026-06-10 13:39:12] PARSE v24 COMPAT OK: ed0322bf76c0f8c7 → 4 rows
+[2026-06-10 13:39:13] PARSE v24 COMPAT OK: 40765525cb7249f3 → 4 rows
+[2026-06-10 13:39:13] PARSE v24 COMPAT OK: 495ad626e2357be6 → 4 rows
+[2026-06-10 13:39:14] PARSE v24 COMPAT OK: 8e438261ab8ba721 → 4 rows
+[2026-06-10 13:39:14] PARSE v24 COMPAT OK: c79d7ba7b8ef4266 → 4 rows
+[2026-06-10 13:39:14] PARSE v24 COMPAT OK: ba1999135130c2f7 → 4 rows
+[2026-06-10 13:39:15] PARSE v24 COMPAT OK: 7b5d1e885986634b → 4 rows
+[2026-06-10 13:39:15] PARSE v24 COMPAT OK: 1c2b8cdeea92e049 → 4 rows
+[2026-06-10 13:39:15] PARSE v24 COMPAT OK: 6d08ab2941258dc4 → 4 rows
+[2026-06-10 13:39:15] PARSE v24 COMPAT OK: 07ee38d725b8d5b3 → 4 rows
+[2026-06-10 13:39:16] PARSE v24 COMPAT OK: ab44c7f939abc832 → 4 rows
+[2026-06-10 13:39:16] PARSE v24 COMPAT OK: 8de10302b40389f8 → 4 rows
+[2026-06-10 13:39:16] PARSE v24 COMPAT OK: 91e2b6fc28a24cd0 → 4 rows
+[2026-06-10 13:39:17] PARSE v24 COMPAT OK: 3cc3281e00e1f740 → 4 rows
+[2026-06-10 13:39:17] PARSE v24 COMPAT OK: 6bd96d345c95198d → 4 rows
+[2026-06-10 13:39:17] PARSE v24 COMPAT OK: 7509c8d23c4692d4 → 4 rows
+[2026-06-10 13:39:17] PARSE v24 COMPAT OK: 309c486d77f4e113 → 4 rows
+[2026-06-10 13:39:18] PARSE v24 COMPAT OK: 4a4221308ef4c877 → 4 rows
+[2026-06-10 13:39:18] PARSE v24 COMPAT OK: 0aadece0dfde5c6c → 4 rows
+[2026-06-10 13:39:18] PARSE v24 COMPAT OK: 55e2726618f71a73 → 4 rows
+[2026-06-10 13:39:19] PARSE v24 COMPAT OK: f58ac09cd7c09323 → 4 rows
+[2026-06-10 13:39:19] PARSE v24 COMPAT OK: 10930402cc504c28 → 4 rows
+[2026-06-10 13:39:19] PARSE v24 COMPAT OK: 194ebffe91342525 → 4 rows
+[2026-06-10 13:39:20] PARSE v24 COMPAT OK: ffe7857cdb3d744e → 4 rows
+[2026-06-10 13:39:20] PARSE v24 COMPAT OK: 3169e41d1ed980b2 → 4 rows
+[2026-06-10 13:39:20] PARSE v24 COMPAT OK: 7dde25b3be4c963d → 4 rows
+[2026-06-10 13:39:21] PARSE v24 COMPAT OK: f5341afafd87415c → 4 rows
+[2026-06-10 13:39:21] PARSE v24 COMPAT OK: 82c9378e78d2a187 → 4 rows
+[2026-06-10 13:39:22] PARSE v24 COMPAT OK: 5220c6dff4aaca33 → 4 rows
+[2026-06-10 13:39:22] PARSE v24 COMPAT OK: 84317f90fa0b02e2 → 4 rows
+[2026-06-10 13:39:22] PARSE v24 COMPAT OK: 2e42fd3b491f83e0 → 4 rows
+[2026-06-10 13:39:22] PARSE v24 COMPAT OK: c69e778b4c04b065 → 4 rows
+[2026-06-10 13:39:23] PARSE v24 COMPAT OK: 236e6ac37c0ba8b2 → 4 rows
+[2026-06-10 13:39:23] PARSE v24 COMPAT OK: 7c1d00521c3e88b1 → 4 rows
+[2026-06-10 13:39:23] PARSE v24 COMPAT OK: 2c07ff6be9ca9534 → 4 rows
+[2026-06-10 13:39:24] PARSE v24 COMPAT OK: e7cdde7fc9b4e0f2 → 4 rows
+[2026-06-10 13:39:24] PARSE v24 COMPAT OK: 072465adfb554761 → 4 rows
+[2026-06-10 13:39:24] PARSE v24 COMPAT OK: 6cfdc092eeb3dca7 → 4 rows
+[2026-06-10 13:39:25] PARSE v24 COMPAT OK: 454489abd5c080db → 4 rows
+[2026-06-10 13:39:25] PARSE v24 COMPAT OK: 72b4b296d7c8b304 → 4 rows
+[2026-06-10 13:39:25] PARSE v24 COMPAT OK: 3559d236b812dfcd → 4 rows
+[2026-06-10 13:39:26] PARSE v24 COMPAT OK: b41e561195c91720 → 4 rows
+[2026-06-10 13:39:26] PARSE v24 COMPAT OK: ea44ca29da438dc5 → 4 rows
+[2026-06-10 13:39:26] PARSE v24 COMPAT OK: 55827b3e640c7586 → 4 rows
+[2026-06-10 13:39:27] PARSE v24 COMPAT OK: 2a7b98f03827a3f9 → 4 rows
+[2026-06-10 13:39:27] PARSE v24 COMPAT OK: 25f909e5f880c572 → 4 rows
+[2026-06-10 13:39:27] PARSE v24 COMPAT OK: fbc438476304231f → 4 rows
+[2026-06-10 13:39:27] PARSE v24 COMPAT OK: ca09ee3139976bf4 → 4 rows
+[2026-06-10 13:39:28] PARSE v24 COMPAT OK: e2aba3cc77fe2c0b → 4 rows
+[2026-06-10 13:39:28] PARSE v24 COMPAT OK: 6bfaa9d6a3da55a6 → 4 rows
+[2026-06-10 13:39:28] PARSE v24 COMPAT OK: 602027f03890d215 → 4 rows
+[2026-06-10 13:39:29] PARSE v24 COMPAT OK: c25ab0c229997983 → 4 rows
+[2026-06-10 13:39:29] PARSE v24 COMPAT OK: 8339c3bca900ecab → 4 rows
+[2026-06-10 13:39:29] PARSE v24 COMPAT OK: b4f05a5c0d3ec1d3 → 4 rows
+[2026-06-10 13:39:29] PARSE v24 COMPAT OK: 8f97d11bbb23826a → 4 rows
+[2026-06-10 13:39:30] PARSE v24 COMPAT OK: 365d82a975376d25 → 4 rows
+[2026-06-10 13:39:30] PARSE v24 COMPAT OK: 35db264c4642bb9e → 4 rows
+[2026-06-10 13:39:31] PARSE v24 COMPAT OK: 29dcb757af4fa90f → 4 rows
+[2026-06-10 13:39:31] PARSE v24 COMPAT OK: 688f3c7f5e7ef362 → 4 rows
+[2026-06-10 13:39:31] PARSE v24 COMPAT OK: c83af9a9e8d6368e → 4 rows
+[2026-06-10 13:39:32] PARSE v24 COMPAT OK: b57be55ed50a7b2c → 4 rows
+[2026-06-10 13:39:32] PARSE v24 COMPAT OK: 6aee6bec61580895 → 4 rows
+[2026-06-10 13:39:32] PARSE v24 COMPAT OK: 1c865e2d217bd1b6 → 4 rows
+[2026-06-10 13:39:32] PARSE v24 COMPAT OK: e18cdc1abe7b60dc → 4 rows
+[2026-06-10 13:39:33] PARSE v24 COMPAT OK: 24ce5fea41900cbf → 4 rows
+[2026-06-10 13:39:33] PARSE v24 COMPAT OK: 9d4951184c929caf → 4 rows
+[2026-06-10 13:39:33] PARSE v24 COMPAT OK: 4f8755ac70d1cc16 → 4 rows
+[2026-06-10 13:39:34] PARSE v24 COMPAT OK: b4beea8a5a7fb153 → 4 rows
+[2026-06-10 13:39:34] PARSE v24 COMPAT OK: c61d5c8c24339ad2 → 4 rows
+[2026-06-10 13:39:34] PARSE v24 COMPAT OK: cb16aa11db345903 → 4 rows
+[2026-06-10 13:39:34] PARSE v24 COMPAT OK: f173edbf2138e07d → 4 rows
+[2026-06-10 13:39:35] PARSE v24 COMPAT OK: 829fa806e93dbd70 → 4 rows
+[2026-06-10 13:39:35] PARSE v24 COMPAT OK: e70f640024cf67ce → 4 rows
+[2026-06-10 13:39:35] PARSE v24 COMPAT OK: 18870d6525265bcd → 4 rows
+[2026-06-10 13:39:35] PARSE v24 COMPAT OK: cee021c4579d5e4a → 4 rows
+[2026-06-10 13:39:36] PARSE v24 COMPAT OK: 430f840047d50443 → 4 rows
+[2026-06-10 13:39:36] PARSE v24 COMPAT OK: 876e2e22ae5f248c → 4 rows
+[2026-06-10 13:39:36] PARSE v24 COMPAT OK: ae971a9d39adbd1f → 4 rows
+[2026-06-10 13:39:37] PARSE v24 COMPAT OK: 6682f906b4a0dcd5 → 4 rows
+[2026-06-10 13:39:37] PARSE v24 COMPAT OK: 18fd98acec910b27 → 4 rows
+[2026-06-10 13:39:37] PARSE v24 COMPAT OK: ec9559f4c9dd8148 → 4 rows
+[2026-06-10 13:39:38] PARSE v24 COMPAT OK: 7fcff5dcfc597358 → 4 rows
+[2026-06-10 13:39:38] PARSE v24 COMPAT OK: 73458464de839e57 → 4 rows
+[2026-06-10 13:39:38] PARSE v24 COMPAT OK: faeed766841e4adc → 4 rows
+[2026-06-10 13:39:39] PARSE v24 COMPAT OK: 241f520f9c5417e7 → 4 rows
+[2026-06-10 13:39:39] PARSE v24 COMPAT OK: a2f74c16dad4b8ca → 4 rows
+[2026-06-10 13:39:40] PARSE v24 COMPAT OK: efa63f1d509ca02b → 4 rows
+[2026-06-10 13:39:40] PARSE v24 COMPAT OK: 6d82313dfa138df8 → 4 rows
+[2026-06-10 13:39:40] PARSE v24 COMPAT OK: e9b36e4731fda049 → 4 rows
+[2026-06-10 13:39:41] PARSE v24 COMPAT OK: 11604de3a2ad1ce1 → 4 rows
+[2026-06-10 13:39:41] PARSE v24 COMPAT OK: 3325e571e7852ab4 → 4 rows
+[2026-06-10 13:39:42] PARSE v24 COMPAT OK: dd7fafda9226ae04 → 4 rows
+[2026-06-10 13:39:42] PARSE v24 COMPAT OK: a50595cef638fbee → 4 rows
+[2026-06-10 13:39:43] PARSE v24 COMPAT OK: 3c16e424176c8982 → 4 rows
+[2026-06-10 13:39:43] PARSE v24 COMPAT OK: dc91d5d9d0f26857 → 4 rows
+[2026-06-10 13:39:43] PARSE v24 COMPAT OK: f8b0738a648ab4d7 → 4 rows
+[2026-06-10 13:39:44] PARSE v24 COMPAT OK: edf2a9015c2c96a8 → 4 rows
+[2026-06-10 13:39:44] PARSE v24 COMPAT OK: a3a874b8151a1a95 → 4 rows
+[2026-06-10 13:39:44] PARSE v24 COMPAT OK: d4f6c8d61f4d9488 → 4 rows
+[2026-06-10 13:39:45] PARSE v24 COMPAT OK: e58ce2ef9c5d27cb → 4 rows
+[2026-06-10 13:39:45] PARSE v24 COMPAT OK: f817be78e4864682 → 4 rows
+[2026-06-10 13:39:45] PARSE v24 COMPAT OK: 8241d4ccf57ab80e → 3 rows
+[2026-06-10 13:39:46] PARSE v24 COMPAT OK: a09caf85934748c5 → 3 rows
+[2026-06-10 13:39:46] PARSE v24 COMPAT OK: 8f55b6d9603a7f06 → 3 rows
+[2026-06-10 13:39:46] PARSE v24 COMPAT OK: 8491d5bcbd9f1fb3 → 3 rows
+[2026-06-10 13:39:47] PARSE v24 COMPAT OK: d0fc1fad74c0ec84 → 3 rows
+[2026-06-10 13:39:47] PARSE v24 COMPAT OK: 39a48dad2dab689d → 3 rows
+[2026-06-10 13:39:47] PARSE v24 COMPAT OK: 69d1a04749be4380 → 4 rows
+[2026-06-10 13:39:48] PARSE v24 COMPAT OK: 9fa3709404908860 → 4 rows
+[2026-06-10 13:39:48] PARSE v24 COMPAT OK: 2b52886eadb9dca5 → 4 rows
+[2026-06-10 13:39:49] PARSE v24 COMPAT OK: 9cd2e0b9585039d2 → 4 rows
+[2026-06-10 13:39:49] PARSE v24 COMPAT OK: 418464c82c79b946 → 4 rows
+[2026-06-10 13:39:49] PARSE v24 COMPAT OK: 1b7b42dfeb1bf5b2 → 4 rows
+[2026-06-10 13:39:50] PARSE v24 COMPAT OK: cbd39d9a47faf7e8 → 4 rows
+[2026-06-10 13:39:50] PARSE v24 COMPAT OK: 06ef0e45eb8c031e → 4 rows
+[2026-06-10 13:39:50] PARSE v24 COMPAT OK: 13cda7bd83363d57 → 4 rows
+[2026-06-10 13:39:51] PARSE v24 COMPAT OK: fc9a8f5275bf873e → 4 rows
+[2026-06-10 13:39:51] PARSE v24 COMPAT OK: 921bf03d65b06677 → 4 rows
+[2026-06-10 13:39:51] PARSE v24 COMPAT OK: 7e32b00fbdb27950 → 4 rows
+[2026-06-10 13:39:52] PARSE v24 COMPAT OK: ad10f0c3e079515d → 4 rows
+[2026-06-10 13:39:52] PARSE v24 COMPAT OK: abeb75d673ddddac → 4 rows
+[2026-06-10 13:39:52] PARSE v24 COMPAT OK: d62f1a583aa23a5b → 4 rows
+[2026-06-10 13:39:53] PARSE v24 COMPAT OK: 5934bf2a1035cdc7 → 4 rows
+[2026-06-10 13:39:53] PARSE v24 COMPAT OK: f5219a31aa1949c2 → 4 rows
+[2026-06-10 13:39:53] PARSE v24 COMPAT OK: 4d4e4a8f66f25fce → 4 rows
+[2026-06-10 13:39:54] PARSE v24 COMPAT OK: ccb4d4d41d57ecf3 → 4 rows
+[2026-06-10 13:39:54] PARSE v24 COMPAT OK: 85349108d29236f7 → 4 rows
+[2026-06-10 13:39:54] PARSE v24 COMPAT OK: 4e4b62a32987ec4b → 4 rows
+[2026-06-10 13:39:55] PARSE v24 COMPAT OK: 82e96d5203929456 → 4 rows
+[2026-06-10 13:39:55] PARSE v24 COMPAT OK: 2ac158a8f2190332 → 4 rows
+[2026-06-10 13:39:55] PARSE v24 COMPAT OK: 3c95d2596010ad83 → 4 rows
+[2026-06-10 13:39:56] PARSE v24 COMPAT OK: 7fe1b50a718d1aec → 4 rows
+[2026-06-10 13:39:56] PARSE v24 COMPAT OK: 38ab771683aaf50d → 4 rows
+[2026-06-10 13:39:56] PARSE v24 COMPAT OK: 5ef734b737dd9f4f → 4 rows
+[2026-06-10 13:39:56] PARSE v24 COMPAT OK: e383f4ffaf96735f → 4 rows
+[2026-06-10 13:39:57] PARSE v24 COMPAT OK: 97034205aef0f0c1 → 4 rows
+[2026-06-10 13:39:57] PARSE v24 COMPAT OK: 45309d7cfc9a5004 → 4 rows
+[2026-06-10 13:39:58] PARSE v24 COMPAT OK: 04cea6b6d02defc0 → 4 rows
+[2026-06-10 13:39:58] PARSE v24 COMPAT OK: 6cf73ba1d9166a85 → 4 rows
+[2026-06-10 13:39:58] PARSE v24 COMPAT OK: 9321eff5f86a1156 → 4 rows
+[2026-06-10 13:39:59] PARSE v24 COMPAT OK: 11703c12f7f2fdf2 → 4 rows
+[2026-06-10 13:39:59] PARSE v24 COMPAT OK: f2842f6b70c01089 → 4 rows
+[2026-06-10 13:39:59] PARSE v24 COMPAT OK: f7f67b120da503b0 → 4 rows
+[2026-06-10 13:40:00] PARSE v24 COMPAT OK: b87aa645d2da7592 → 4 rows
+[2026-06-10 13:40:00] PARSE v24 COMPAT OK: dcedccbb836a181d → 4 rows
+[2026-06-10 13:40:00] PARSE v24 COMPAT OK: 92caeff422765db6 → 4 rows
+[2026-06-10 13:40:01] PARSE v24 COMPAT OK: c9c43fcbf0b31abd → 4 rows
+[2026-06-10 13:40:01] PARSE v24 COMPAT OK: eaf10a8893233a5d → 4 rows
+[2026-06-10 13:40:01] PARSE v24 COMPAT OK: c33b524e883b30cb → 4 rows
+[2026-06-10 13:40:02] PARSE v24 COMPAT OK: 5044e65200c475e0 → 4 rows
+[2026-06-10 13:40:02] PARSE v24 COMPAT OK: 21c47683914e48ed → 4 rows
+[2026-06-10 13:40:02] PARSE v24 COMPAT OK: 4c5892781f11fc11 → 4 rows
+[2026-06-10 13:40:03] PARSE v24 COMPAT OK: 7fd1d11450e12050 → 4 rows
+[2026-06-10 13:40:03] PARSE v24 COMPAT OK: 8b2ae5609d823b9f → 4 rows
+[2026-06-10 13:40:03] PARSE v24 COMPAT OK: 3777d3d847913d8c → 4 rows
+[2026-06-10 13:40:04] PARSE v24 COMPAT OK: 892cdb71625801c7 → 4 rows
+[2026-06-10 13:40:04] PARSE v24 COMPAT OK: c0efd073e9c1cf0c → 4 rows
+[2026-06-10 13:40:04] PARSE v24 COMPAT OK: 75455e0d1869053f → 4 rows
+[2026-06-10 13:40:05] PARSE v24 COMPAT OK: 0639a24cc3b411ce → 4 rows
+[2026-06-10 13:40:05] PARSE v24 COMPAT OK: afc43f742ddb23b6 → 4 rows
+[2026-06-10 13:40:06] PARSE v24 COMPAT OK: 7ba600c88011c5a5 → 4 rows
+[2026-06-10 13:40:06] PARSE v24 COMPAT OK: ca0772f1d74cb8b9 → 4 rows
+[2026-06-10 13:40:06] PARSE v24 COMPAT OK: 475337f8c0bc548c → 4 rows
+[2026-06-10 13:40:07] PARSE v24 COMPAT OK: 615d30de58e0fcf9 → 4 rows
+[2026-06-10 13:40:07] PARSE v24 COMPAT OK: 100643d3a805afca → 4 rows
+[2026-06-10 13:40:08] PARSE v24 COMPAT OK: 638679d424b061af → 4 rows
+[2026-06-10 13:40:08] PARSE v24 COMPAT OK: b6073fb7d8e78279 → 4 rows
+[2026-06-10 13:40:08] PARSE v24 COMPAT OK: 578cf12162c1c8bd → 4 rows
+[2026-06-10 13:40:08] PARSE v24 COMPAT OK: 36f481eb050e7497 → 4 rows
+[2026-06-10 13:40:09] PARSE v24 COMPAT OK: ba50a690b521477d → 4 rows
+[2026-06-10 13:40:09] PARSE v24 COMPAT OK: b4948270d58ccb03 → 4 rows
+[2026-06-10 13:40:09] PARSE v24 COMPAT OK: 5b1069fe7d45cf2e → 4 rows
+[2026-06-10 13:40:10] PARSE v24 COMPAT OK: 190e3feb92dc1642 → 4 rows
+[2026-06-10 13:40:10] PARSE v24 COMPAT OK: a6b99affb3cd6b41 → 4 rows
+[2026-06-10 13:40:10] PARSE v24 COMPAT OK: 8083c9b669acdcfa → 4 rows
+[2026-06-10 13:40:10] PARSE v24 COMPAT OK: d20bdb55ecd98680 → 3 rows
+[2026-06-10 13:40:11] PARSE v24 COMPAT OK: 9d0d2960f13ebeb9 → 3 rows
+[2026-06-10 13:40:11] PARSE v24 COMPAT OK: c00cf4a2cafe9e73 → 3 rows
+[2026-06-10 13:40:11] PARSE v24 COMPAT OK: 07d83c3f7537314d → 3 rows
+[2026-06-10 13:40:12] PARSE v24 COMPAT OK: 952eed87cd7fad84 → 3 rows
+[2026-06-10 13:40:12] PARSE v24 COMPAT OK: 3f0047b49ca74031 → 3 rows
+[2026-06-10 13:40:12] PARSE v24 COMPAT DONE: new_rows=1272, total_rows=1272, ok_docs=303, partial_docs=18, no_table=0, error=0, missing_html=0
+[2026-06-10 13:40:12] PARSE v24 COMPAT METHOD: table_rows=1272, text_only=0
+[2026-06-10 13:40:12] PARSE v24 COMPAT OUTPUT: C:\Users\Admin\vietnam-fuel-price-dataset\data\interim\parsed_documents.csv
+[2026-06-10 13:58:28] DISCOVERY: start
+[2026-06-10 13:58:28] DISCOVERY: cập nhật - tối đa 3 trang
+[2026-06-10 13:58:28] DISCOVERY: existing URLs = 321
+[2026-06-10 13:58:28] DISCOVERY: page=1 | https://thuvienphapluat.vn/page/tim-van-ban.aspx?keyword=%C4%91i%E1%BB%81u+h%C3%A0nh&area=0&type=3&status=0&lan=1&org=0&signer=0&match=True&sort=1&bdate=20%2F04%2F1946&edate=21%2F04%2F2026&page=1
+[2026-06-10 13:58:37] PAGE_TITLE=Chờ một chút...
+[2026-06-10 13:58:37] BODY_PREVIEW=thuvienphapluat.vn | Thực hiện xác minh bảo mật | Trang web này sử dụng dịch vụ bảo mật để chống bot độc hại. Trang này hiển thị trong khi trang web xác minh bạn không phải là bot. | Ray ID: a0967ce2cb9ed3c6 | Hiệu suất và Tính bảo mật của Cloudflare | Quyền riêng tư
+[2026-06-10 13:58:37] SAVED_SEARCH_HTML=C:\Users\Admin\vietnam-fuel-price-dataset\data\raw\search_pages\update_page_001.html
+[2026-06-10 13:58:37] PAGE_STATUS=blocked
+[2026-06-10 13:58:37] DISCOVERY: gặp captcha — đang chờ bạn giải trong Chrome...
+[2026-06-10 13:58:42] CAPTCHA WAIT 5s — status=blocked
+[2026-06-10 13:58:49] CAPTCHA WAIT 10s — status=ok
+[2026-06-10 13:58:49] DISCOVERY: captcha đã giải, tiếp tục...
+[2026-06-10 13:58:49] DISCOVERY: page 1 → 19 found, 19 đã có, 0 mới
+[2026-06-10 13:58:49] DISCOVERY: page 1 toàn URL cũ → dừng sớm
+[2026-06-10 13:58:51] DISCOVERY DONE: không có doc mới
+[2026-06-10 13:58:54] FETCH DONE: new=0, retry_ok=0, blocked=0, invalid=0, failed=0, skipped=321
+[2026-06-10 13:58:56] PARSE v24 COMPAT: start
+[2026-06-10 13:58:56] PARSE v24 COMPAT: 0 docs cần parse, 321 doc_id đã có trong output
+[2026-06-10 13:58:56] PARSE v24 COMPAT DONE: không có gì mới
+[2026-06-10 14:04:55] DISCOVERY: start
+[2026-06-10 14:04:55] DISCOVERY: cập nhật - tối đa 3 trang
+[2026-06-10 14:04:55] DISCOVERY: existing URLs = 321
+[2026-06-10 14:04:55] DISCOVERY: page=1 | https://thuvienphapluat.vn/page/tim-van-ban.aspx?keyword=%C4%91i%E1%BB%81u+h%C3%A0nh&area=0&type=3&status=0&lan=1&org=0&signer=0&match=True&sort=1&bdate=20%2F04%2F1946&edate=21%2F04%2F2026&page=1
+[2026-06-10 14:05:02] PAGE_TITLE=Chờ một chút...
+[2026-06-10 14:05:02] BODY_PREVIEW=thuvienphapluat.vn | Thực hiện xác minh bảo mật | Trang web này sử dụng dịch vụ bảo mật để chống bot độc hại. Trang này hiển thị trong khi trang web xác minh bạn không phải là bot. | Ray ID: a09686573da040f7 | Hiệu suất và Tính bảo mật của Cloudflare | Quyền riêng tư
+[2026-06-10 14:05:02] SAVED_SEARCH_HTML=C:\Users\Admin\vietnam-fuel-price-dataset\data\raw\search_pages\update_page_001.html
+[2026-06-10 14:05:02] PAGE_STATUS=blocked
+[2026-06-10 14:05:02] DISCOVERY: gặp captcha — đang chờ bạn giải trong Chrome...
+[2026-06-10 14:05:11] CAPTCHA WAIT 5s — status=ok
+[2026-06-10 14:05:11] DISCOVERY: captcha đã giải, tiếp tục...
+[2026-06-10 14:05:11] DISCOVERY: page 1 → 19 found, 19 đã có, 0 mới
+[2026-06-10 14:05:11] DISCOVERY: page 1 toàn URL cũ → dừng sớm
+[2026-06-10 14:05:13] DISCOVERY DONE: không có doc mới
+[2026-06-10 14:05:15] FETCH DONE: new=0, retry_ok=0, blocked=0, invalid=0, failed=0, skipped=321
+[2026-06-10 14:05:17] PARSE v24 COMPAT: start
+[2026-06-10 14:05:17] PARSE v24 COMPAT: 0 docs cần parse, 321 doc_id đã có trong output
+[2026-06-10 14:05:17] PARSE v24 COMPAT DONE: không có gì mới
+[2026-06-10 14:05:17] VCB PURE PARSER: Khởi chạy bộ quét thô cô lập...
+[2026-06-10 14:06:34] VCB PURE PARSER DONE: docs_scanned=321, docs_after_date_filter=241, docs_with_vcb_table=235, docs_with_records=171, rows=1679
+[2026-06-10 14:06:34] VCB PURE PARSER OUTPUT: C:\Users\Admin\vietnam-fuel-price-dataset\data\interim\vcb_sell_rates_all.csv
